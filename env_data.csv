@@ -1,0 +1,1550 @@
+path,temperature,humidity,rainfall
+lab/train/Early_blight/004cbe60-8ff9-4965-92df-e86694d5e9ba___RS_Erly.B 8253.JPG,27.47,73.74,4.16
+lab/train/Early_blight/0114f7b3-7f56-4bef-aa47-7a82da142d4b___RS_Erly.B 7437.JPG,26.12,65.6,6.66
+lab/train/Early_blight/03b4571c-b1eb-4e2a-b372-307046913f50___RS_Erly.B 7548.JPG,29.51,79.81,6.97
+lab/train/Early_blight/03b7a13c-f5c0-44c4-beed-443841670e9a___RS_Erly.B 8225.JPG,24.55,69.66,2.14
+lab/train/Early_blight/0401adc0-0998-4d8e-90de-4eae8caf4248___RS_Erly.B 8446.JPG,25.85,64.42,5.6
+lab/train/Early_blight/055ae8d8-09e1-4b27-b385-9ff8a3e0eaae___RS_Erly.B 8247.JPG,24.28,60.89,3.51
+lab/train/Early_blight/074bc781-f586-46b0-bef5-0237e3bf5043___RS_Erly.B 8375.JPG,25.44,71.79,3.52
+lab/train/Early_blight/089243e5-f319-4ed2-b10c-603328ff4143___RS_Erly.B 9428.JPG,27.48,67.66,5.43
+lab/train/Early_blight/0abc57ec-7f3b-482a-8579-21f3b2fb780b___RS_Erly.B 7609.JPG,26.22,64.41,3.21
+lab/train/Early_blight/0bd357fe-1e54-4c65-979c-e894e0b8a3aa___RS_Erly.B 8328.JPG,28.46,71.19,7.32
+lab/train/Early_blight/0cd17aff-13d8-439a-ac08-dae1aea55edb___RS_Erly.B 7828.JPG,30.0,69.01,7.36
+lab/train/Early_blight/0db67be3-f733-4d15-b7d9-5d075b2cafc7___RS_Erly.B 6401.JPG,26.38,61.45,6.27
+lab/train/Early_blight/0efaac13-1988-48db-aec3-f31df3045b95___RS_Erly.B 8342.JPG,29.05,66.14,7.29
+lab/train/Early_blight/0f065614-a53a-4c83-9d29-5d3e4ab5b41d___RS_Erly.B 7676.JPG,26.1,60.59,3.36
+lab/train/Early_blight/0fbc786c-62a7-44f3-8db8-2649809bf1aa___RS_Erly.B 9514.JPG,29.24,75.39,7.63
+lab/train/Early_blight/0fc8cb27-a10f-4587-a91d-4dbec9f839c7___RS_Erly.B 7715.JPG,24.31,69.01,4.11
+lab/train/Early_blight/113562f3-fe24-4b28-9ec8-7ca432bded47___RS_Erly.B 9402.JPG,28.08,65.08,6.68
+lab/train/Early_blight/13c87a78-0a62-4aff-b6f3-fcbf1a8323e6___RS_Erly.B 9612.JPG,26.6,67.71,2.63
+lab/train/Early_blight/150cfe75-133e-4e98-90cb-de96a8120c03___RS_Erly.B 9414.JPG,24.23,76.26,5.22
+lab/train/Early_blight/17a09abf-ee69-4d46-ac80-f8608d799b19___RS_Erly.B 7451.JPG,25.06,76.7,7.35
+lab/train/Early_blight/18a21f42-8794-4665-8174-b0ccd3758af8___RS_Erly.B 7650.JPG,24.13,64.85,5.22
+lab/train/Early_blight/18d8f15c-4948-4506-ae09-54169f95cf36___RS_Erly.B 7496.JPG,27.1,79.0,4.61
+lab/train/Early_blight/1bb0101c-d0a4-41a5-85b9-6e8634d01a36___RS_Erly.B 9585.JPG,26.73,68.96,2.05
+lab/train/Early_blight/1c71757d-d351-4016-b5bb-06a63d0f2e24___RS_Erly.B 6388.JPG,29.09,60.08,5.89
+lab/train/Early_blight/1cebc4a1-5fb6-4168-8e18-e2973ef6d18f___RS_Erly.B 9552.JPG,29.98,65.63,4.11
+lab/train/Early_blight/1e08cf06-c20b-47bc-8773-a22cc730aa04___RS_Erly.B 8228.JPG,25.9,69.22,6.78
+lab/train/Early_blight/203d84bc-4acc-4cad-b4f9-f659ae641876___RS_Erly.B 7615.JPG,25.41,65.96,3.87
+lab/train/Early_blight/22247648-1650-43d5-8a9b-e03f63cf2f1c___RS_Erly.B 7535.JPG,24.46,73.95,6.68
+lab/train/Early_blight/2419fd79-cda0-4ba4-be14-31c92a2e91dd___RS_Erly.B 8255.JPG,28.83,69.37,7.86
+lab/train/Early_blight/24455ffa-8700-475c-8b4e-a7775f40ad3f___RS_Erly.B 8365.JPG,27.6,60.9,5.48
+lab/train/Early_blight/24f5a397-b5ac-451c-b979-28ee2bb056e6___RS_Erly.B 7795.JPG,26.32,71.45,2.26
+lab/train/Early_blight/25b96058-36c9-4213-bb16-088e76cb30b1___RS_Erly.B 9417.JPG,29.45,62.18,2.44
+lab/train/Early_blight/264bc13b-2bcd-40f8-ae25-23aef0ccdc64___RS_Erly.B 7589.JPG,25.91,77.27,7.41
+lab/train/Early_blight/289ba10b-f518-445a-8c54-cc981e2ffe34___RS_Erly.B 7399.JPG,24.94,62.16,3.64
+lab/train/Early_blight/29f6e3c2-0bf9-42fe-9a39-aef42acd5191___RS_Erly.B 9480.JPG,26.16,70.39,2.82
+lab/train/Early_blight/2bdca297-e0d1-41f0-b1dc-3801384faa1a___RS_Erly.B 7858.JPG,25.09,69.77,2.48
+lab/train/Early_blight/2d3d1221-2f62-43ad-8256-b560c1872934___RS_Erly.B 7465.JPG,25.53,71.53,4.76
+lab/train/Early_blight/2f3c483a-b18d-4571-8c00-fb24f166d328___RS_Erly.B 7667.JPG,26.73,70.37,6.76
+lab/train/Early_blight/2f823081-0654-47f1-bb1e-88d7e99a94ca___RS_Erly.B 9542.JPG,28.93,65.33,5.24
+lab/train/Early_blight/30c5bc48-7b5e-4bc0-9f0c-096042dacde2___RS_Erly.B 6333.JPG,26.3,62.53,2.44
+lab/train/Early_blight/325b9138-a030-4156-ae85-20de17e89f7e___RS_Erly.B 7807.JPG,26.44,70.67,7.85
+lab/train/Early_blight/33cd99f1-1f8a-497b-b4fc-60ff78af4b8a___RS_Erly.B 8378.JPG,29.55,73.05,5.32
+lab/train/Early_blight/352ced01-4645-44e5-bc3e-1b7172deb883___RS_Erly.B 7758.JPG,27.96,64.87,2.22
+lab/train/Early_blight/366e550d-8604-44cd-b239-325d9e14a4f4___RS_Erly.B 6378.JPG,26.13,71.66,2.37
+lab/train/Early_blight/3889a459-3e30-4345-83e1-57c68b32af30___RS_Erly.B 7638.JPG,24.85,72.92,2.15
+lab/train/Early_blight/3b0f2e65-0005-4b3a-b63c-4ec99b3b92e5___RS_Erly.B 8227.JPG,28.33,74.3,7.96
+lab/train/Early_blight/3d8e1f90-be34-4da7-b124-a98eddb346d1___RS_Erly.B 7414.JPG,26.51,62.49,7.1
+lab/train/Early_blight/407d9731-c2d8-48c1-8712-9719c185791c___RS_Erly.B 9496.JPG,24.87,67.32,2.37
+lab/train/Early_blight/40e8b878-dc2f-4cbd-ac31-c07f372bb0fa___RS_Erly.B 7369.JPG,29.65,65.78,6.64
+lab/train/Early_blight/420da335-510d-4e55-ac9c-2cad3530ad68___RS_Erly.B 8442.JPG,25.13,71.09,3.57
+lab/train/Early_blight/42a9a952-29d4-4a66-9dd9-65ebaac0db93___RS_Erly.B 7815.JPG,29.7,63.23,7.23
+lab/train/Early_blight/42d072db-d17e-4050-882a-6a8d1c1ede05___RS_Erly.B 8430.JPG,29.94,68.19,6.75
+lab/train/Early_blight/4490b039-427d-414c-836d-a1fda6c1ad49___RS_Erly.B 8369.JPG,24.14,61.65,2.85
+lab/train/Early_blight/45d27217-fbb3-4b74-93e7-d84f70b784f8___RS_Erly.B 7713.JPG,27.82,71.01,5.05
+lab/train/Early_blight/47465f0e-80ef-4641-b24b-7147dd82596d___RS_Erly.B 9473.JPG,27.67,70.61,4.81
+lab/train/Early_blight/48749ece-911d-440f-873d-475e58132969___RS_Erly.B 7479.JPG,24.22,64.57,6.95
+lab/train/Early_blight/493f53cc-b8d5-4c71-9446-30f0365f1e4b___RS_Erly.B 7583.JPG,24.16,71.26,5.7
+lab/train/Early_blight/49c8f57f-3418-45db-b807-6192c20dfc6a___RS_Erly.B 7784.JPG,29.58,74.32,6.76
+lab/train/Early_blight/4c927622-ea22-4718-8e36-319218ee53bf___RS_Erly.B 7712.JPG,26.19,68.35,7.9
+lab/train/Early_blight/4d80e993-6d3e-4537-92ba-39834a88e50c___RS_Erly.B 7632.JPG,28.89,75.33,3.74
+lab/train/Early_blight/4d88d7a6-b49c-4927-81de-60b6b807c839___RS_Erly.B 7655.JPG,25.0,63.13,4.31
+lab/train/Early_blight/4ec7e2e9-7fc3-46de-a42d-eec0cbcc990e___RS_Erly.B 7532.JPG,26.14,67.88,5.82
+lab/train/Early_blight/4fd3f0e7-cdd9-4151-8734-5f0ad1f52614___RS_Erly.B 9564.JPG,25.51,61.39,3.33
+lab/train/Early_blight/52082b15-4350-415a-be8c-bb0e0fc3ab88___RS_Erly.B 6332.JPG,28.31,71.27,7.35
+lab/train/Early_blight/54d55df4-c760-4191-b998-d1e1493a35f5___RS_Erly.B 7524.JPG,26.97,73.59,5.68
+lab/train/Early_blight/552787d3-3937-4ee5-9824-6b78e90e5cbb___RS_Erly.B 7510.JPG,26.28,69.37,6.61
+lab/train/Early_blight/5595a78c-8a56-4ee2-b085-a96c6fb67846___RS_Erly.B 7716.JPG,28.5,68.48,7.83
+lab/train/Early_blight/5688c1fd-cd1f-4fb5-9e0b-d12c0c095023___RS_Erly.B 9511.JPG,29.29,79.59,7.42
+lab/train/Early_blight/5a50d734-271b-43f8-991f-b6e6f264b686___RS_Erly.B 6488.JPG,28.44,69.94,7.95
+lab/train/Early_blight/5a62e38f-8042-4ca8-8df6-2bdeed7e9a7b___RS_Erly.B 9493.JPG,27.02,66.81,3.45
+lab/train/Early_blight/5b71fe03-84fc-4866-9bf8-e557ce918c6e___RS_Erly.B 9580.JPG,26.58,70.05,6.36
+lab/train/Early_blight/5b86ab6a-3823-4886-85fd-02190898563c___RS_Erly.B 8452.JPG,26.58,68.53,6.29
+lab/train/Early_blight/5c81bfc2-d377-4fc8-9f51-ff26a997c20b___RS_Erly.B 6345.JPG,25.85,72.24,2.54
+lab/train/Early_blight/5fdc3c4f-b88a-4aef-8a56-87336f220ff4___RS_Erly.B 6376.JPG,24.21,73.79,7.84
+lab/train/Early_blight/61f57acc-088f-45e0-b0b5-860120082ae9___RS_Erly.B 7388.JPG,28.59,60.93,4.37
+lab/train/Early_blight/620df2cc-834d-48b9-b9a8-11da26395739___RS_Erly.B 9557.JPG,25.46,65.97,4.06
+lab/train/Early_blight/64fade29-cabf-4ec2-a5cf-8c7aeca19eea___RS_Erly.B 6427.JPG,28.95,66.04,5.39
+lab/train/Early_blight/654d7c11-664e-47c0-a6aa-c5c45a07e386___RS_Erly.B 7799.JPG,29.05,61.11,4.0
+lab/train/Early_blight/65bcbda1-eee5-4bab-ab07-128c2a2f8ed4___RS_Erly.B 7461.JPG,24.96,60.86,7.23
+lab/train/Early_blight/6797ee0c-20a8-4a39-ab57-f65eb9c57885___RS_Erly.B 7647.JPG,25.41,70.07,6.73
+lab/train/Early_blight/68d12608-22a0-4b11-ab99-37cb4cd6fdce___RS_Erly.B 6392.JPG,28.88,64.46,7.54
+lab/train/Early_blight/69ec13bc-48bf-4a91-adc0-acb4386979ac___RS_Erly.B 7732.JPG,26.09,78.67,7.18
+lab/train/Early_blight/6ccc0cdb-d420-4bc6-9a1a-d195a0521c19___RS_Erly.B 9437.JPG,26.72,63.74,7.72
+lab/train/Early_blight/6ceca8a9-a257-4238-a779-bdb0dccc528e___RS_Erly.B 7604.JPG,29.57,62.14,6.02
+lab/train/Early_blight/70de9ac6-f90f-441f-a51f-217f55213234___RS_Erly.B 9568.JPG,28.8,76.79,7.22
+lab/train/Early_blight/70ef2f0f-3070-443d-b94f-983b87b41791___RS_Erly.B 9385.JPG,27.74,77.3,6.01
+lab/train/Early_blight/73cf82cf-a099-4243-a7a6-b06c79eedb65___RS_Erly.B 7412.JPG,24.23,69.83,4.71
+lab/train/Early_blight/75128610-8633-4000-8f74-17b6cff222d7___RS_Erly.B 6341.JPG,27.44,61.4,7.13
+lab/train/Early_blight/757b49d0-db8e-4352-820a-9f0bdb7d2657___RS_Erly.B 7748.JPG,28.07,79.59,5.82
+lab/train/Early_blight/765d8e2a-ebad-4fd5-a968-a9d21986268d___RS_Erly.B 6481.JPG,29.22,73.24,7.85
+lab/train/Early_blight/77bd1b85-eaed-41f8-97b0-d6e91b6f953d___RS_Erly.B 8212.JPG,27.73,71.71,6.33
+lab/train/Early_blight/784f629e-77a3-4d3b-b83c-9ef67b646234___RS_Erly.B 7371.JPG,26.69,66.71,2.44
+lab/train/Early_blight/7a259d3d-cca4-4041-88ec-d3140cd96f25___RS_Erly.B 7415.JPG,27.72,61.87,3.62
+lab/train/Early_blight/7b085d56-6867-4946-8208-5823afeba034___RS_Erly.B 7384.JPG,26.8,61.41,4.26
+lab/train/Early_blight/7b7780c0-f1b2-4095-924c-f3d7777b427e___RS_Erly.B 9613.JPG,29.05,61.16,3.72
+lab/train/Early_blight/7d8a95e9-ea83-44f4-9f7c-ad4692b1ce1f___RS_Erly.B 7534.JPG,29.38,74.15,4.13
+lab/train/Early_blight/801083ae-26f9-4a9a-9e9a-f73fb18b67e5___RS_Erly.B 7363.JPG,27.73,71.44,4.94
+lab/train/Early_blight/801a593c-82f7-4433-8c30-9defa319bdb7___RS_Erly.B 9609.JPG,25.5,74.13,3.11
+lab/train/Early_blight/81c427f2-5e52-43e2-a000-0a2a973e18f6___RS_Erly.B 7769.JPG,26.23,64.59,2.64
+lab/train/Early_blight/8405be22-ecbb-4cec-a87d-e0d454b9926d___RS_Erly.B 7847.JPG,24.35,63.56,5.71
+lab/train/Early_blight/84e8f373-1499-4e1e-afcc-ca5ec48d661c___RS_Erly.B 6440.JPG,26.06,67.01,3.44
+lab/train/Early_blight/84fe717f-2161-43c2-ad2f-ee2678a31e9f___RS_Erly.B 9416.JPG,25.39,79.78,7.41
+lab/train/Early_blight/862c7fa2-1ab0-4bce-9f9b-76cbb4a096e1___RS_Erly.B 7521.JPG,29.29,66.6,4.99
+lab/train/Early_blight/8a089fe7-9e6a-4db7-b0e8-9792e4abc326___RS_Erly.B 7466.JPG,25.96,63.92,2.34
+lab/train/Early_blight/8ac21e2c-f953-4e96-8d43-e82dae24017e___RS_Erly.B 7459.JPG,28.53,69.56,6.31
+lab/train/Early_blight/8e4238dc-b4fd-46d0-8892-965e64dad7ab___RS_Erly.B 9404.JPG,29.2,70.43,5.62
+lab/train/Early_blight/906f1ca6-2923-40c2-a924-5486fc3d7ba0___RS_Erly.B 9444.JPG,26.46,61.63,3.79
+lab/train/Early_blight/90c69e4c-c526-4f72-b0b0-4127fc6acb0a___RS_Erly.B 7782.JPG,25.65,75.1,4.96
+lab/train/Early_blight/90fd6e55-0c2c-4c8e-8742-5a87bc669633___RS_Erly.B 7356.JPG,25.86,61.68,6.62
+lab/train/Early_blight/957be08a-9b4f-4c28-9908-622fdb996f1c___RS_Erly.B 7591.JPG,24.83,60.73,6.74
+lab/train/Early_blight/95f5cf16-3e2d-4b96-9f3d-732cf1c60d6e___RS_Erly.B 7564.JPG,26.97,64.72,6.03
+lab/train/Early_blight/9a2960cc-21cf-470c-990e-e315699c2029___RS_Erly.B 9467.JPG,24.8,70.22,3.22
+lab/train/Early_blight/9b16a9a4-c99b-4027-a301-4a8969761746___RS_Erly.B 7428.JPG,28.23,62.94,3.01
+lab/train/Early_blight/9b617d8b-b252-4a29-9af5-10ea563eb785___RS_Erly.B 7707.JPG,25.81,72.68,3.28
+lab/train/Early_blight/9cd2e960-3941-4b60-84fb-0ed227c26ed7___RS_Erly.B 7839.JPG,27.77,77.22,6.82
+lab/train/Early_blight/9d8aacaf-ef28-4f23-a18d-4035f59d92b1___RS_Erly.B 7565.JPG,29.98,63.63,2.23
+lab/train/Early_blight/a0cb35c3-0ae6-4b64-a42f-d14006f3d315___RS_Erly.B 7357.JPG,26.44,71.77,6.42
+lab/train/Early_blight/a0db48a5-bbb6-4374-ad9f-8132e33280f5___RS_Erly.B 7791.JPG,25.98,65.87,6.43
+lab/train/Early_blight/a278a40a-bb25-4210-b646-2d232245851a___RS_Erly.B 7719.JPG,28.98,71.68,6.76
+lab/train/Early_blight/a442ef7e-3c93-45d9-85c0-5fa66fe32bb8___RS_Erly.B 7504.JPG,25.75,74.41,3.52
+lab/train/Early_blight/a47435d5-cd96-4f92-96b9-edd35046c88f___RS_Erly.B 6390.JPG,27.74,69.18,5.92
+lab/train/Early_blight/a5b33d5a-99bc-43b9-b408-aaf9535189e0___RS_Erly.B 8372.JPG,25.77,60.73,5.89
+lab/train/Early_blight/a67b9ba1-99ff-4826-8f7b-1b89ca61980e___RS_Erly.B 7597.JPG,26.87,67.04,6.6
+lab/train/Early_blight/a7a4d12c-61bf-401d-ab88-0572c4dec56d___RS_Erly.B 9464.JPG,24.59,77.31,5.39
+lab/train/Early_blight/a86f36c6-2089-4367-ba3e-5b7c8b3c0084___RS_Erly.B 7492.JPG,26.95,67.77,5.95
+lab/train/Early_blight/a8844870-0efc-494c-af8c-d5c94fd619f3___RS_Erly.B 7756.JPG,26.2,61.26,7.48
+lab/train/Early_blight/a8cade96-090a-4dcd-bc79-d13a4046370d___RS_Erly.B 7721.JPG,25.89,77.28,7.46
+lab/train/Early_blight/a98a655f-a2f5-44eb-a73b-edf25ca85921___RS_Erly.B 6351.JPG,27.76,74.32,4.34
+lab/train/Early_blight/ac6a9426-691d-46f4-941a-6637659bbbf7___RS_Erly.B 9394.JPG,25.38,60.29,6.21
+lab/train/Early_blight/b0f9d534-0c29-4185-bdd1-43b83dc586f8___RS_Erly.B 6453.JPG,25.54,61.71,4.74
+lab/train/Early_blight/b383b96d-13d9-454a-a179-3093e48d8708___RS_Erly.B 7500.JPG,29.27,73.4,2.61
+lab/train/Early_blight/b4cfa208-cee0-4383-b0e2-6988814fbb9a___RS_Erly.B 7645.JPG,29.01,62.44,4.57
+lab/train/Early_blight/b8421c32-9111-49c0-8e78-f86a9912ece4___RS_Erly.B 7706.JPG,28.17,78.18,5.21
+lab/train/Early_blight/b868515e-a566-4b0b-9633-30203270943f___RS_Erly.B 9401.JPG,24.64,73.75,3.54
+lab/train/Early_blight/bc351ae2-a270-4e17-aff9-b1f559f665f3___RS_Erly.B 7634.JPG,27.11,77.04,7.75
+lab/train/Early_blight/c0caae76-1327-4d16-95dd-138603f7573b___RS_Erly.B 8362.JPG,24.58,64.18,2.34
+lab/train/Early_blight/c21e480d-8263-4b9c-b429-4beceb2cb7d0___RS_Erly.B 8292.JPG,27.29,64.52,4.4
+lab/train/Early_blight/c3e85d27-e5e0-4897-a039-22640e696184___RS_Erly.B 9459.JPG,28.81,79.18,4.17
+lab/train/Early_blight/c66ca8bd-a004-4efb-a66c-3be5168aaaca___RS_Erly.B 7826.JPG,24.83,70.76,5.0
+lab/train/Early_blight/c684414e-2c2b-4d12-bca0-2a5fb271e1da___RS_Erly.B 8425.JPG,29.5,79.31,4.37
+lab/train/Early_blight/c78483c5-424f-4a5f-aab3-5b909b62a7e6___RS_Erly.B 7541.JPG,24.03,62.06,6.15
+lab/train/Early_blight/c78c9d19-e83d-4c3b-a690-e6e3b95c979d___RS_Erly.B 9569.JPG,28.86,68.95,6.4
+lab/train/Early_blight/c8dd6713-727e-4811-b951-e70e44d0c483___RS_Erly.B 7817.JPG,24.93,70.75,7.05
+lab/train/Early_blight/c9fa82b3-776c-4a44-8309-a6faf88898e3___RS_Erly.B 7498.JPG,25.69,77.68,3.1
+lab/train/Early_blight/ca408b6b-bc8b-45a0-a04e-f0341169524c___RS_Erly.B 7640.JPG,27.74,79.65,5.0
+lab/train/Early_blight/cbbd6255-f338-45b2-816d-47903ab67be7___RS_Erly.B 7537.JPG,29.84,72.92,2.51
+lab/train/Early_blight/cbff5638-51d0-4eae-90a2-9ce6e00acf9b___RS_Erly.B 9456.JPG,29.35,69.26,3.28
+lab/train/Early_blight/cd76ee4d-d516-4189-b40b-12959dc02f91___RS_Erly.B 7798.JPG,29.25,72.82,5.34
+lab/train/Early_blight/d41e78aa-0020-457b-a17d-736d426adad5___RS_Erly.B 7755.JPG,25.35,67.93,2.4
+lab/train/Early_blight/d452210c-ee07-4a6e-a0e0-15676dafacb1___RS_Erly.B 7419.JPG,26.02,64.25,7.41
+lab/train/Early_blight/d5bddab9-06bd-488f-a844-97bd75c6b061___RS_Erly.B 6662.JPG,28.92,67.9,2.87
+lab/train/Early_blight/d7f1e802-0b8e-4cba-88b4-e61328322cac___RS_Erly.B 8222.JPG,28.41,63.52,6.16
+lab/train/Early_blight/d8754b7f-53a4-4e69-8f54-1ec9f7581799___RS_Erly.B 6436.JPG,27.64,71.86,6.48
+lab/train/Early_blight/da84925b-554a-465d-bdb2-91851f77d5ce___RS_Erly.B 9420.JPG,25.4,72.17,2.47
+lab/train/Early_blight/dbbc206a-90ab-4b29-abe0-5613028278be___RS_Erly.B 8409.JPG,28.28,62.25,2.22
+lab/train/Early_blight/dc5fc62b-20c7-441b-bd70-aa24790302eb___RS_Erly.B 9510.JPG,28.7,79.19,6.31
+lab/train/Early_blight/de57a88b-7170-4eca-93f6-330df50fa8b5___RS_Erly.B 9541.JPG,29.86,60.4,5.0
+lab/train/Early_blight/de8d6c32-2b7c-4c2c-a974-9c1c9c30486e___RS_Erly.B 9560.JPG,29.71,66.2,2.58
+lab/train/Early_blight/df721edd-686e-4bb8-a05b-e8c67743c8ca___RS_Erly.B 8265.JPG,27.55,76.82,6.13
+lab/train/Early_blight/e221d1fa-e003-44eb-a0b0-57e8fcd73fd3___RS_Erly.B 7571.JPG,25.56,66.16,3.88
+lab/train/Early_blight/e2ce6add-93e2-4c1f-9ee3-2354d1542e8b___RS_Erly.B 7698.JPG,27.52,73.86,2.58
+lab/train/Early_blight/e701c578-1fa3-4ed3-9874-5f90c6d2eb3c___RS_Erly.B 9583.JPG,29.09,75.12,2.5
+lab/train/Early_blight/e803b217-d9a9-4b0d-9ea1-679145625159___RS_Erly.B 9571.JPG,24.52,61.04,5.95
+lab/train/Early_blight/eb94014e-83b7-46a4-9b1a-7cae23876302___RS_Erly.B 7471.JPG,28.96,66.48,6.45
+lab/train/Early_blight/ec5d1d0a-2909-4c2d-81d5-4bbed298167b___RS_Erly.B 6340.JPG,29.17,61.86,5.08
+lab/train/Early_blight/ee7a6de8-1aca-4a55-8c12-69be6277c1c1___RS_Erly.B 9591.JPG,26.82,77.51,2.91
+lab/train/Early_blight/ef1bea6d-41dd-4f88-9a5e-854abf1a5101___RS_Erly.B 9539.JPG,25.75,72.52,4.64
+lab/train/Early_blight/f035e3c9-069a-4392-9f0c-80262511f616___RS_Erly.B 9373.JPG,25.33,63.95,5.97
+lab/train/Early_blight/f33995ae-6456-476c-b832-4ff4cbaf49f7___RS_Erly.B 7525.JPG,24.52,74.56,4.97
+lab/train/Early_blight/f547a0f4-912a-45ec-81aa-371ad12ecacf___RS_Erly.B 7608.JPG,26.62,73.92,6.48
+lab/train/Early_blight/f59545f4-cded-405a-bf6f-f4b77e51e2ff___RS_Erly.B 7737.JPG,25.11,62.79,3.8
+lab/train/Early_blight/f62e84ae-2bd4-4b15-918a-639c0470c25d___RS_Erly.B 7761.JPG,28.02,75.91,4.08
+lab/train/Early_blight/f9095543-43a8-4dac-8d06-041203fa5af5___RS_Erly.B 6435.JPG,26.3,78.67,3.43
+lab/train/Early_blight/fb3352cc-9189-4214-8b94-a60c6a392c96___RS_Erly.B 9600.JPG,29.95,69.4,7.45
+lab/train/Early_blight/fbe86131-6873-460e-880a-6ee8576b6bc9___RS_Erly.B 7551.JPG,29.6,67.04,3.08
+lab/train/Early_blight/fd6417ac-d076-4658-a4f8-6916d781c72a___RS_Erly.B 7360.JPG,29.73,71.1,4.49
+lab/train/Late_blight/0003faa8-4b27-4c65-bf42-6d9e352ca1a5___RS_Late.B 4946.JPG,18.46,81.57,8.36
+lab/train/Late_blight/01ebf21e-ef94-4c92-b007-0b26741c2fc8___GHLB2 Leaf 9075.JPG,23.34,84.82,13.67
+lab/train/Late_blight/02790384-a589-421b-8695-693e77970418___GHLB2 Leaf 8920.JPG,20.83,91.69,13.94
+lab/train/Late_blight/02a3e0cd-04da-4e08-b929-167bcb7f46f4___GHLB2 Leaf 8731.JPG,22.41,80.53,17.34
+lab/train/Late_blight/03a0f11e-9d47-49c4-ba45-773b8aa9f2e1___GHLB2 Leaf 8767.JPG,20.83,82.97,12.21
+lab/train/Late_blight/03ccfc6a-8142-4f46-8eb5-f7fc77978081___RS_Late.B 4916.JPG,21.32,89.53,19.3
+lab/train/Late_blight/03f008be-5b97-4827-a2e2-88136b3c8714___RS_Late.B 6290.JPG,18.04,91.75,10.03
+lab/train/Late_blight/0418161a-871a-4d36-b988-c95f89e0feaf___RS_Late.B 7063.JPG,21.17,83.59,15.13
+lab/train/Late_blight/04540250-4926-47a6-9240-e047a04befc5___GHLB2 Leaf 9019.JPG,23.0,89.72,17.33
+lab/train/Late_blight/049dbcab-de65-4f09-9b1b-e59886f56f2e___RS_Late.B 5141.JPG,18.04,89.97,8.93
+lab/train/Late_blight/0566e4e3-675b-4289-9e36-ad199448975b___GHLB2 Leaf 161.2.JPG,23.28,80.74,11.41
+lab/train/Late_blight/06f7c4e6-abd5-4399-9083-ed241a9c4bab___RS_Late.B 5407.JPG,22.26,84.36,10.18
+lab/train/Late_blight/08593ca1-a595-44d1-8052-3d1430f305d3___GHLB2 Leaf 8579.JPG,19.15,80.39,15.23
+lab/train/Late_blight/0b3c7107-cef9-455e-8fa0-30039b9fc206___RS_Late.B 5038.JPG,20.59,90.84,13.29
+lab/train/Late_blight/0c73c79f-a384-4729-83c7-72c9b04da20c___GHLB2 Leaf 8927.JPG,23.48,84.65,9.62
+lab/train/Late_blight/0d7b0e84-1c99-4699-84ed-ca86aec642e5___GHLB2 Leaf 8652.JPG,23.9,80.4,15.93
+lab/train/Late_blight/0e244a32-08cd-471c-90dd-141c354c20b3___GHLB2 Leaf 8634.JPG,18.86,84.4,9.99
+lab/train/Late_blight/0f8887d8-24b4-4f25-bc03-d47421ab47f7___RS_Late.B 4948.JPG,20.61,80.17,17.32
+lab/train/Late_blight/1058d7d2-1b7d-40cc-ab26-95b2da23198b___RS_Late.B 4964.JPG,20.17,88.39,13.22
+lab/train/Late_blight/11b2caf9-a56c-4d3e-bea4-a5d00affd161___RS_Late.B 6140.JPG,21.76,92.17,19.46
+lab/train/Late_blight/121097dd-b0cb-436b-9b2f-7dab30c86872___GHLB_PS Leaf 37.1 Day 13.jpg,20.96,84.15,16.63
+lab/train/Late_blight/12c80d02-59c6-4db4-a96e-b28c3fdaf3c2___GHLB_PS Leaf 1.2 Day 9.jpg,22.76,93.46,14.29
+lab/train/Late_blight/1350ac99-ea6a-43a2-8ab5-178219b286ba___GHLB2 Leaf 8673.JPG,18.92,94.8,17.72
+lab/train/Late_blight/13533985-e30d-4023-8bd3-7a45b07816ca___RS_Late.B 5593.JPG,21.14,86.73,15.53
+lab/train/Late_blight/14113767-0c24-4607-97bc-04dccb35a23c___GHLB2 Leaf 8966.JPG,21.95,85.51,16.26
+lab/train/Late_blight/14f55718-8942-41c1-9f1b-f5062aeb0ad8___GHLB2 Leaf 8905.JPG,22.53,82.96,11.85
+lab/train/Late_blight/16257155-3d28-49cd-bb96-c188e946c4ec___RS_Late.B 4935.JPG,23.22,90.7,13.92
+lab/train/Late_blight/16613329-813d-4d3d-9f44-e52c0ad72bb0___RS_Late.B 4980.JPG,18.12,90.73,18.33
+lab/train/Late_blight/16a3a1a3-3e8b-4192-999d-2728df11549d___RS_Late.B 4983.JPG,23.02,92.08,11.07
+lab/train/Late_blight/19369d60-553a-416b-9378-84f4a1d203d9___GHLB2 Leaf 9006.JPG,20.6,83.93,14.68
+lab/train/Late_blight/1a473cad-42fc-48ca-963c-d438fbca928f___RS_Late.B 5418.JPG,18.07,88.3,17.2
+lab/train/Late_blight/1af98b62-adaf-43d0-b4eb-83ab3f1ee084___RS_Late.B 4908.JPG,20.51,92.03,13.06
+lab/train/Late_blight/1b2756ef-4fa0-410a-8fe5-a8b699d3553e___GHLB2 Leaf 156.2.JPG,22.76,87.92,12.21
+lab/train/Late_blight/1c35f7ce-8e8e-4c20-b625-b01f9bf7d0cd___GHLB2 Leaf 111.JPG,20.67,84.7,11.89
+lab/train/Late_blight/1cb5d336-3649-49bf-aa9a-72950067b8b0___GHLB_PS Leaf 12 Day 9.jpg,21.07,81.7,19.15
+lab/train/Late_blight/1e55a2c0-6618-4c42-93a6-cfc8a9d5ca77___GHLB2 Leaf 9039.JPG,23.59,85.82,17.43
+lab/train/Late_blight/1f200e50-7cb5-4a83-8ecd-dcf133f1f45e___GHLB2 Leaf 8991.JPG,19.19,90.43,16.52
+lab/train/Late_blight/2164b3f8-102c-481c-9d89-7e2f6087a121___RS_Late.B 5065.JPG,22.97,91.54,9.55
+lab/train/Late_blight/21a75fcc-4cfa-4931-800d-7aefdea77df2___GHLB2 Leaf 8726.JPG,21.1,83.67,10.55
+lab/train/Late_blight/2260ae60-08dc-4e6e-abd7-c9aed84163ea___RS_Late.B 5032.JPG,20.39,92.31,11.13
+lab/train/Late_blight/231be16a-304a-48ce-a243-0b4d95c59681___GHLB2 Leaf 121.2.JPG,19.62,94.43,19.52
+lab/train/Late_blight/2485b2a9-a492-4a45-bb4b-bb63edefb7ef___GHLB2 Leaf 9084.JPG,18.59,91.29,8.63
+lab/train/Late_blight/25bb0739-cbd4-4e75-a6f4-67ca5cc7f986___GHLB2 Leaf 8789.JPG,18.55,80.12,8.61
+lab/train/Late_blight/288f203e-7996-4290-afa7-f95c0c30506a___RS_Late.B 5562.JPG,23.18,93.75,19.92
+lab/train/Late_blight/29e99d11-44d0-4c6c-8183-c3e7be56ce58___RS_Late.B 7093.JPG,19.1,93.9,11.73
+lab/train/Late_blight/2dab6657-8b94-41ea-b610-74895532efe0___RS_Late.B 5567.JPG,20.87,82.11,12.31
+lab/train/Late_blight/2dc5d67b-cfe6-4337-b966-4a499bfad825___GHLB2 Leaf 8761.JPG,21.41,86.05,9.52
+lab/train/Late_blight/2e8f61d8-0d5d-46e3-a597-ede96855a4fe___RS_Late.B 5352.JPG,21.65,93.85,9.78
+lab/train/Late_blight/2edc83c5-b45e-4f4e-ba56-1ff26c33abea___RS_Late.B 5614.JPG,21.56,88.26,13.94
+lab/train/Late_blight/349b160d-6a6a-4b94-bdd3-81b670d13996___GHLB2 Leaf 72.JPG,20.62,94.48,12.5
+lab/train/Late_blight/34bd18fa-d898-40d4-83ed-665caabed7d0___RS_Late.B 5113.JPG,22.92,88.87,14.1
+lab/train/Late_blight/376c3deb-3feb-425b-a6dd-ce0f95b7c763___RS_Late.B 5413.JPG,23.13,92.04,13.19
+lab/train/Late_blight/37dacc71-848d-43bd-8bb3-85ceafb11f91___GHLB2 Leaf 8605.JPG,21.57,83.39,15.6
+lab/train/Late_blight/39f11cfa-d3a8-4845-9cc8-8ffa2f707d66___RS_Late.B 6119.JPG,20.37,80.22,12.11
+lab/train/Late_blight/3a051073-6326-43f1-bd93-a3c69661a87f___GHLB2 Leaf 8655.JPG,19.77,94.91,15.72
+lab/train/Late_blight/3a0cd50f-708e-478a-9231-39db5f2fc7c3___GHLB_PS Leaf 32.1 Day 13.jpg,21.35,94.1,10.1
+lab/train/Late_blight/3d89871d-557a-414e-b726-8f4ba18d30e4___GHLB2 Leaf 8922.JPG,19.3,80.27,12.77
+lab/train/Late_blight/3daa7759-9d45-4173-b73d-a7fca9800c45___GHLB2 Leaf 8573.JPG,19.48,84.2,10.81
+lab/train/Late_blight/40bca58c-a09e-429b-a0b3-03fce3ea88e5___GHLB2 Leaf 9113.JPG,23.16,93.4,9.89
+lab/train/Late_blight/41e1ea20-a4d0-4ef0-9362-b3756c8c06ec___GHLB2 Leaf 8755.JPG,18.9,92.02,10.35
+lab/train/Late_blight/43bf836c-132e-493f-b01e-3f1b44d84f47___RS_Late.B 6577.JPG,20.89,81.69,11.34
+lab/train/Late_blight/442f2aa6-9341-4f25-b789-edb5c9ac078b___GHLB2 Leaf 8846.JPG,23.15,83.91,9.92
+lab/train/Late_blight/4435bd64-52a2-46cf-a319-a13a28571b03___GHLB2 Leaf 157.2.JPG,18.04,83.54,14.7
+lab/train/Late_blight/4780302b-3329-4f1f-a697-67698af1d261___RS_Late.B 6319.JPG,18.46,91.18,8.41
+lab/train/Late_blight/4bf424a2-b275-4ac0-968c-fe229136f10d___GHLB_PS Leaf 2.5 Day 16.jpg,20.2,94.29,12.07
+lab/train/Late_blight/4cdd9b83-3ec9-40af-b402-a96827e69b84___GHLB2 Leaf 8554.JPG,21.25,82.76,10.68
+lab/train/Late_blight/4d6314e5-b280-4872-8eb6-cf4632934ae3___GHLB2 Leaf 81.JPG,23.79,87.02,18.85
+lab/train/Late_blight/4e1d7a08-a036-474f-8b4c-eef9d7c093fa___RS_Late.B 5043.JPG,19.33,84.64,9.98
+lab/train/Late_blight/4efe334c-09f2-44ec-b2cf-37dc45c693d2___GHLB2 Leaf 90.1.JPG,22.94,83.52,19.21
+lab/train/Late_blight/52451f9c-825f-4907-8ee6-deeb5899d9b5___RS_Late.B 5449.JPG,18.55,92.16,10.28
+lab/train/Late_blight/532b2c20-d17b-4b3e-a69e-54a6e5343014___GHLB2 Leaf 9004.JPG,20.51,90.82,19.62
+lab/train/Late_blight/537465e6-a88a-44d9-aa89-4e3877cee904___RS_Late.B 5433.JPG,20.43,94.05,9.06
+lab/train/Late_blight/546b8a7a-6dd4-4f75-9794-4328a9d40758___GHLB2 Leaf 8618.JPG,19.2,87.86,13.33
+lab/train/Late_blight/54b808b7-ab47-4ce0-992c-cc02588ec6a9___GHLB2 Leaf 8623.JPG,21.67,92.09,8.63
+lab/train/Late_blight/54eb17df-c42a-472f-91ec-92784e034115___GHLB2 Leaf 8910.JPG,19.08,93.38,15.59
+lab/train/Late_blight/5614e19d-53b7-4509-98e3-478712039c80___GHLB2 Leaf 8997.JPG,18.65,89.75,19.7
+lab/train/Late_blight/5875efb8-29a9-4114-859d-d2a0f6ac9738___GHLB2 Leaf 8888.JPG,20.21,82.87,19.7
+lab/train/Late_blight/58a1fb7e-5af6-42f1-8694-c76fd80ebf05___RS_Late.B 7108.JPG,22.52,88.45,16.05
+lab/train/Late_blight/5c33bdb3-8101-4b21-a9d1-8d490bb22e16___GHLB2 Leaf 8971.JPG,22.56,92.85,9.0
+lab/train/Late_blight/5f21282c-e2ef-4c4a-ace1-b5701fe7effc___GHLB2 Leaf 8999.JPG,20.88,80.04,8.67
+lab/train/Late_blight/5f774121-b3b2-46fd-a67c-f4d8caf93e5a___GHLB2ES Leaf 66.1.JPG,21.74,88.54,13.81
+lab/train/Late_blight/5fdf3288-d5f4-4c70-9b12-95222b82d415___RS_Late.B 4942.JPG,20.13,93.99,15.61
+lab/train/Late_blight/61afbf50-6b68-4c7f-a068-d55f899e7775___RS_Late.B 7162.JPG,23.51,82.65,12.22
+lab/train/Late_blight/62f69013-1152-47ee-8d37-b8252f4c1328___RS_Late.B 6149.JPG,18.9,85.83,10.14
+lab/train/Late_blight/634c3515-80da-4144-8cc8-9b8bb29134ec___RS_Late.B 5481.JPG,21.35,89.68,8.86
+lab/train/Late_blight/64984183-009e-4dba-a25a-f769bab08080___GHLB2 Leaf 8637.JPG,22.06,94.21,8.5
+lab/train/Late_blight/673d1b55-7e61-4a3c-9d2d-edc4307f7a42___GHLB2 Leaf 121.1.JPG,21.26,85.52,8.46
+lab/train/Late_blight/6cd183e0-9e97-4e80-a956-7c81bd06ab8b___RS_Late.B 6621.JPG,23.87,94.26,11.3
+lab/train/Late_blight/6e594cdd-0b3f-41d2-b056-f03819790e8c___RS_Late.B 5348.JPG,22.22,86.69,14.23
+lab/train/Late_blight/726a5ae7-e33b-4854-a872-71318ec3a493___RS_Late.B 5538.JPG,22.21,83.49,9.96
+lab/train/Late_blight/729bd3cf-64cc-40d3-9cec-5f52e3c3aeb3___RS_Late.B 5630.JPG,23.41,90.27,17.47
+lab/train/Late_blight/732a9df6-b5dd-493b-a7dc-3f3cd034e3c7___GHLB2 Leaf 8762.JPG,21.81,93.37,14.85
+lab/train/Late_blight/73c69b7e-604a-4014-a42d-ce4205b35c74___RS_Late.B 5131.JPG,18.24,87.47,9.24
+lab/train/Late_blight/74e2dac2-ae38-4349-8d26-7e694fdad667___RS_Late.B 5185.JPG,22.09,84.49,17.16
+lab/train/Late_blight/7538ba25-b6c3-4aca-a3d5-68ab173c93eb___RS_Late.B 5436.JPG,21.34,88.83,9.42
+lab/train/Late_blight/77793164-1671-42f7-83a2-f13074ec4892___GHLB Leaf 2 Day 6.JPG,20.37,87.91,8.31
+lab/train/Late_blight/78a7b27e-8992-4a31-ad38-cd8ecee2e3d4___GHLB2 Leaf 58.1.JPG,21.65,81.0,14.36
+lab/train/Late_blight/7d4d00c0-1e72-427d-9f05-1f64f8051cb8___GHLB_PS Leaf 1 Day 7.jpg,19.19,85.14,8.07
+lab/train/Late_blight/7dbd4aab-b307-435c-90bb-7a358eba9814___RS_Late.B 6617.JPG,19.02,82.48,10.37
+lab/train/Late_blight/7f533ee8-1d72-486e-b2a6-b5ef2ac7cc88___GHLB2 Leaf 8837.JPG,18.94,80.57,14.19
+lab/train/Late_blight/8072e43a-7636-4c22-8641-672077964083___RS_Late.B 6464.JPG,22.24,87.1,11.83
+lab/train/Late_blight/81425428-d995-492c-80ba-c28564d8f317___RS_Late.B 6265.JPG,23.35,89.45,17.06
+lab/train/Late_blight/8224fe93-c0bc-47e1-8ef4-3572667de662___GHLB2 Leaf 8694.JPG,19.43,82.7,10.74
+lab/train/Late_blight/838c4952-8d91-44b9-905d-96b065683f21___RS_Late.B 6038.JPG,18.61,89.21,10.4
+lab/train/Late_blight/85550b3b-28a6-4489-ae91-63ea771622ae___RS_Late.B 5539.JPG,22.35,83.27,8.69
+lab/train/Late_blight/85d80245-6c80-4bb7-9497-c8612903b535___RS_Late.B 5576.JPG,18.64,93.79,15.63
+lab/train/Late_blight/861d8b00-57a4-46b0-b51a-09d102dbe119___GHLB_PS Leaf 24 Day 13.jpg,22.98,81.04,12.53
+lab/train/Late_blight/86a7b7d2-8783-4622-84d7-a4a420ee10ba___RS_Late.B 6546.JPG,23.41,90.69,12.06
+lab/train/Late_blight/88e11fb2-9752-4c08-97d6-7392fbcf8a95___RS_Late.B 6176.JPG,21.51,92.22,12.37
+lab/train/Late_blight/88e2e3f1-defc-4d08-951a-ea6ed654dfe0___GHLB_PS Leaf 8 Day 8.jpg,22.65,84.04,19.01
+lab/train/Late_blight/8b08d651-0fcc-43da-8aec-34389f834d63___GHLB2 Leaf 8644.JPG,20.98,90.14,15.29
+lab/train/Late_blight/8bae80d9-576c-4930-8c75-f6df2be339de___RS_Late.B 4912.JPG,19.65,81.3,9.85
+lab/train/Late_blight/8c36f3d7-3aee-4341-8319-449e3f5e6f79___RS_Late.B 5596.JPG,23.83,91.52,18.29
+lab/train/Late_blight/8cb8fc56-d6b5-4032-b5f4-aebe52af18a3___GHLB2 Leaf 8945.JPG,22.12,89.97,14.97
+lab/train/Late_blight/8fb69288-9a9a-429d-96ff-a425e9753cef___RS_Late.B 6913.JPG,21.19,83.5,14.98
+lab/train/Late_blight/90b4fa52-1f63-466f-ab26-e2b180935c94___RS_Late.B 6323.JPG,19.52,90.29,15.97
+lab/train/Late_blight/910c7947-dc38-4cb3-8df5-69bee6796afa___RS_Late.B 6968.JPG,21.02,83.91,18.25
+lab/train/Late_blight/91b7baba-9b15-4f24-9db7-86ca95ac884c___GHLB2 Leaf 9087.JPG,19.41,86.2,16.38
+lab/train/Late_blight/92286a65-7836-4a51-9e6a-ada347bd2cbf___RS_Late.B 5398.JPG,22.14,90.22,11.55
+lab/train/Late_blight/92487391-6fdf-47bb-ae35-b0a48bed62fd___GHLB2 Leaf 9095.JPG,21.62,89.03,11.81
+lab/train/Late_blight/955e9314-b03b-4f51-afdf-9b5f44e2edce___GHLB2 Leaf 9043.JPG,20.82,90.91,18.37
+lab/train/Late_blight/960137a5-2b52-4349-8c33-cb8b7afed9eb___GHLB2 Leaf 8765.JPG,23.41,90.5,17.27
+lab/train/Late_blight/9718ddc7-7afb-40e4-b94a-bf86c9e0beea___GHLB2 Leaf 8642.JPG,21.06,82.23,12.01
+lab/train/Late_blight/98288f42-3067-4117-9e1d-d4a6b88f16eb___RS_Late.B 5545.JPG,18.7,81.54,9.38
+lab/train/Late_blight/98586693-fe1f-4ea0-8e27-4501b61cf09b___GHLB_PS Leaf 23.5 Day 13.jpg,20.92,88.04,12.99
+lab/train/Late_blight/993a04d9-3bfe-4cd2-8f89-981a0bb2405c___RS_Late.B 4956.JPG,20.53,85.4,12.46
+lab/train/Late_blight/9a4627a2-053d-443b-9135-7c1a913b63c4___GHLB Leaf 25.1 Day 12.JPG,23.25,85.82,16.71
+lab/train/Late_blight/9afc2537-1b13-4c25-b5ed-5b8de511b0ab___GHLB2 Leaf 9033.JPG,20.3,92.39,17.88
+lab/train/Late_blight/9bb49d22-976d-40c3-bc9a-bff5cbbd8e28___RS_Late.B 5057.JPG,22.27,93.23,17.96
+lab/train/Late_blight/9c6ebcdb-460b-431d-88d7-56beddc7a490___RS_Late.B 7002.JPG,18.72,91.37,13.9
+lab/train/Late_blight/9cb4cbdd-147f-4cfe-a30a-dd003520f0dc___GHLB2 Leaf 8988.JPG,19.22,87.89,11.55
+lab/train/Late_blight/9ed83599-49d6-479c-a69b-a133d9aee606___GHLB_PS Leaf 1.3 Day 13.jpg,22.02,89.81,11.15
+lab/train/Late_blight/9f28c915-c41b-41d7-a9d4-f3620cd9360f___GHLB2 Leaf 8728.JPG,19.22,90.75,12.98
+lab/train/Late_blight/9f946f43-424a-41be-9f91-b14fa3f2b37a___GHLB2 Leaf 8892.JPG,20.76,80.18,19.2
+lab/train/Late_blight/a01034d4-69a1-4a6f-b05a-9561acba2ff2___GHLB2 Leaf 9057.JPG,22.06,93.57,9.24
+lab/train/Late_blight/a02557d9-976b-4b21-8318-aecef263f90c___GHLB2 Leaf 8649.JPG,23.37,81.8,9.27
+lab/train/Late_blight/a131e222-7e0f-4cb8-8527-4742e446372e___GHLB2 Leaf 8811.JPG,20.12,83.82,11.47
+lab/train/Late_blight/a38d671f-4582-4ee9-b994-63f2343821e8___GHLB2 Leaf 8592.JPG,21.22,86.36,9.74
+lab/train/Late_blight/a4cdb993-ba37-45c5-b845-ed5650516b39___GHLB2 Leaf 8878.JPG,20.77,93.95,18.88
+lab/train/Late_blight/a5f089d1-5a8e-4c1f-bcc2-c1154c28e824___GHLB2 Leaf 8926.JPG,23.14,80.31,12.3
+lab/train/Late_blight/a9b6997c-b2bd-4938-aa5f-492ae0cc8431___RS_Late.B 5063.JPG,20.89,89.75,18.09
+lab/train/Late_blight/ac1fbb8a-2a44-4d70-8c93-fc3cc13a876d___GHLB_PS Leaf 17 Day 8.jpg,23.46,90.55,8.7
+lab/train/Late_blight/ace982f8-596c-48e2-8c95-4292a5cbdae8___GHLB2 Leaf 8721.JPG,20.17,90.83,8.19
+lab/train/Late_blight/afb65a40-7512-4d2c-884e-56e6c5010511___RS_Late.B 5380.JPG,23.38,93.44,10.46
+lab/train/Late_blight/aff90d5c-a3f2-445a-b125-717a00b21fb8___RS_Late.B 6624.JPG,18.99,80.58,19.41
+lab/train/Late_blight/b3cc95da-557b-456d-9c5d-2ba5d9eb0e98___RS_Late.B 4930.JPG,21.97,89.92,17.73
+lab/train/Late_blight/b4aa6858-29d7-4ff7-9225-e5f003ce8566___GHLB2 Leaf 8856.JPG,22.94,83.15,13.18
+lab/train/Late_blight/b6b9bd13-78ec-4e89-bbd7-a45d6a8ff3fb___RS_Late.B 6590.JPG,22.09,90.15,19.48
+lab/train/Late_blight/b6c7fcf9-6f88-4814-9620-04ae2c23cbad___RS_Late.B 5234.JPG,23.86,93.66,19.66
+lab/train/Late_blight/b982e973-aede-4317-92fb-b8a2385d3172___RS_Late.B 5465.JPG,21.13,94.41,10.98
+lab/train/Late_blight/b984cd6b-35cc-4f3d-824f-b663d08cae6b___GHLB2 Leaf 57.JPG,18.54,83.16,12.38
+lab/train/Late_blight/ba86e24f-fe3e-4f17-a920-f8dba4ecb4d7___GHLB2 Leaf 8974.JPG,18.51,85.25,9.32
+lab/train/Late_blight/bd10f32e-3a27-4a58-9def-62555e99b223___RS_Late.B 6768.JPG,23.34,81.05,19.79
+lab/train/Late_blight/bd5a4716-1cf0-46d3-a905-320e4d84d34a___RS_Late.B 6199.JPG,21.49,92.31,8.42
+lab/train/Late_blight/bf0b58c2-1d95-4f37-80ea-1bcd82e9c59b___GHLB2 Leaf 145.4.JPG,19.41,84.09,9.46
+lab/train/Late_blight/bf89b543-1d30-4648-8b4a-bb8d1f2f913a___GHLB2 Leaf 8606.JPG,18.45,86.51,8.17
+lab/train/Late_blight/c042e7e2-a583-4709-b944-830965256802___GHLB2 Leaf 110.JPG,23.54,94.45,18.19
+lab/train/Late_blight/c14302ad-0333-4038-8b4f-a4f75049fbaa___RS_Late.B 6939.JPG,21.2,89.2,12.27
+lab/train/Late_blight/c3fc678f-f7ad-4b41-b1f4-5abc1f5461b5___RS_Late.B 7142.JPG,23.08,93.34,10.62
+lab/train/Late_blight/c6dd1b5a-316b-468a-837a-707071a1ff98___GHLB2 Leaf 8790.JPG,20.11,82.58,9.71
+lab/train/Late_blight/c7c6bb21-8005-4584-b983-f5c35eb51e29___RS_Late.B 5061.JPG,20.14,81.04,9.83
+lab/train/Late_blight/c9258e44-7f45-4baf-8140-69d4857c56ee___GHLB_PS Leaf 45 Day 18.jpg,20.59,87.62,10.37
+lab/train/Late_blight/c933cfb7-d1c7-420b-88d0-7df28ae6ab2d___GHLB_PS Leaf 36.1 Day 13.jpg,19.14,83.06,17.26
+lab/train/Late_blight/c95eaeb8-7673-4411-bbbe-b2464526f303___RS_Late.B 6233.JPG,23.88,93.71,19.27
+lab/train/Late_blight/c9c8854f-00f2-4bec-b263-f03354f58114___RS_Late.B 6997.JPG,20.67,80.84,19.57
+lab/train/Late_blight/c9e551e1-6732-49e5-898e-a8dfbcc7b0c3___RS_Late.B 4959.JPG,22.12,91.43,16.22
+lab/train/Late_blight/caf4164d-4f6f-4a75-b394-924f89e0d040___GHLB2 Leaf 8759.JPG,23.07,92.33,16.35
+lab/train/Late_blight/cb56bd8e-f217-4537-9d35-a62d6b82f48f___GHLB2 Leaf 8769.JPG,20.1,81.4,13.77
+lab/train/Late_blight/ccc1fb49-16b3-4cf6-b782-4b98e9429f7b___GHLB2 Leaf 8832.JPG,19.61,88.48,8.68
+lab/train/Late_blight/cd8e0f91-3cbd-4327-9966-e8d3424d2612___GHLB2 Leaf 8713.JPG,19.63,82.32,11.91
+lab/train/Late_blight/cf0469e3-6a8c-4d3b-a1d3-43b99619b472___GHLB2 Leaf 8699.JPG,23.75,83.08,18.1
+lab/train/Late_blight/cf21ccf7-0ad0-44cb-b541-a03d3921afcf___GHLB2 Leaf 8798.JPG,21.53,85.73,14.72
+lab/train/Late_blight/cf2e943e-c8d7-43eb-a137-72f6b67b187a___RS_Late.B 7192.JPG,21.69,89.71,10.32
+lab/train/Late_blight/d11994f7-7c51-41b1-8225-c628e0e15885___GHLB2 Leaf 8683.JPG,23.3,83.51,14.54
+lab/train/Late_blight/d1f8e85b-aa57-460d-8ea2-90ceb345478c___GHLB Leaf 2.7 Day 12.JPG,22.54,92.49,14.68
+lab/train/Late_blight/d2619e9f-172d-4c42-8513-0ab522c02824___GHLB Leaf 2.2 Day 16.JPG,21.64,90.64,15.59
+lab/train/Late_blight/d26fdac6-4355-4875-8c27-ebb1eaa50a8d___RS_Late.B 5119.JPG,19.44,92.05,16.39
+lab/train/Late_blight/d2b2f190-12e4-467b-b64b-50b50d452a95___RS_Late.B 4913.JPG,23.38,89.56,14.74
+lab/train/Late_blight/d4ac342b-52cf-490f-808f-410d101fcd4b___RS_Late.B 5483.JPG,23.6,93.85,9.88
+lab/train/Late_blight/d4f4500b-9ebe-41fe-84ed-00278dc646b7___GHLB2 Leaf 9017.JPG,20.5,84.18,11.47
+lab/train/Late_blight/d648ce42-6742-44b2-95b9-a01b24e3054a___RS_Late.B 6116.JPG,21.19,83.82,14.6
+lab/train/Late_blight/d7fdf98a-cca7-441b-8014-ddeab2111617___RS_Late.B 6714.JPG,20.76,81.8,12.89
+lab/train/Late_blight/d8674a0f-a63f-4d10-852a-4913ba977823___GHLB2 Leaf 8568.JPG,22.87,82.13,14.09
+lab/train/Late_blight/d8856c76-c822-408c-9113-e1eadedb5cba___RS_Late.B 5491.JPG,21.51,94.35,14.27
+lab/train/Late_blight/d8b0ded7-7d30-4b52-acea-d1a3ca70a392___RS_Late.B 6096.JPG,21.56,80.56,10.64
+lab/train/Late_blight/d9459215-359a-48d1-babe-be3b7b11cd9d___GHLB Leaf 2 Day 12.JPG,21.22,87.54,15.96
+lab/train/Late_blight/dbecc777-f8a4-4222-9872-051d44b19b2c___RS_Late.B 6426.JPG,19.35,87.61,11.2
+lab/train/Late_blight/dbedc9c1-d7f8-4eef-b4bf-d36689c57c60___GHLB Leaf 27 Day 12.JPG,20.18,93.39,9.78
+lab/train/Late_blight/de272472-c653-4102-beac-6813da817d21___GHLB2 Leaf 153.2.JPG,18.46,90.13,14.62
+lab/train/Late_blight/de27bd5c-d08e-4815-8e31-3a2e497065d2___GHLB2 Leaf 8748.JPG,18.82,94.1,8.12
+lab/train/Late_blight/df64e1d3-7700-423e-983e-2b082ff4a36b___GHLB2 Leaf 9099.JPG,22.57,92.63,13.51
+lab/train/Late_blight/df7a9adb-6294-4866-9f39-6fc3d7a8ffdf___RS_Late.B 4978.JPG,19.37,86.03,15.18
+lab/train/Late_blight/e1088349-de49-4d96-9405-6163002bf9de___RS_Late.B 6904.JPG,21.16,83.39,18.5
+lab/train/Late_blight/e1fa1e4a-7259-496f-8066-79678f36f3e8___GHLB2 Leaf 8593.JPG,20.57,88.68,14.5
+lab/train/Late_blight/e2e89956-491c-42a0-9154-6b8ef41cd63b___GHLB2 Leaf 8689.JPG,22.14,88.99,16.22
+lab/train/Late_blight/e2f784ec-10de-4556-8dea-47c9d2c4e791___GHLB2 Leaf 147.2.JPG,22.43,87.9,13.89
+lab/train/Late_blight/e4ec79b5-94df-42dd-8425-bd68d2320c5f___RS_Late.B 5406.JPG,21.18,80.48,19.9
+lab/train/Late_blight/e51e78f1-e9c9-482c-9a4c-b10bb026aa55___GHLB Leaf 23.4 Day 12.JPG,19.28,89.32,15.29
+lab/train/Late_blight/e5f21018-4aac-42f7-a397-a973907ac4ec___GHLB2 Leaf 156.JPG,20.44,80.49,13.15
+lab/train/Late_blight/e6644ce4-5856-4627-b08d-36ac786afaa5___RS_Late.B 6856.JPG,18.88,89.1,13.83
+lab/train/Late_blight/e6703c22-86f7-4bdf-9733-072180761976___RS_Late.B 5522.JPG,19.65,86.84,12.51
+lab/train/Late_blight/e686c35e-fcb4-463b-ad2a-2c1da18135bb___GHLB2 Leaf 9023.JPG,21.65,91.01,12.51
+lab/train/Late_blight/e7a25945-e168-4539-8324-7465310c2795___GHLB2 Leaf 8958.JPG,22.12,88.46,16.12
+lab/train/Late_blight/e8c3e15e-99ae-4c47-9d27-4d94c2b96e8a___GHLB_PS Leaf 26.3 Day 13.jpg,23.1,84.89,9.01
+lab/train/Late_blight/e95ca31b-0e75-4ec5-986a-29ce5dce1a01___GHLB2 Leaf 8643.JPG,21.27,88.57,13.75
+lab/train/Late_blight/ea9e87df-efa8-4be3-8181-59a4b24dc3b7___RS_Late.B 6279.JPG,24.0,84.37,16.14
+lab/train/Late_blight/eb5d32dd-f958-422e-acae-d68ec83e0408___RS_Late.B 6455.JPG,20.95,82.06,15.35
+lab/train/Late_blight/eb6ec9fb-d564-4736-a18c-bd77cddd0c2a___RS_Late.B 5385.JPG,19.55,90.37,18.42
+lab/train/Late_blight/ed469069-15cf-4996-9f2a-ede8139d1543___RS_Late.B 4914.JPG,22.96,83.3,9.04
+lab/train/Late_blight/edab4e30-5e08-4bf9-92eb-695d4472add6___RS_Late.B 5582.JPG,21.54,88.38,18.73
+lab/train/Late_blight/eeea993c-d0eb-4f36-acf4-187e01dc6b72___RS_Late.B 6028.JPG,23.99,85.18,17.25
+lab/train/Late_blight/f2c089b3-34a5-4300-848f-a0d6eebcb756___RS_Late.B 5174.JPG,21.88,84.89,11.38
+lab/train/Late_blight/f2dba3c2-82b9-4a5a-9424-f24de8972266___GHLB2 Leaf 8901.JPG,18.38,95.0,13.94
+lab/train/Late_blight/f385d5e4-5dff-4851-a806-95a608d04b17___GHLB2 Leaf 132.1.JPG,18.14,90.82,17.19
+lab/train/Late_blight/f3c203d3-4246-4af5-adfd-37452f637024___GHLB2 Leaf 118.1.JPG,19.11,81.27,8.21
+lab/train/Late_blight/f401bc9a-3136-40cd-8a6b-99308e7de798___RS_Late.B 5004.JPG,23.35,93.26,12.24
+lab/train/Late_blight/f68ecc9a-4ac2-4dde-b2bb-97f2c438ffd8___GHLB2 Leaf 8964.JPG,18.81,81.12,8.82
+lab/train/Late_blight/f73231ab-afd2-4d01-acd2-7ba229349de6___RS_Late.B 6969.JPG,19.47,85.29,15.45
+lab/train/Late_blight/fa524c8c-e08d-43ee-9f33-3bd2bf9b09f5___GHLB2 Leaf 8686.JPG,21.03,82.77,18.33
+lab/train/Late_blight/fc77b008-6f35-40c7-96d4-64660bb624dc___GHLB2 Leaf 8812.JPG,21.72,84.91,17.17
+lab/train/Late_blight/fcfe91fc-c578-4c6d-8fe4-b8ff4cfdb766___GHLB2 Leaf 75.1.JPG,22.19,86.84,16.55
+lab/train/Late_blight/fd26b445-5839-4337-858c-a91dfdd812cc___GHLB2 Leaf 8743.JPG,18.54,92.06,11.33
+lab/train/Leaf_Mold/02a29ab9-8cba-47a0-bc2f-e7af7dbae149___Crnl_L.Mold 7165.JPG,23.76,78.93,13.65
+lab/train/Leaf_Mold/05bbff69-adad-4e16-8fad-c265be82e25a___Crnl_L.Mold 6929.JPG,20.74,89.08,9.99
+lab/train/Leaf_Mold/08cdd6ec-9dd7-4fc2-a255-11a70adaffd4___Crnl_L.Mold 9177.JPG,24.05,86.8,10.05
+lab/train/Leaf_Mold/09240d05-a928-4491-9f13-ee42b693e2bd___Crnl_L.Mold 6610.JPG,22.49,85.21,9.39
+lab/train/Leaf_Mold/0ba88812-fa4f-4602-bcec-c03cd7d0ba2b___Crnl_L.Mold 6990.JPG,20.47,77.17,5.41
+lab/train/Leaf_Mold/0db4cbf4-fa94-42c8-8bf5-90114281c569___Crnl_L.Mold 8681.JPG,20.1,79.34,7.85
+lab/train/Leaf_Mold/0e508a3f-af06-4c8a-be78-5c38d2d4fb68___Crnl_L.Mold 6775.JPG,20.37,80.84,9.85
+lab/train/Leaf_Mold/0eda4dc5-7f7b-4e27-9e53-1e0326eef88e___Crnl_L.Mold 8850.JPG,20.21,83.46,5.87
+lab/train/Leaf_Mold/0f1ce7cf-da72-4ddb-9bdb-a1af620537c6___Crnl_L.Mold 6840.JPG,21.69,88.91,5.39
+lab/train/Leaf_Mold/1146e92b-d6b2-4a19-ac54-32141d680f41___Crnl_L.Mold 6725.JPG,20.41,82.06,8.67
+lab/train/Leaf_Mold/12319ec3-c990-4c68-8683-244f1f220c09___Crnl_L.Mold 9146.JPG,20.66,77.77,12.96
+lab/train/Leaf_Mold/156f079b-411f-41db-8023-fa934de343f9___Crnl_L.Mold 7039.JPG,20.27,75.7,10.48
+lab/train/Leaf_Mold/167ce5ce-ef32-4544-a7aa-d05d315ef61a___Crnl_L.Mold 9113.JPG,21.16,75.5,11.7
+lab/train/Leaf_Mold/1826cec0-4c4e-4924-a992-e70eb2a0097e___Crnl_L.Mold 6638.JPG,25.36,81.88,13.72
+lab/train/Leaf_Mold/19547a57-651f-4f9c-b1df-a4ce5b5fdffd___Crnl_L.Mold 8731.JPG,20.95,87.02,6.25
+lab/train/Leaf_Mold/19a5dad8-125e-4765-98d9-0164586fa807___Crnl_L.Mold 6590.JPG,20.25,81.94,13.24
+lab/train/Leaf_Mold/2026a463-c6a6-4500-b382-9b5cbd73f9cf___Crnl_L.Mold 8734.JPG,20.28,79.46,11.83
+lab/train/Leaf_Mold/2406a1dc-92d9-4cc9-a724-a67c73104717___Crnl_L.Mold 8750.JPG,20.15,75.03,5.18
+lab/train/Leaf_Mold/24b03bfc-3491-490d-9178-61c6c56c4b56___Crnl_L.Mold 9018.JPG,24.54,84.58,6.07
+lab/train/Leaf_Mold/269f3e0a-4d4f-4598-b19d-9f5428342464___Crnl_L.Mold 8745.JPG,22.94,86.1,14.44
+lab/train/Leaf_Mold/273b19fa-2701-4679-a994-8a37040ac343___Crnl_L.Mold 6577.JPG,23.38,78.18,9.63
+lab/train/Leaf_Mold/27fb67df-f3f0-4e27-9fa3-6b7ee21515f1___Crnl_L.Mold 8934.JPG,23.46,82.41,9.93
+lab/train/Leaf_Mold/2847f847-3048-487d-ae4f-c45e44d04d85___Crnl_L.Mold 8878.JPG,21.86,84.51,14.37
+lab/train/Leaf_Mold/2cd79cec-d3fd-48a0-a747-186659750725___Crnl_L.Mold 6972.JPG,25.43,84.14,8.65
+lab/train/Leaf_Mold/2d6f98ac-7545-4ea6-97f7-51374d16adc2___Crnl_L.Mold 7005.JPG,21.56,82.19,11.19
+lab/train/Leaf_Mold/2f3608fd-5632-47ae-9309-970728d4342e___Crnl_L.Mold 6778.JPG,23.0,77.37,13.41
+lab/train/Leaf_Mold/32902cc7-5db6-4148-8b4e-0d04199edd98___Crnl_L.Mold 6766.JPG,22.36,87.32,9.36
+lab/train/Leaf_Mold/329f2f31-ceca-402f-a007-21d64fe75f5e___Crnl_L.Mold 6519.JPG,25.47,78.95,6.92
+lab/train/Leaf_Mold/35343df4-2017-47f9-a5ef-d08bd52dfd7c___Crnl_L.Mold 8827.JPG,25.15,76.35,8.51
+lab/train/Leaf_Mold/35a6c962-8f94-4c23-97e3-726b1dcf7170___Crnl_L.Mold 8874.JPG,23.19,83.27,14.55
+lab/train/Leaf_Mold/3796e4d7-4ff5-411e-988b-893f7d8b701c___Crnl_L.Mold 8800.JPG,22.8,89.35,9.89
+lab/train/Leaf_Mold/37c86551-b516-4b74-bcee-24b2ed387b06___Crnl_L.Mold 9046.JPG,25.36,82.47,11.36
+lab/train/Leaf_Mold/3868a159-b5df-49d2-a689-1181ee1007dc___Crnl_L.Mold 8720.JPG,20.13,85.17,12.71
+lab/train/Leaf_Mold/39feab4e-7c7b-44de-b9bf-8baaebb6e499___Crnl_L.Mold 8709.JPG,23.53,85.16,6.56
+lab/train/Leaf_Mold/3d203bd1-7814-4d66-a2eb-cf97193c1fbb___Crnl_L.Mold 8960.JPG,20.06,77.74,11.6
+lab/train/Leaf_Mold/3dfdf4dd-b2de-4a98-a288-2031bcebba2a___Crnl_L.Mold 8868.JPG,21.91,83.0,10.45
+lab/train/Leaf_Mold/3e7616df-52d8-43ef-9824-a77e82cdbf1a___Crnl_L.Mold 8777.JPG,21.84,78.78,9.32
+lab/train/Leaf_Mold/3fdba933-d33b-45e3-877c-aaf869a83df4___Crnl_L.Mold 8952.JPG,21.2,80.22,11.47
+lab/train/Leaf_Mold/41b84dbf-0402-4480-a0b2-55ab4686dcdf___Crnl_L.Mold 8933.JPG,20.2,84.8,7.45
+lab/train/Leaf_Mold/4459390d-64ca-42d2-977b-afb0ed667701___Crnl_L.Mold 6714.JPG,25.75,80.08,8.46
+lab/train/Leaf_Mold/44e7d155-8e61-4620-8442-132abc23ca58___Crnl_L.Mold 6598.JPG,20.34,89.75,13.52
+lab/train/Leaf_Mold/45c5b434-5849-4d00-99bf-c0d54088c6f6___Crnl_L.Mold 9100.JPG,23.4,83.96,14.17
+lab/train/Leaf_Mold/4615af1a-bf03-4e3a-9687-e62ce353f1e8___Crnl_L.Mold 8702.JPG,21.58,76.24,10.54
+lab/train/Leaf_Mold/479d6746-71a9-4abc-83d7-8cbfcedf1496___Crnl_L.Mold 9150.JPG,21.95,75.88,9.4
+lab/train/Leaf_Mold/48f87aed-cace-4b4f-bc57-1b6b2a6c1e9b___Crnl_L.Mold 6810.JPG,21.29,80.55,11.96
+lab/train/Leaf_Mold/4a221a03-1d3a-4641-9fd3-e0fc919fef54___Crnl_L.Mold 9104.JPG,25.03,84.29,12.19
+lab/train/Leaf_Mold/4c11a95e-122b-4e5e-a90c-cb550f8f6bb2___Crnl_L.Mold 7176.JPG,22.88,81.49,6.25
+lab/train/Leaf_Mold/4f03bdbd-e492-49a1-b04b-f19d9aaa95fd___Crnl_L.Mold 6837.JPG,22.83,88.67,6.85
+lab/train/Leaf_Mold/4fbc277e-5998-48c1-922d-c3f2e070f9d6___Crnl_L.Mold 6593.JPG,25.05,85.54,13.14
+lab/train/Leaf_Mold/502ece2c-0321-467d-ae3e-071a08f5794f___Crnl_L.Mold 9174.JPG,24.05,84.33,8.47
+lab/train/Leaf_Mold/5033c868-7977-4a3f-9705-1fb656e64459___Crnl_L.Mold 6813.JPG,25.16,76.34,13.58
+lab/train/Leaf_Mold/50e1906e-24da-493d-88b0-3110e778a26a___Crnl_L.Mold 7135.JPG,20.53,88.96,7.95
+lab/train/Leaf_Mold/519d366c-f967-452e-aaef-a9965368c310___Crnl_L.Mold 6952.JPG,24.12,83.05,8.23
+lab/train/Leaf_Mold/538d20ab-b01e-4d55-ad39-b0fbeb3babbe___Crnl_L.Mold 7002.JPG,24.6,87.36,6.17
+lab/train/Leaf_Mold/58716bd0-de1b-480d-9381-af08e2f13813___Crnl_L.Mold 6732.JPG,22.9,87.62,13.77
+lab/train/Leaf_Mold/58fa7c1e-418a-45e5-9228-14bdee34fc89___Crnl_L.Mold 6816.JPG,25.24,84.35,12.87
+lab/train/Leaf_Mold/5d0e582a-7d32-4069-9987-468d87614c8f___Crnl_L.Mold 9138.JPG,20.18,75.25,9.44
+lab/train/Leaf_Mold/624b9411-3aef-4d0e-a62a-f7feb5fad021___Crnl_L.Mold 6881.JPG,25.12,75.96,7.08
+lab/train/Leaf_Mold/629b73e7-834a-4b53-a164-bdc3a2030417___Crnl_L.Mold 8816.JPG,22.82,78.62,9.03
+lab/train/Leaf_Mold/6337ca93-b6c5-439e-964b-9ad0b984c227___Crnl_L.Mold 6642.JPG,21.77,87.82,10.51
+lab/train/Leaf_Mold/63ed021f-afc3-44cc-ab70-0bacc9815d3e___Crnl_L.Mold 6997.JPG,20.24,77.01,5.61
+lab/train/Leaf_Mold/65986ff3-5848-4473-a7b7-b79e07d79fd7___Crnl_L.Mold 7040.JPG,24.77,76.67,7.56
+lab/train/Leaf_Mold/65a8115c-7646-4226-adbb-c819baac010a___Crnl_L.Mold 6842.JPG,23.53,78.32,9.82
+lab/train/Leaf_Mold/661a456b-bd86-4c75-951f-0accf26ea4aa___Crnl_L.Mold 8955.JPG,23.89,76.36,7.46
+lab/train/Leaf_Mold/662d31b7-5dcb-4af1-b645-20b83610d1ee___Crnl_L.Mold 8687.JPG,20.44,75.9,12.2
+lab/train/Leaf_Mold/68195fab-d012-4532-8b71-6ec8812ceb89___Crnl_L.Mold 9043.JPG,20.33,79.02,13.92
+lab/train/Leaf_Mold/6ae9566d-3180-429e-a8a1-08c201048d0f___Crnl_L.Mold 6605.JPG,22.34,88.82,13.59
+lab/train/Leaf_Mold/6bb7b9f1-7f75-4cf4-a949-cf779a171417___Crnl_L.Mold 6958.JPG,23.44,85.12,11.15
+lab/train/Leaf_Mold/6cda92fc-5b8b-47b5-803a-ed31c7a9106a___Crnl_L.Mold 8728.JPG,20.76,77.26,14.22
+lab/train/Leaf_Mold/6e41b201-9283-4da4-b7b1-1f2b37716142___Crnl_L.Mold 6955.JPG,23.13,80.42,8.21
+lab/train/Leaf_Mold/6e6da01b-c5b7-4050-b502-4d284330b11b___Crnl_L.Mold 6729.JPG,22.64,89.69,5.76
+lab/train/Leaf_Mold/6e8f1122-d902-408e-a33e-2d5514112e38___Crnl_L.Mold 6944.JPG,22.35,77.33,13.12
+lab/train/Leaf_Mold/6f0ac1c9-cf47-4d88-87e6-5554dedfa621___Crnl_L.Mold 6663.JPG,24.5,78.45,11.39
+lab/train/Leaf_Mold/6ffea8bd-57cd-4fcf-b477-decec427a981___Crnl_L.Mold 8806.JPG,25.91,89.52,7.16
+lab/train/Leaf_Mold/706355a7-3ca5-4a79-b946-6fecf0b17277___Crnl_L.Mold 8990.JPG,21.28,84.04,7.75
+lab/train/Leaf_Mold/70e4ee54-f85e-461b-a35b-e35deb567620___Crnl_L.Mold 6516.JPG,24.09,75.13,12.45
+lab/train/Leaf_Mold/7115a5d7-3157-4183-bda2-8d0b43f50276___Crnl_L.Mold 8898.JPG,22.34,75.71,11.74
+lab/train/Leaf_Mold/72195027-eef6-4b92-8a7e-9d60842f6e97___Crnl_L.Mold 9151.JPG,20.97,83.62,10.05
+lab/train/Leaf_Mold/7281a343-89af-4704-a7f7-2a7c2be56c39___Crnl_L.Mold 6525.JPG,23.72,81.78,10.42
+lab/train/Leaf_Mold/73f77cb0-f4ee-4500-ac3f-2cd6c79585ed___Crnl_L.Mold 7000.JPG,24.65,87.28,12.4
+lab/train/Leaf_Mold/755296b4-fa21-4ec5-b912-bd85b2897a01___Crnl_L.Mold 8630.JPG,22.65,84.01,13.54
+lab/train/Leaf_Mold/76b3aadb-a6e5-465d-809b-0aa4d60a1f83___Crnl_L.Mold 6680.JPG,21.18,86.73,9.07
+lab/train/Leaf_Mold/77b74ab1-43d3-4d49-b901-e6e19ee0f200___Crnl_L.Mold 9063.JPG,21.96,75.89,6.07
+lab/train/Leaf_Mold/7922fafa-294f-4a34-999a-040d1a1a1d44___Crnl_L.Mold 6771.JPG,21.0,75.54,5.63
+lab/train/Leaf_Mold/7cf9cb31-1121-4ebe-b973-56c388d8f450___Crnl_L.Mold 6662.JPG,24.82,89.99,7.34
+lab/train/Leaf_Mold/7e0b313f-bffb-436c-975f-1566645abfe6___Crnl_L.Mold 7182.JPG,22.95,76.79,9.68
+lab/train/Leaf_Mold/7e0d709c-7399-4cad-84d4-892854831ee7___Crnl_L.Mold 6694.JPG,25.55,79.01,13.3
+lab/train/Leaf_Mold/7f9fdc98-b176-45ac-a56f-28accf0a5a95___Crnl_L.Mold 6945.JPG,20.88,87.69,11.91
+lab/train/Leaf_Mold/81ae49b5-40e6-41ac-add6-470a7b108f5b___Crnl_L.Mold 8794.JPG,20.92,77.46,7.11
+lab/train/Leaf_Mold/82567342-f689-4e61-ac38-b25db55bb684___Crnl_L.Mold 7128.JPG,24.16,86.26,7.31
+lab/train/Leaf_Mold/872c2185-148d-486c-92e8-2a3ad418f609___Crnl_L.Mold 7146.JPG,20.87,77.38,13.53
+lab/train/Leaf_Mold/8bb7759a-c612-42ec-ad7e-6092dc53bbf6___Crnl_L.Mold 8822.JPG,22.51,86.3,11.59
+lab/train/Leaf_Mold/8d6e2d0b-672d-4737-8973-17a9f31517a8___Crnl_L.Mold 7070.JPG,22.35,80.05,8.59
+lab/train/Leaf_Mold/8e3d29dc-2a32-4471-9318-7ba1c664e1ad___Crnl_L.Mold 8903.JPG,23.81,77.88,11.22
+lab/train/Leaf_Mold/8e92b724-a066-4039-a090-2699c5cfed4e___Crnl_L.Mold 6724.JPG,24.04,77.83,11.02
+lab/train/Leaf_Mold/8f4781c0-53fa-4056-839e-400915d8aa5e___Crnl_L.Mold 6683.JPG,20.85,83.17,8.86
+lab/train/Leaf_Mold/8fcfbfee-f57a-49f7-9f68-19b4b1d5ca98___Crnl_L.Mold 6498.JPG,23.79,88.9,12.59
+lab/train/Leaf_Mold/90150c9b-42f9-4e57-9ef4-2e9355e66d45___Crnl_L.Mold 6633.JPG,20.94,89.9,12.26
+lab/train/Leaf_Mold/904a5f71-4358-44b5-98ff-3681df988769___Crnl_L.Mold 6601.JPG,20.28,86.16,6.58
+lab/train/Leaf_Mold/91a2c537-6b7c-463a-b59e-0f8b3ea8865b___Crnl_L.Mold 6526.JPG,20.24,77.59,11.39
+lab/train/Leaf_Mold/921e0584-a414-4905-99e6-6d37a49427bc___Crnl_L.Mold 8941.JPG,21.62,84.46,13.73
+lab/train/Leaf_Mold/9252cc55-7007-4d2f-871b-6fafff4068c8___Crnl_L.Mold 6776.JPG,23.51,81.89,5.24
+lab/train/Leaf_Mold/9341417b-0be7-44a7-b353-f930ec746186___Crnl_L.Mold 6679.JPG,25.23,83.3,13.41
+lab/train/Leaf_Mold/937ddfca-ced9-419b-b25d-314ec99847f7___Crnl_L.Mold 8726.JPG,24.58,84.6,10.79
+lab/train/Leaf_Mold/937f14d9-4aae-47a3-9f27-b6f13a1ee14b___Crnl_L.Mold 8691.JPG,24.27,85.36,12.07
+lab/train/Leaf_Mold/96ec6dc6-c3fb-4261-93ae-77d5dfaf8478___Crnl_L.Mold 8909.JPG,21.22,75.4,12.12
+lab/train/Leaf_Mold/97ae4dda-7b28-4a06-a348-d361f8ecf56f___Crnl_L.Mold 8899.JPG,21.58,75.61,14.28
+lab/train/Leaf_Mold/9a067a91-70b3-4801-9a25-bb86f8d0691e___Crnl_L.Mold 8867.JPG,23.48,85.79,7.29
+lab/train/Leaf_Mold/9afdf72c-5e19-40bd-8035-daf70f1cf8ce___Crnl_L.Mold 6617.JPG,24.52,86.0,14.02
+lab/train/Leaf_Mold/9c42ac1e-d48f-4644-bf35-a9b0478330e2___Crnl_L.Mold 6709.JPG,25.08,84.03,6.13
+lab/train/Leaf_Mold/9c89a858-83de-4074-96fd-bde5f9e4acdc___Crnl_L.Mold 6905.JPG,24.89,75.5,9.13
+lab/train/Leaf_Mold/9d23d930-a755-4554-bb5d-093d0055b65d___Crnl_L.Mold 9090.JPG,24.64,82.53,6.45
+lab/train/Leaf_Mold/a05d577d-ebe7-44e3-9ac0-e6e742e34f1a___Crnl_L.Mold 9164.JPG,20.29,76.69,5.3
+lab/train/Leaf_Mold/a18ef1c1-96c1-42ee-8ad7-c78283c8fc4f___Crnl_L.Mold 7023.JPG,20.85,81.9,12.43
+lab/train/Leaf_Mold/a2923cd0-fc9c-471e-a97c-b92701c17af2___Crnl_L.Mold 6682.JPG,24.37,81.04,11.87
+lab/train/Leaf_Mold/a36014db-d82c-4b96-8de0-87d9b32bcfd0___Crnl_L.Mold 6634.JPG,22.82,82.01,9.28
+lab/train/Leaf_Mold/a37a63d6-d842-4049-b82b-f1d47c6f2f2c___Crnl_L.Mold 8646.JPG,24.3,77.95,6.95
+lab/train/Leaf_Mold/a47a2d12-bac3-43c8-88d3-0f35e6884381___Crnl_L.Mold 8688.JPG,22.87,78.0,9.39
+lab/train/Leaf_Mold/a6a109c7-b0f1-4475-8b50-22681c59a909___Crnl_L.Mold 6551.JPG,20.94,77.55,10.02
+lab/train/Leaf_Mold/a6ff3d28-9ffd-4ccd-8283-0d3d0718d311___Crnl_L.Mold 8799.JPG,21.27,87.03,7.2
+lab/train/Leaf_Mold/a740fdd7-45f9-445f-a992-37005aa41d32___Crnl_L.Mold 6883.JPG,20.1,79.26,12.94
+lab/train/Leaf_Mold/a7ea5602-9cd1-444e-bce8-ed314ddda894___Crnl_L.Mold 9101.JPG,22.38,85.14,11.48
+lab/train/Leaf_Mold/a95f0a82-5cad-423a-be56-8205317909e8___Crnl_L.Mold 8677.JPG,20.32,79.59,6.58
+lab/train/Leaf_Mold/a97710a1-8082-4ae9-ad47-cd4344773073___Crnl_L.Mold 9121.JPG,20.44,89.95,8.97
+lab/train/Leaf_Mold/ad05c94b-3432-4776-99ff-a5735e52cf7a___Crnl_L.Mold 7162.JPG,24.67,89.55,8.6
+lab/train/Leaf_Mold/af7e1ce4-bb49-4227-ba89-9972bab473b7___Crnl_L.Mold 6560.JPG,24.63,76.28,12.6
+lab/train/Leaf_Mold/affd6fab-cc08-41b6-b21b-991b9ffdd1cd___Crnl_L.Mold 9071.JPG,25.64,88.84,9.69
+lab/train/Leaf_Mold/b1299841-6001-40d1-aa5c-90f5e289fbf1___Crnl_L.Mold 6887.JPG,25.24,86.52,11.41
+lab/train/Leaf_Mold/b1f8ad0b-b955-4e6e-b789-a856effaa990___Crnl_L.Mold 9109.JPG,23.08,84.92,9.46
+lab/train/Leaf_Mold/b66c322b-7fc4-4d0a-9e57-afe7a58b0c1b___Crnl_L.Mold 6554.JPG,24.63,88.77,6.59
+lab/train/Leaf_Mold/b6bdf275-d731-415b-a68d-193bbd6c037a___Crnl_L.Mold 8772.JPG,24.62,83.7,7.94
+lab/train/Leaf_Mold/b7b40130-ae85-438e-9bc4-7ed4ce5cdd1f___Crnl_L.Mold 9137.JPG,22.27,80.56,11.54
+lab/train/Leaf_Mold/b8e9228f-640a-47ce-8567-bc523c6eabce___Crnl_L.Mold 6529.JPG,25.93,77.23,11.99
+lab/train/Leaf_Mold/ba913a0e-102c-4fc0-b617-22f85f9f6d31___Crnl_L.Mold 6504.JPG,22.11,87.79,5.69
+lab/train/Leaf_Mold/bca2a85b-7b2a-42b5-9b7d-cba2a6bc9a70___Crnl_L.Mold 7003.JPG,25.05,84.43,5.44
+lab/train/Leaf_Mold/bcf274e3-d797-4fa5-88c8-e513266e78da___Crnl_L.Mold 7036.JPG,20.26,80.92,11.54
+lab/train/Leaf_Mold/bdc4e19c-87fc-4d84-8de7-a8663aed37f7___Crnl_L.Mold 8741.JPG,23.71,83.47,10.48
+lab/train/Leaf_Mold/bee64636-a53b-4ecd-9f4f-d71d61148f55___Crnl_L.Mold 8980.JPG,25.27,80.53,6.22
+lab/train/Leaf_Mold/bffaf3b2-61c2-43e1-bfec-a3412b3d5ac8___Crnl_L.Mold 7026.JPG,24.89,82.6,13.59
+lab/train/Leaf_Mold/c05c1b58-b391-41d4-bdd4-72f82b59a508___Crnl_L.Mold 8926.JPG,24.67,77.72,9.32
+lab/train/Leaf_Mold/c28fe517-5ca7-4021-98a5-9fe8908c815b___Crnl_L.Mold 7116.JPG,25.58,80.58,13.89
+lab/train/Leaf_Mold/c6583f61-77e9-4417-aed3-44198e567580___Crnl_L.Mold 8947.JPG,21.87,86.64,6.36
+lab/train/Leaf_Mold/c92cbefd-7687-4a82-a07e-95cf5990c1d9___Crnl_L.Mold 8698.JPG,25.35,83.22,6.61
+lab/train/Leaf_Mold/c9bdd302-7a60-43a7-9850-b48861d021b4___Crnl_L.Mold 7129.JPG,23.73,77.47,14.73
+lab/train/Leaf_Mold/cb31d287-ef55-42a7-9ebe-df5796ad7d41___Crnl_L.Mold 9060.JPG,21.4,81.72,8.64
+lab/train/Leaf_Mold/cb9effb5-7029-410e-8270-8efb36fb124a___Crnl_L.Mold 8841.JPG,23.59,82.46,6.0
+lab/train/Leaf_Mold/cf08d13a-ab82-4f09-92ab-8f45fe1eb086___Crnl_L.Mold 8671.JPG,23.23,81.39,13.87
+lab/train/Leaf_Mold/d2102d1d-e4f2-40d3-84aa-7281e053e646___Crnl_L.Mold 9111.JPG,21.02,77.9,8.31
+lab/train/Leaf_Mold/d22e79f4-23d0-4c0a-849b-c574b3f04232___Crnl_L.Mold 9084.JPG,24.27,78.74,12.72
+lab/train/Leaf_Mold/d23729f0-3d5c-4e13-abd2-5cc7f21a51ee___Crnl_L.Mold 6976.JPG,24.27,79.49,7.87
+lab/train/Leaf_Mold/d4becf38-57b1-46c6-9dbe-fcb747edd287___Crnl_L.Mold 7134.JPG,24.51,84.6,13.14
+lab/train/Leaf_Mold/d5926e32-2f9f-413f-b6b8-fe86725729d2___Crnl_L.Mold 8974.JPG,22.79,77.22,8.56
+lab/train/Leaf_Mold/d7ee8962-2ee6-4da6-aadd-d181aa54a498___Crnl_L.Mold 8922.JPG,20.51,89.07,11.26
+lab/train/Leaf_Mold/d851f069-a167-4136-b21f-73a85f6f2126___Crnl_L.Mold 8957.JPG,23.64,82.38,13.06
+lab/train/Leaf_Mold/db0e6ad7-58db-478e-9b17-37bb603363d1___Crnl_L.Mold 8863.JPG,22.92,83.18,6.85
+lab/train/Leaf_Mold/df5a282e-d66e-4fb3-8ce4-eddfe5253c50___Crnl_L.Mold 8940.JPG,22.78,85.47,14.1
+lab/train/Leaf_Mold/e04f2ba7-8aac-4c3a-950f-edf70a6c2905___Crnl_L.Mold 7173.JPG,24.13,80.42,5.41
+lab/train/Leaf_Mold/e1af66f2-f7a8-4ae8-8f79-f9b8e8508d58___Crnl_L.Mold 8697.JPG,24.98,78.06,10.92
+lab/train/Leaf_Mold/e1d28219-50e4-4fae-be14-ab80ffe0c748___Crnl_L.Mold 6969.JPG,25.08,79.56,8.06
+lab/train/Leaf_Mold/e2d4c4ee-752f-4494-a046-6076bc08ecbd___Crnl_L.Mold 7178.JPG,21.11,81.76,7.24
+lab/train/Leaf_Mold/e40da81e-07e7-4914-af0d-461a2b1a10ec___Crnl_L.Mold 7101.JPG,23.67,80.14,7.88
+lab/train/Leaf_Mold/e4e09a80-ae3a-42e8-ae98-e892b0507098___Crnl_L.Mold 6636.JPG,23.93,83.5,6.52
+lab/train/Leaf_Mold/e710a5d8-3d50-4382-9786-931ca51ba797___Crnl_L.Mold 6851.JPG,21.81,87.41,7.78
+lab/train/Leaf_Mold/e8a0bcf7-b76f-495f-ad84-f29329bfa481___Crnl_L.Mold 6620.JPG,24.89,86.39,8.93
+lab/train/Leaf_Mold/e9a29961-5b3e-47a8-b2aa-b8d0ba9f2a80___Crnl_L.Mold 6838.JPG,25.82,77.77,13.14
+lab/train/Leaf_Mold/ea06d6ff-8848-40a9-8372-fcb229337bd4___Crnl_L.Mold 9092.JPG,23.67,81.68,8.17
+lab/train/Leaf_Mold/ed52b0a7-f569-4fdb-b04c-a624d8793092___Crnl_L.Mold 8880.JPG,25.78,86.33,8.93
+lab/train/Leaf_Mold/edd41abf-a135-4648-b724-a57b91f403e5___Crnl_L.Mold 6980.JPG,21.02,75.26,5.94
+lab/train/Leaf_Mold/edf50862-c5ce-406d-a3f1-f228bd358ca3___Crnl_L.Mold 7038.JPG,20.4,80.87,14.12
+lab/train/Leaf_Mold/f1cba359-4553-46a7-a1b3-3b6dbbcb81ae___Crnl_L.Mold 7151.JPG,20.96,85.1,11.21
+lab/train/Leaf_Mold/f2da011d-7004-40de-ba61-9e9fe12ad6b0___Crnl_L.Mold 7143.JPG,22.35,82.65,10.57
+lab/train/Leaf_Mold/f3113f81-fff3-4b7d-b171-7315216c4d10___Crnl_L.Mold 8683.JPG,24.27,87.39,12.2
+lab/train/Leaf_Mold/f3b8f9e3-6c47-4797-9da6-d8b09e19048c___Crnl_L.Mold 9023.JPG,24.0,79.72,13.62
+lab/train/Leaf_Mold/f3c54833-7b3e-43bf-8d1d-a67a8c6cfd83___Crnl_L.Mold 8858.JPG,20.1,83.01,8.22
+lab/train/Leaf_Mold/f456169c-83b5-4fd6-8c0a-41f36fb23ac7___Crnl_L.Mold 6693.JPG,22.55,76.83,8.88
+lab/train/Leaf_Mold/f48a7999-9eaa-4403-a2a5-533d22092d46___Crnl_L.Mold 6854.JPG,20.74,84.71,9.92
+lab/train/Leaf_Mold/f588d442-8eb5-439a-9c1a-cad5722ecc28___Crnl_L.Mold 7133.JPG,20.71,81.39,6.83
+lab/train/Leaf_Mold/f655d3f3-4b41-4e5a-adcd-5bf481d8d8eb___Crnl_L.Mold 8716.JPG,21.4,88.13,13.96
+lab/train/Leaf_Mold/f6c11a02-6f44-4e15-aab8-50cb8d79bc62___Crnl_L.Mold 9166.JPG,22.52,86.82,11.69
+lab/train/Leaf_Mold/f7826d86-2eb1-408f-b2c1-a43afe0268b3___Crnl_L.Mold 9056.JPG,25.82,79.8,9.68
+lab/train/Leaf_Mold/fb7b35d0-f501-4410-902c-99ab6022ae47___Crnl_L.Mold 9163.JPG,20.12,76.25,8.83
+lab/train/Leaf_Mold/ffb2d848-e46c-485c-a633-8d6137dd3dbf___Crnl_L.Mold 8735.JPG,21.55,82.96,12.29
+lab/train/Septoria_leaf_spot/026c9801-8f0c-41b6-adfe-12704eafa73d___Keller.St_CG 1939.JPG,25.51,76.32,5.5
+lab/train/Septoria_leaf_spot/03611d8a-1664-4d1a-8d9b-7dc3e1a302cc___Keller.St_CG 1945.JPG,23.33,88.13,10.96
+lab/train/Septoria_leaf_spot/04c912dc-3e26-43ff-a6e3-69de49a6e529___JR_Sept.L.S 8519.JPG,23.24,76.2,7.13
+lab/train/Septoria_leaf_spot/04eb9fee-df68-4917-a639-d68e12c08bbc___JR_Sept.L.S 8475.JPG,22.12,77.28,5.78
+lab/train/Septoria_leaf_spot/07679a50-9d8d-4612-80f4-464785781d56___JR_Sept.L.S 2727.JPG,24.69,71.0,10.61
+lab/train/Septoria_leaf_spot/07a4190c-b0c0-4e03-9ad5-474938c837d2___Matt.S_CG 1242.JPG,26.49,71.23,8.81
+lab/train/Septoria_leaf_spot/09332ad5-89d0-4ce9-84de-6bca4f10bf16___Keller.St_CG 1953.JPG,24.56,81.16,8.15
+lab/train/Septoria_leaf_spot/0af9f990-ad92-4411-8623-4498ca4805ce___Keller.St_CG 1942.JPG,23.08,75.53,12.12
+lab/train/Septoria_leaf_spot/0b4886e5-a065-44c1-aa19-bd166922d3de___JR_Sept.L.S 8498.JPG,20.32,73.98,5.65
+lab/train/Septoria_leaf_spot/0b6a9374-858d-49ce-8a94-ab57c957718c___Matt.S_CG 2488.JPG,20.15,80.92,8.72
+lab/train/Septoria_leaf_spot/0df95a30-e5bd-4fec-8271-c2de4e79a7e7___Keller.St_CG 1978.JPG,27.15,80.1,12.19
+lab/train/Septoria_leaf_spot/0ef9804e-d695-40e4-8950-08551255fa05___JR_Sept.L.S 8540.JPG,20.15,75.45,14.48
+lab/train/Septoria_leaf_spot/10738d0a-42a6-4f9f-aab6-d2676eb89236___Matt.S_CG 1692.JPG,23.91,88.73,14.59
+lab/train/Septoria_leaf_spot/10b13eee-3523-4a86-96cf-5b94191c3f4b___Matt.S_CG 1305.JPG,24.67,70.46,13.12
+lab/train/Septoria_leaf_spot/13cc7d11-275b-44c2-977f-cef792d827ed___Keller.St_CG 2000.JPG,27.61,76.78,7.93
+lab/train/Septoria_leaf_spot/1512a5b8-2c65-4abb-8003-ee207d10ac5a___Matt.S_CG 2803.JPG,26.22,81.29,10.57
+lab/train/Septoria_leaf_spot/1585bf58-6209-411e-92e5-84d55162dec8___Matt.S_CG 7594.JPG,23.23,70.39,6.92
+lab/train/Septoria_leaf_spot/15a7cf58-3dd6-415e-a4e1-ec825aba252d___JR_Sept.L.S 8472.JPG,26.52,75.91,5.16
+lab/train/Septoria_leaf_spot/15de3678-aed3-4887-8bba-6cf5e1efdde0___Matt.S_CG 1317.JPG,21.61,80.03,10.89
+lab/train/Septoria_leaf_spot/1764aae7-ae4b-45f9-b364-23cd799cee12___JR_Sept.L.S 8458.JPG,23.79,84.32,9.29
+lab/train/Septoria_leaf_spot/17c7e5bd-f44e-4dbd-9cd0-f0dbcc654306___JR_Sept.L.S 8557.JPG,28.0,83.33,10.37
+lab/train/Septoria_leaf_spot/18f0fcbe-a99c-4d0d-a7e7-0f3d8f9666c2___Matt.S_CG 2643.JPG,24.3,73.39,9.88
+lab/train/Septoria_leaf_spot/1c1dd567-a2fd-4dc5-8034-aee3c4a259a0___Matt.S_CG 7799.JPG,20.57,73.08,6.05
+lab/train/Septoria_leaf_spot/1c7e9ef5-bf97-4e53-b6c1-7fd148d043d5___Matt.S_CG 6482.JPG,27.62,84.97,10.09
+lab/train/Septoria_leaf_spot/1c94b8af-21b7-43b5-b6ff-a5f7a3ad0a6e___Matt.S_CG 1727.JPG,24.77,83.56,7.27
+lab/train/Septoria_leaf_spot/1cffba8e-40e0-43ce-914b-c184feb2cb2e___Matt.S_CG 7401.JPG,24.73,81.59,14.05
+lab/train/Septoria_leaf_spot/1d3dc5a7-5c0a-4852-8210-b06eede5d40a___Matt.S_CG 6071.JPG,25.74,82.83,13.49
+lab/train/Septoria_leaf_spot/1da58848-43c5-44ce-974e-bdd0b3c6e7d5___JR_Sept.L.S 8363.JPG,23.02,86.98,8.16
+lab/train/Septoria_leaf_spot/1ecc0c20-9ef3-40af-a8d8-9a43463a26b4___Matt.S_CG 7654.JPG,27.55,73.73,12.37
+lab/train/Septoria_leaf_spot/1f755e56-f38f-44ef-8076-d82c302c4539___JR_Sept.L.S 8407.JPG,23.41,74.31,5.29
+lab/train/Septoria_leaf_spot/211aafec-c358-4573-abe9-72eb49936ba5___JR_Sept.L.S 8558.JPG,22.42,87.68,10.05
+lab/train/Septoria_leaf_spot/2142a16f-dd81-4045-8ea8-1bb853595821___JR_Sept.L.S 2523.JPG,22.53,74.62,10.68
+lab/train/Septoria_leaf_spot/2240ebae-0c54-4eff-a068-1c3f58ee05a7___Matt.S_CG 1035.JPG,22.73,81.7,9.13
+lab/train/Septoria_leaf_spot/231f9534-833a-48b3-9da1-d3c4be1747e9___JR_Sept.L.S 2475.JPG,23.73,73.56,12.91
+lab/train/Septoria_leaf_spot/23af22d9-856c-41ba-a63d-9643b1ef9156___Matt.S_CG 1091.JPG,26.75,72.24,6.15
+lab/train/Septoria_leaf_spot/249ab309-d471-409d-a4ea-e82d74709c6e___JR_Sept.L.S 8552.JPG,22.35,74.88,5.97
+lab/train/Septoria_leaf_spot/2567c820-aa63-490c-8e47-921b85164728___Matt.S_CG 7447.JPG,21.06,86.04,8.01
+lab/train/Septoria_leaf_spot/25b6cc2a-d883-4e3f-9caa-738e5ec35e30___JR_Sept.L.S 8465.JPG,26.33,72.46,5.39
+lab/train/Septoria_leaf_spot/26b5797e-695b-4014-a0fb-a2e0e11a88f3___Matt.S_CG 7845.JPG,20.64,72.69,13.39
+lab/train/Septoria_leaf_spot/26f9e49d-d900-4607-96c4-3139ba4db3d5___Matt.S_CG 6067.JPG,24.54,73.51,12.89
+lab/train/Septoria_leaf_spot/27c7ab66-e5fe-477e-8aab-4ece72a04843___JR_Sept.L.S 8432.JPG,26.57,86.64,6.49
+lab/train/Septoria_leaf_spot/281da113-7611-44bf-9df7-b742fcbce900___JR_Sept.L.S 8568.JPG,27.61,85.89,8.98
+lab/train/Septoria_leaf_spot/28658cdf-b9a4-4f11-8e50-3793211600f3___Matt.S_CG 6487.JPG,20.79,89.1,10.21
+lab/train/Septoria_leaf_spot/28ac876e-4b48-4486-b40a-d4fad31f6880___Keller.St_CG 1805.JPG,26.75,76.68,5.22
+lab/train/Septoria_leaf_spot/2987271e-1fdf-4e7c-9c88-bbb4a50b98d3___JR_Sept.L.S 2525.JPG,27.67,73.89,11.36
+lab/train/Septoria_leaf_spot/2a7760ee-1b7c-437d-8f47-b6a65c6a3d9c___JR_Sept.L.S 2569.JPG,23.27,82.12,8.2
+lab/train/Septoria_leaf_spot/2b400c69-36a9-4b78-90a0-3702cd38c896___Matt.S_CG 6876.JPG,23.21,79.09,14.3
+lab/train/Septoria_leaf_spot/2b63b39d-7d3b-4421-9d68-b81b0862977b___Keller.St_CG 2025.JPG,20.28,84.6,12.41
+lab/train/Septoria_leaf_spot/2c6932ac-9d51-4af0-93a9-89b639fb9c12___Keller.St_CG 1920.JPG,22.37,79.86,10.45
+lab/train/Septoria_leaf_spot/2d640131-6b73-4b67-bb77-00266ff41bb8___JR_Sept.L.S 8531.JPG,27.4,77.88,8.89
+lab/train/Septoria_leaf_spot/2e8ffaaa-1ddd-436d-8672-b3274acf0067___Matt.S_CG 7806.JPG,20.5,84.77,13.52
+lab/train/Septoria_leaf_spot/2eb010be-cfb9-40cf-9b69-0521e5ecf2a1___Matt.S_CG 1263.JPG,26.76,88.92,6.55
+lab/train/Septoria_leaf_spot/2f4afdee-f957-400f-8515-4ea92173d00d___Matt.S_CG 0667.JPG,24.15,78.99,12.55
+lab/train/Septoria_leaf_spot/2fed0190-d484-415f-9ae2-84707eb8a294___Matt.S_CG 1617.JPG,21.63,87.89,12.15
+lab/train/Septoria_leaf_spot/305388b4-9b47-499c-bbd5-4bf9db035da9___Matt.S_CG 2569.JPG,23.56,73.63,11.53
+lab/train/Septoria_leaf_spot/3074b681-d17e-4c2d-85a0-6e5d207aa888___JR_Sept.L.S 8516.JPG,23.35,77.6,8.93
+lab/train/Septoria_leaf_spot/318530ca-975c-482f-b3cf-bdf6435f09d1___JR_Sept.L.S 8510.JPG,22.22,75.68,10.74
+lab/train/Septoria_leaf_spot/31aa2d68-efd3-4b8a-a320-1ebb2dc7a4dd___Matt.S_CG 7571.JPG,27.36,78.97,8.85
+lab/train/Septoria_leaf_spot/33955624-749a-442a-bf18-6d7a21130d72___JR_Sept.L.S 8398.JPG,26.87,70.33,9.75
+lab/train/Septoria_leaf_spot/34406ab3-1cfb-4ae4-bd6e-85355247d251___Matt.S_CG 7430.JPG,20.66,78.1,7.06
+lab/train/Septoria_leaf_spot/351f1c94-36f5-44a6-9cc2-0766e8db5cfd___Matt.S_CG 1465.JPG,21.95,74.76,13.58
+lab/train/Septoria_leaf_spot/35624b1d-4848-4ccc-8554-76cc8f37fb34___JR_Sept.L.S 2599.JPG,22.85,81.75,7.24
+lab/train/Septoria_leaf_spot/35f57bb6-7d8d-439c-aa62-7640a1936e47___Matt.S_CG 7616.JPG,23.64,75.02,7.26
+lab/train/Septoria_leaf_spot/36d0b778-94d1-4475-a513-d0611131a996___Keller.St_CG 1892.JPG,20.55,86.64,10.77
+lab/train/Septoria_leaf_spot/38c97982-c658-43c9-8641-bfbe851ef61c___Keller.St_CG 1955.JPG,25.9,74.48,11.93
+lab/train/Septoria_leaf_spot/38cd312a-88ac-490c-a95c-0bddee777154___JR_Sept.L.S 2469.JPG,27.42,79.98,9.2
+lab/train/Septoria_leaf_spot/3e36cafb-f2f4-4c51-9853-85fd7f1eb817___Keller.St_CG 1795.JPG,26.35,81.67,14.43
+lab/train/Septoria_leaf_spot/40373753-a07a-4ccf-b844-3324278d2b54___Keller.St_CG 1903.JPG,24.84,76.75,6.55
+lab/train/Septoria_leaf_spot/408ab142-3395-4a81-b90a-48b610336cea___Matt.S_CG 1556.JPG,25.93,89.19,10.86
+lab/train/Septoria_leaf_spot/4098a908-25be-4759-9248-bf5d66844081___Matt.S_CG 6650.JPG,26.64,78.07,12.08
+lab/train/Septoria_leaf_spot/417da1b3-d80b-4381-b439-bb876b0d3e62___Matt.S_CG 1674.JPG,22.24,75.91,8.11
+lab/train/Septoria_leaf_spot/41efe5a6-94ca-4761-8543-fd42b09dc4a8___Matt.S_CG 6303.JPG,21.72,85.86,7.86
+lab/train/Septoria_leaf_spot/42184af4-cb8b-4287-b000-04fa630a167f___Matt.S_CG 2424.JPG,25.8,88.81,8.07
+lab/train/Septoria_leaf_spot/430dab60-e5fe-4a57-be67-e77bd91f9fda___Keller.St_CG 1772.JPG,24.49,88.12,14.7
+lab/train/Septoria_leaf_spot/45776444-6428-486a-bb79-c1e1cbde4994___Matt.S_CG 7569.JPG,22.42,76.4,12.91
+lab/train/Septoria_leaf_spot/47059235-9299-4d05-98d7-ea2ae09768fd___JR_Sept.L.S 8459.JPG,22.31,79.5,14.48
+lab/train/Septoria_leaf_spot/47540ec0-31bf-4ad5-84e9-601d0d0829e4___Matt.S_CG 6002.JPG,22.22,79.66,13.77
+lab/train/Septoria_leaf_spot/47a6059f-5127-4e38-88c9-47c6c9ce35f1___Matt.S_CG 7707.JPG,26.02,77.77,8.21
+lab/train/Septoria_leaf_spot/47b7c127-2842-42ef-8deb-fffeb63eff5b___Matt.S_CG 6159.JPG,23.6,71.59,5.3
+lab/train/Septoria_leaf_spot/491d430e-fdc0-4235-8632-bf41b3455fc5___Matt.S_CG 7784.JPG,22.33,87.55,5.25
+lab/train/Septoria_leaf_spot/4c17268b-94cd-4cc6-979a-d84a81c9fa7f___Matt.S_CG 1503.JPG,24.3,80.62,13.52
+lab/train/Septoria_leaf_spot/4e868db4-c951-461f-ab77-562aa6456746___JR_Sept.L.S 8553.JPG,20.41,77.05,12.68
+lab/train/Septoria_leaf_spot/4ebf92f9-6f78-4a23-a244-35c89106ea18___Keller.St_CG 1808.JPG,25.98,86.6,8.28
+lab/train/Septoria_leaf_spot/4f35adfa-03b3-4562-b970-19548dda84d1___Matt.S_CG 2457.JPG,23.37,84.98,8.35
+lab/train/Septoria_leaf_spot/4ff7ff02-1fce-4994-bea2-bc46bd60fa4f___JR_Sept.L.S 8501.JPG,24.89,75.18,6.25
+lab/train/Septoria_leaf_spot/502e3bfa-f315-4be7-988f-be4b495cf8c5___Matt.S_CG 7640.JPG,22.17,75.08,8.73
+lab/train/Septoria_leaf_spot/51327622-586d-47db-9c80-e1c0289bb0b1___Matt.S_CG 6450.JPG,27.5,72.7,13.9
+lab/train/Septoria_leaf_spot/515d2953-6f85-4c09-b259-4c867b9e9fb2___Matt.S_CG 6217.JPG,25.79,80.42,11.2
+lab/train/Septoria_leaf_spot/5200301e-a744-45d6-acd7-1b9d254d279d___JR_Sept.L.S 8374.JPG,24.18,80.76,5.53
+lab/train/Septoria_leaf_spot/5218d91e-425f-41f9-bbaf-29098cb34cc7___Matt.S_CG 6218.JPG,23.21,80.25,6.54
+lab/train/Septoria_leaf_spot/52db895b-cdf5-4f06-8da7-d24c5701be62___Matt.S_CG 2687.JPG,25.34,75.66,14.4
+lab/train/Septoria_leaf_spot/53f8a06e-20f1-4433-b558-01f7e5d14dba___Matt.S_CG 0730.JPG,23.12,73.18,14.35
+lab/train/Septoria_leaf_spot/5418736d-c947-4cdc-b82c-692de712880a___JR_Sept.L.S 2619.JPG,21.32,84.37,14.5
+lab/train/Septoria_leaf_spot/546a14dd-fe94-4651-82bb-012f6fbf53a7___Matt.S_CG 6675.JPG,20.07,88.43,5.44
+lab/train/Septoria_leaf_spot/54e9c79f-bcce-4744-b5e0-be176d879a30___JR_Sept.L.S 8349.JPG,20.13,89.04,14.32
+lab/train/Septoria_leaf_spot/5521170e-a89f-4bb5-aa54-224a9d278d36___Keller.St_CG 1913.JPG,23.03,83.38,12.2
+lab/train/Septoria_leaf_spot/557ea0dc-f4bd-416f-9faa-e0c894c9d440___Matt.S_CG 7564.JPG,25.58,85.98,11.8
+lab/train/Septoria_leaf_spot/55e8b4dd-0a94-4be5-895c-40e280bf7408___Keller.St_CG 1817.JPG,27.65,70.93,7.14
+lab/train/Septoria_leaf_spot/56d9c252-fe48-4a39-8264-8bfce1f8ba2a___JR_Sept.L.S 2562.JPG,23.26,76.91,13.4
+lab/train/Septoria_leaf_spot/57f2b102-2002-4421-b303-13d75a164fd9___Matt.S_CG 7694.JPG,22.04,87.43,12.82
+lab/train/Septoria_leaf_spot/59a17e56-9717-4eaa-857d-e7511f00b633___Matt.S_CG 1027.JPG,26.22,85.87,7.26
+lab/train/Septoria_leaf_spot/5be70ee0-f463-488c-b0e5-377994a0cf45___JR_Sept.L.S 2502.JPG,20.42,73.24,13.59
+lab/train/Septoria_leaf_spot/5d323cba-03e6-402c-b2fd-19d00f751c31___Matt.S_CG 6742.JPG,22.89,77.48,14.83
+lab/train/Septoria_leaf_spot/5e94a35b-bce1-4db7-a31d-86a73847e4c2___Matt.S_CG 1065.JPG,27.7,75.78,5.21
+lab/train/Septoria_leaf_spot/5f021626-60b3-40a4-8c2c-11a53d93b0ca___Matt.S_CG 7586.JPG,25.44,89.75,13.12
+lab/train/Septoria_leaf_spot/5f6a639a-a545-4778-b5e8-c45a62cacfe2___Matt.S_CG 0812.JPG,21.19,71.77,10.84
+lab/train/Septoria_leaf_spot/63f2b877-9787-4da3-af27-350609736524___Matt.S_CG 2863.JPG,20.06,86.31,11.72
+lab/train/Septoria_leaf_spot/63ff8ff8-0b4e-4587-8dd0-6961c34b370a___JR_Sept.L.S 2686.JPG,23.98,75.53,10.18
+lab/train/Septoria_leaf_spot/6423beae-af76-4630-a3e4-f59977457971___Keller.St_CG 1900.JPG,25.9,72.07,5.78
+lab/train/Septoria_leaf_spot/67d141c6-be7a-4f3d-9c4f-b667ca41ebd4___Keller.St_CG 1838.JPG,26.23,79.53,6.96
+lab/train/Septoria_leaf_spot/681a274a-abbf-4498-bb37-02192cc336a9___Matt.S_CG 6333.JPG,23.04,87.95,12.69
+lab/train/Septoria_leaf_spot/690452d3-64f5-474c-ba18-1f4e5f330da6___Matt.S_CG 7738.JPG,22.58,83.19,14.74
+lab/train/Septoria_leaf_spot/694af91d-fa2c-4bdd-a1b4-0ebacc3a2cca___Matt.S_CG 1588.JPG,21.01,83.39,10.77
+lab/train/Septoria_leaf_spot/698e8882-1c94-496e-a920-1cfbf5bb25ae___JR_Sept.L.S 2666.JPG,21.41,87.25,7.23
+lab/train/Septoria_leaf_spot/6a4518f8-37a5-4c96-ab5d-5cb75f6e24b2___JR_Sept.L.S 8444.JPG,23.51,76.16,11.03
+lab/train/Septoria_leaf_spot/6bb03663-2989-4c0b-8aba-bedc9e3430eb___JR_Sept.L.S 2607.JPG,20.22,85.63,9.06
+lab/train/Septoria_leaf_spot/6cd819ce-a0e5-46b4-b0ed-1991580f0fd4___Matt.S_CG 2493.JPG,24.84,87.31,6.81
+lab/train/Septoria_leaf_spot/6de3f347-a423-4c54-aa6f-bd80efa674e2___Matt.S_CG 6164.JPG,21.67,73.52,13.91
+lab/train/Septoria_leaf_spot/6e179382-44e9-4032-b6cb-81c631134922___JR_Sept.L.S 8359.JPG,22.5,78.32,6.79
+lab/train/Septoria_leaf_spot/6ff464c8-6ac2-451e-99e4-6135aecf869d___JR_Sept.L.S 8392.JPG,26.83,80.0,8.51
+lab/train/Septoria_leaf_spot/71392ad4-37de-4edf-8ac9-a4e01f1a6eaa___Matt.S_CG 6812.JPG,27.13,86.52,10.72
+lab/train/Septoria_leaf_spot/74b9ed1b-042f-4b13-a31b-ec57a0c0b409___JR_Sept.L.S 8350.JPG,21.92,83.36,13.1
+lab/train/Septoria_leaf_spot/758a564e-79cd-44c3-a43f-822955465692___Matt.S_CG 2601.JPG,26.61,85.32,8.92
+lab/train/Septoria_leaf_spot/762a8298-be97-4967-b780-999e25e7ee5c___Matt.S_CG 7682.JPG,26.36,76.41,8.46
+lab/train/Septoria_leaf_spot/76a87c46-71c4-455a-b194-233598284b19___Matt.S_CG 7648.JPG,27.38,74.88,5.11
+lab/train/Septoria_leaf_spot/77a797bd-1d48-4235-b609-5fceedd51104___Matt.S_CG 1307.JPG,22.17,79.99,9.32
+lab/train/Septoria_leaf_spot/78db5bcd-4272-465a-a9e5-9d6e4284dbbd___Matt.S_CG 2665.JPG,23.15,74.54,6.81
+lab/train/Septoria_leaf_spot/7a21a34c-b9a4-4a3a-8413-da52065d6415___Matt.S_CG 6773.JPG,20.91,89.6,11.04
+lab/train/Septoria_leaf_spot/7a54f605-84c0-4344-8fbd-69bd6b34eebd___JR_Sept.L.S 8547.JPG,23.87,79.79,5.19
+lab/train/Septoria_leaf_spot/7acd10ed-a101-4467-856a-f3483493182a___Keller.St_CG 1862.JPG,20.89,80.18,8.53
+lab/train/Septoria_leaf_spot/7b0a795b-c370-40fe-b7ab-8308f73bee07___Matt.S_CG 6691.JPG,26.87,72.07,9.56
+lab/train/Septoria_leaf_spot/7cf8bfef-e8d7-406b-b27c-e5e545096545___JR_Sept.L.S 8427.JPG,24.91,79.08,12.12
+lab/train/Septoria_leaf_spot/7dedb154-b3a3-4f5c-b529-9c44d4e3cd23___Matt.S_CG 7375.JPG,20.31,83.57,5.72
+lab/train/Septoria_leaf_spot/7ed442ab-2005-4fe8-98a6-82b1b4d7f1a9___Keller.St_CG 1843.JPG,27.69,73.31,11.21
+lab/train/Septoria_leaf_spot/7f851bf4-b472-4dc3-b7d5-23e877cf6547___Matt.S_CG 7802.JPG,23.02,87.54,9.6
+lab/train/Septoria_leaf_spot/8104562f-81d4-478f-b767-c5d65ae601cb___JR_Sept.L.S 8404.JPG,22.13,82.45,12.57
+lab/train/Septoria_leaf_spot/8189e9b5-8cd7-4611-a4c0-afbc9e0db948___JR_Sept.L.S 2602.JPG,20.17,75.37,14.79
+lab/train/Septoria_leaf_spot/82946234-504f-4bc0-b98e-ec8d2bbfc2d4___Matt.S_CG 7715.JPG,25.68,72.81,6.2
+lab/train/Septoria_leaf_spot/82f42bc1-a98e-42b3-aa2a-bbdb07ef71b4___Matt.S_CG 7661.JPG,20.2,77.35,5.33
+lab/train/Septoria_leaf_spot/83b691d5-053c-4f0b-9753-d4880dbefc76___JR_Sept.L.S 2513.JPG,24.19,73.03,5.56
+lab/train/Septoria_leaf_spot/83cf2026-6466-4b9e-b5ec-f22f35811473___JR_Sept.L.S 2724.JPG,27.99,74.45,14.41
+lab/train/Septoria_leaf_spot/84836cba-6362-4e3b-b86c-d84f91d186ce___JR_Sept.L.S 2499.JPG,26.7,87.95,9.3
+lab/train/Septoria_leaf_spot/8658b25b-ee75-49e0-b4dd-13093e09a299___Matt.S_CG 1365.JPG,23.72,84.74,11.24
+lab/train/Septoria_leaf_spot/87884ea0-dceb-421c-b6c1-a876232cd142___Matt.S_CG 1019.JPG,24.79,78.44,8.77
+lab/train/Septoria_leaf_spot/88e591ff-3daa-4c31-ad6a-97ee433b57cd___Matt.S_CG 1270.JPG,27.25,87.55,6.34
+lab/train/Septoria_leaf_spot/8b676993-b491-4580-ab66-d620c060d79e___Matt.S_CG 7456.JPG,22.66,80.43,13.22
+lab/train/Septoria_leaf_spot/8b9ca191-719d-40cf-9077-89d9534dee6b___JR_Sept.L.S 8457.JPG,27.3,86.99,9.25
+lab/train/Septoria_leaf_spot/8cbaba7f-8b0b-4eea-a4ed-afd375a7c55a___JR_Sept.L.S 2720.JPG,22.89,72.89,12.42
+lab/train/Septoria_leaf_spot/8d9de432-48bb-4a21-9288-6ea97064edb8___Keller.St_CG 1917.JPG,26.96,82.96,9.74
+lab/train/Septoria_leaf_spot/8e31852e-12b6-413d-9f09-c4d7608326b5___JR_Sept.L.S 2487.JPG,23.17,85.63,7.6
+lab/train/Septoria_leaf_spot/8e5a724e-60a2-4cb7-9c77-639c36739b20___Matt.S_CG 7398.JPG,27.12,73.17,13.57
+lab/train/Septoria_leaf_spot/8e674c81-54a9-4da9-b764-db74f3f377fc___Matt.S_CG 6791.JPG,27.3,78.01,8.22
+lab/train/Septoria_leaf_spot/8f2c9096-f0af-4f68-a0cb-9343ac4eacb2___Matt.S_CG 1228.JPG,24.26,80.03,7.37
+lab/train/Septoria_leaf_spot/8f4a967e-a423-42a1-9e61-b665ff9b9cf9___Matt.S_CG 2606.JPG,27.57,89.19,9.02
+lab/train/Septoria_leaf_spot/8fdc83d8-f6f8-481d-bd09-e1baecddc6cf___JR_Sept.L.S 2611.JPG,20.51,73.15,14.74
+lab/train/Septoria_leaf_spot/90aea036-5a0f-49da-b344-118c8b108c84___Matt.S_CG 7767.JPG,23.34,79.3,9.25
+lab/train/Septoria_leaf_spot/9190b657-36a1-44b5-811d-e47093babc6b___Matt.S_CG 2554.JPG,27.96,84.82,13.13
+lab/train/Septoria_leaf_spot/939b8ab2-3d4d-4ee3-8677-18e29f2f8bc3___Matt.S_CG 1651.JPG,27.63,80.81,5.93
+lab/train/Septoria_leaf_spot/944d1a18-653e-4f97-9ecb-ed8de360de7a___Matt.S_CG 0663.JPG,22.69,73.74,9.5
+lab/train/Septoria_leaf_spot/9472f447-6fe5-40f2-a25a-847323e8ca6c___JR_Sept.L.S 2624.JPG,21.51,72.43,13.02
+lab/train/Septoria_leaf_spot/962119e0-4165-4c4e-bf7e-fd68f89e4e6b___Keller.St_CG 2016.JPG,25.72,85.45,11.96
+lab/train/Septoria_leaf_spot/963a7271-22fd-4c29-bb0a-da24ccd085fa___Keller.St_CG 1821.JPG,26.61,70.76,8.06
+lab/train/Septoria_leaf_spot/9784efc5-3e57-4d12-9912-9a06cb6d56fb___Keller.St_CG 1863.JPG,25.32,76.42,5.31
+lab/train/Septoria_leaf_spot/99ec3521-b951-40f9-a5b4-d80cfc1f9e68___Keller.St_CG 1891.JPG,23.29,86.06,11.89
+lab/train/Septoria_leaf_spot/9a453d1c-52cd-4ff5-8114-fdb1231a3789___Keller.St_CG 1859.JPG,22.23,74.88,8.95
+lab/train/Septoria_leaf_spot/9aa8aa5c-9771-49c7-b5b5-e0a1128ff76b___JR_Sept.L.S 2702.JPG,20.2,86.07,8.85
+lab/train/Septoria_leaf_spot/9b18c916-ef3f-42e2-88f3-172b48bdc325___JR_Sept.L.S 2576.JPG,25.37,70.29,8.84
+lab/train/Septoria_leaf_spot/9d10152c-26ee-453a-92db-33836cabdd4f___Keller.St_CG 1889.JPG,23.07,76.0,8.21
+lab/train/Septoria_leaf_spot/9d74964a-cca9-4a0c-9193-efb5be233f6f___JR_Sept.L.S 8375.JPG,21.19,74.95,13.86
+lab/train/Septoria_leaf_spot/9eb517fe-cc34-41d9-9ab8-fb638146707a___Matt.S_CG 7737.JPG,21.99,74.56,8.63
+lab/train/Septoria_leaf_spot/9fedd168-0c92-4620-8dd1-28c28ba94844___JR_Sept.L.S 2559.JPG,26.43,84.35,8.42
+lab/train/Septoria_leaf_spot/a0268a59-6f6e-4f65-973a-a282a1d078fd___Matt.S_CG 0972.JPG,21.44,78.33,6.54
+lab/train/Septoria_leaf_spot/a05152d0-46be-4016-b398-8c3edd794070___Matt.S_CG 6848.JPG,21.58,78.48,11.5
+lab/train/Septoria_leaf_spot/a06020fc-7c74-4cc8-bd8f-9a18d7731857___Matt.S_CG 6750.JPG,22.1,81.07,7.31
+lab/train/Septoria_leaf_spot/a0a1df7a-5ffe-42b6-a055-fb19f91add93___Matt.S_CG 7716.JPG,26.88,71.4,11.83
+lab/train/Septoria_leaf_spot/a11dad0c-2ed0-4d57-bd0b-0b19a0d7f17c___Matt.S_CG 2622.JPG,21.45,83.91,13.64
+lab/train/Septoria_leaf_spot/a13ce2fb-5b13-4dec-a2e4-417dc3f3a817___JR_Sept.L.S 8485.JPG,27.13,76.97,14.75
+lab/train/Septoria_leaf_spot/a18876cb-29aa-414e-8129-6008064a1af5___Matt.S_CG 6423.JPG,21.89,78.77,7.39
+lab/train/Septoria_leaf_spot/a35eec16-f8d0-4caa-8c5a-d4f05658e287___Keller.St_CG 1952.JPG,24.25,85.01,13.45
+lab/train/Septoria_leaf_spot/a3938779-9d9f-4e45-a397-7b5abd13f6ba___JR_Sept.L.S 2700.JPG,22.28,88.52,5.58
+lab/train/Septoria_leaf_spot/a39b7724-9f6b-4d58-a80c-d9dcea99defe___Matt.S_CG 6184.JPG,22.07,71.08,8.57
+lab/train/Septoria_leaf_spot/a46ff722-2186-4645-9018-01e8e20cfa2a___Matt.S_CG 6511.JPG,20.36,71.15,12.71
+lab/train/Septoria_leaf_spot/a6e00d31-f88a-4e11-98e1-d3897a0d5684___Keller.St_CG 1822.JPG,25.82,80.89,7.05
+lab/train/Septoria_leaf_spot/a74f9277-a6c1-49da-81a6-bfd49db22df2___Matt.S_CG 6494.JPG,23.65,79.03,8.4
+lab/train/Septoria_leaf_spot/a885be53-67e7-4897-b0ee-179971cd7976___Matt.S_CG 1642.JPG,22.49,70.05,12.08
+lab/train/Septoria_leaf_spot/a90aa234-3af2-4fe7-b8eb-415427e16700___Matt.S_CG 2484.JPG,22.56,87.53,5.81
+lab/train/Septoria_leaf_spot/a9f7e7d6-cb65-4fcf-961d-7a7900bbed6d___Matt.S_CG 7758.JPG,25.53,73.35,10.42
+lab/train/Septoria_leaf_spot/aa1d512a-2d97-4f5c-a9f5-f2698f50b120___Matt.S_CG 6608.JPG,27.69,79.79,14.68
+lab/train/Septoria_leaf_spot/abd969f8-a573-4b5d-b5f2-32f33e6b1374___JR_Sept.L.S 8559.JPG,25.55,86.66,5.38
+lab/train/Septoria_leaf_spot/ac69040d-afbe-4ce7-a69c-49e755822981___Matt.S_CG 7815.JPG,27.66,76.29,6.82
+lab/train/Septoria_leaf_spot/acb8c617-8f07-44b5-95bc-74c11726ace7___JR_Sept.L.S 2660.JPG,21.82,82.82,12.96
+lab/train/Septoria_leaf_spot/adc5ed07-d23a-433f-9cc9-2fd666efb8d0___Keller.St_CG 1868.JPG,22.75,87.84,8.94
+lab/train/Septoria_leaf_spot/ade7f196-3468-401a-863e-8e9c026c213b___Matt.S_CG 6516.JPG,27.25,88.44,6.75
+lab/train/Septoria_leaf_spot/af153da7-b5bb-48a2-a606-2788b2fca28a___Matt.S_CG 2558.JPG,26.15,77.99,11.12
+lab/train/Septoria_leaf_spot/af99c5cd-5368-4d0e-9a34-daa6ec616d80___Matt.S_CG 6120.JPG,23.14,88.6,14.73
+lab/train/Septoria_leaf_spot/b06c3d4e-04cf-4eff-82fa-4553264a21e0___JR_Sept.L.S 2615.JPG,27.19,89.37,8.77
+lab/train/Septoria_leaf_spot/b09cc616-1774-4fd0-8d00-c4967daa0e71___JR_Sept.L.S 2698.JPG,22.3,83.78,11.85
+lab/train/Septoria_leaf_spot/b0e900f0-d8b8-4efe-a447-4cd4340417d3___Matt.S_CG 7582.JPG,20.17,73.94,5.43
+lab/train/Septoria_leaf_spot/b17ef6a5-face-416c-82e7-2cce4b30eea2___Matt.S_CG 6242.JPG,20.07,73.39,9.51
+lab/train/Septoria_leaf_spot/b2fde426-21a4-4478-aa90-2924a65948d9___Matt.S_CG 7698.JPG,27.03,76.98,13.19
+lab/train/Septoria_leaf_spot/b37047b7-2e50-4b67-8a37-bf9aa243b53e___Matt.S_CG 2632.JPG,20.74,72.34,9.18
+lab/train/Septoria_leaf_spot/b459b9c8-30e2-4a65-be28-53d80243cac2___Keller.St_CG 1797.JPG,21.32,88.5,12.21
+lab/train/Septoria_leaf_spot/b57b5e78-5d2c-4e9d-9e53-f9becb02e6a7___Keller.St_CG 1842.JPG,20.46,79.17,5.09
+lab/train/Septoria_leaf_spot/b6905f0b-a167-4b6c-a72b-3c6c187d8032___Matt.S_CG 6046.JPG,22.23,87.32,12.73
+lab/train/Septoria_leaf_spot/b70775c5-59bc-4204-af05-a420ef373667___JR_Sept.L.S 2693.JPG,22.59,81.33,6.57
+lab/train/Septoria_leaf_spot/b87ed565-d3b3-4f69-9a9e-9b742e376110___JR_Sept.L.S 8403.JPG,27.04,77.95,12.11
+lab/train/Septoria_leaf_spot/b89c2f63-53ee-4454-87b0-013f0974e8c3___Matt.S_CG 6605.JPG,25.01,75.65,7.76
+lab/train/Septoria_leaf_spot/b8f26cf7-692f-4f77-bbe5-e6ba091ac2cb___Keller.St_CG 1941.JPG,20.39,86.88,13.28
+lab/train/Septoria_leaf_spot/b920869f-134b-42ac-813e-74beb0083fdc___Matt.S_CG 7468.JPG,22.82,86.84,10.94
+lab/train/Septoria_leaf_spot/bae6002f-a8f1-4229-aaf3-024feb50c7d8___Matt.S_CG 6674.JPG,25.51,77.39,13.19
+lab/train/Septoria_leaf_spot/bb3dc68f-0ade-4bb8-8c27-e2ff3529a20d___JR_Sept.L.S 2671.JPG,26.08,74.65,9.29
+lab/train/Septoria_leaf_spot/bc46127b-1990-4574-9d9d-8cdcb65a018b___Matt.S_CG 1525.JPG,27.99,86.21,11.26
+lab/train/Septoria_leaf_spot/bc9fa92b-2ed1-40b2-96b6-eb15bff4c323___Matt.S_CG 1256.JPG,21.3,77.52,6.71
+lab/train/Septoria_leaf_spot/bd436afc-9c1f-4fd0-acaf-64da1b1ef331___Matt.S_CG 7497.JPG,23.61,80.18,13.15
+lab/train/Septoria_leaf_spot/beb68b2e-8410-4421-ac36-2ee33bf6e69a___Matt.S_CG 0871.JPG,23.65,85.19,6.66
+lab/train/Septoria_leaf_spot/bf4d8522-a43c-40ee-afd2-d5fb78ac3630___Matt.S_CG 6354.JPG,27.77,70.68,10.99
+lab/train/Septoria_leaf_spot/bfba7874-d314-4594-8abe-ba74da25c523___Keller.St_CG 1983.JPG,21.88,87.25,11.94
+lab/train/Septoria_leaf_spot/c06b8139-8834-4755-b335-d1041d082aae___JR_Sept.L.S 2536.JPG,23.66,86.15,11.25
+lab/train/Septoria_leaf_spot/c091e80e-2855-4736-8289-6d9c5fc142d0___JR_Sept.L.S 8555.JPG,20.23,74.06,13.17
+lab/train/Septoria_leaf_spot/c237bdbd-ca4e-4cd8-b1bc-77b0511944da___JR_Sept.L.S 2606.JPG,23.13,72.89,8.29
+lab/train/Septoria_leaf_spot/c54cd0ca-8eaa-4b3d-88bd-5f4554c82b6e___Matt.S_CG 6360.JPG,27.03,77.97,6.33
+lab/train/Septoria_leaf_spot/c55b187d-939e-4394-8306-d310764c30f6___Matt.S_CG 2479.JPG,20.13,82.7,11.46
+lab/train/Septoria_leaf_spot/c57b7d7a-c5dd-4866-9a7f-3ad5e356e992___Matt.S_CG 6593.JPG,25.34,81.3,13.41
+lab/train/Septoria_leaf_spot/c66d82d9-a895-42ae-a7fb-a93917e3f10d___Matt.S_CG 6813.JPG,22.51,88.35,14.21
+lab/train/Septoria_leaf_spot/c71f6f75-6b0c-4c70-9d94-efae4cca1010___JR_Sept.L.S 8488.JPG,23.13,73.41,9.66
+lab/train/Septoria_leaf_spot/c78958e3-de34-4a92-a96e-9ed206690d5d___JR_Sept.L.S 8412.JPG,21.12,76.71,8.24
+lab/train/Septoria_leaf_spot/c7a53353-a534-4dfc-b2d6-72782b34c294___JR_Sept.L.S 8385.JPG,25.96,70.33,14.18
+lab/train/Septoria_leaf_spot/c7b40855-4938-49bd-9b74-02d3cb06c1a3___Matt.S_CG 6555.JPG,24.93,88.45,6.7
+lab/train/Septoria_leaf_spot/c8a40d22-b47a-48a3-8450-e17dafd9a095___Matt.S_CG 7610.JPG,25.64,89.32,10.18
+lab/train/Septoria_leaf_spot/c9ae9fb3-4504-4a1c-8abd-e4e3ca22f707___Matt.S_CG 2720.JPG,24.03,75.61,5.42
+lab/train/Septoria_leaf_spot/cb6929ff-8e9b-42f2-97d4-ec388a5a6b06___JR_Sept.L.S 8461.JPG,26.16,83.38,10.47
+lab/train/Septoria_leaf_spot/cc997e01-8e1e-4d98-973d-d8a6e9703840___Matt.S_CG 6576.JPG,25.3,76.87,10.89
+lab/train/Septoria_leaf_spot/cd2cd0c6-bf72-4bfb-9647-58f5358638d4___Matt.S_CG 6020.JPG,25.89,78.33,7.49
+lab/train/Septoria_leaf_spot/cda009cd-6374-4de5-af6c-de0b1bf35758___Keller.St_CG 1969.JPG,23.07,86.38,5.05
+lab/train/Septoria_leaf_spot/cde3269d-4c8f-4ea8-9b3c-e5b1d4529022___Matt.S_CG 2522.JPG,25.9,77.23,10.78
+lab/train/Septoria_leaf_spot/cdf7e54e-1bc9-4107-a49c-77be805c52be___Matt.S_CG 7730.JPG,23.83,83.02,9.57
+lab/train/Septoria_leaf_spot/cedcac38-84d8-4fe2-88cd-ad0656f55a93___Matt.S_CG 7599.JPG,27.64,75.14,7.13
+lab/train/Septoria_leaf_spot/cffae6ca-ff80-4c1f-9fbf-451d39a94a80___JR_Sept.L.S 8518.JPG,26.92,74.1,13.55
+lab/train/Septoria_leaf_spot/d13b42e1-25f4-4d5e-9289-3806a53c5405___Keller.St_CG 1775.JPG,26.44,89.64,13.98
+lab/train/Septoria_leaf_spot/d16a363b-66e1-4206-89f8-31b2b4fadd5b___Matt.S_CG 7491.JPG,22.82,75.18,14.01
+lab/train/Septoria_leaf_spot/d1dfc5c2-9605-419b-826f-58691f793758___JR_Sept.L.S 2674.JPG,22.66,89.71,14.58
+lab/train/Septoria_leaf_spot/d235a8c8-d714-404b-8a07-05706d2dec29___JR_Sept.L.S 8536.JPG,27.47,81.71,14.03
+lab/train/Septoria_leaf_spot/d3386545-c374-4a84-ac9d-09b4308d48af___Matt.S_CG 7503.JPG,27.85,87.55,5.88
+lab/train/Septoria_leaf_spot/d535908b-c781-41c5-9afc-b7aa0358d466___JR_Sept.L.S 8389.JPG,25.43,73.25,7.72
+lab/train/Septoria_leaf_spot/d5380a5d-03bb-46d1-ae25-b245f3eec822___Matt.S_CG 7626.JPG,25.2,88.53,9.85
+lab/train/Septoria_leaf_spot/d67b224c-b089-430d-b185-dfae7b7a5a9e___Keller.St_CG 1950.JPG,21.48,82.37,6.3
+lab/train/Septoria_leaf_spot/d7d247bb-ea19-452f-952a-5919d167e33c___Matt.S_CG 0932.JPG,24.14,72.06,14.21
+lab/train/Septoria_leaf_spot/d7faf499-18df-4481-8d07-3d7168c83022___Matt.S_CG 7785.JPG,20.2,77.0,14.44
+lab/train/Septoria_leaf_spot/d891ae9b-9fc3-4113-9348-3c7109d29251___JR_Sept.L.S 2712.JPG,26.65,88.15,6.21
+lab/train/Septoria_leaf_spot/d8c33d6a-3aad-4714-9eec-3353a008e67f___Keller.St_CG 1980.JPG,24.97,85.38,9.84
+lab/train/Septoria_leaf_spot/da1f93df-82fb-47a9-9582-d2dadb97a2a0___JR_Sept.L.S 2649.JPG,24.9,77.85,8.92
+lab/train/Septoria_leaf_spot/da4d940c-2a77-481b-8693-167632534fc8___Matt.S_CG 0858.JPG,27.56,70.7,12.76
+lab/train/Septoria_leaf_spot/dc09c4e1-8b58-40e4-a2f2-61b3f19eff94___Matt.S_CG 1010.JPG,23.75,71.84,8.61
+lab/train/Septoria_leaf_spot/dd38bc88-4874-477e-bb21-1435aed61de8___Matt.S_CG 0759.JPG,26.53,79.63,9.19
+lab/train/Septoria_leaf_spot/de4a4bd4-b611-46fd-8190-cff651b56326___Matt.S_CG 6718.JPG,24.9,86.92,8.78
+lab/train/Septoria_leaf_spot/e01fb0f4-3cd3-4b02-8672-56cac700eeae___JR_Sept.L.S 8391.JPG,21.77,79.51,12.17
+lab/train/Septoria_leaf_spot/e101f7ec-da0f-4b0d-86db-69cdb79ebd83___Keller.St_CG 1832.JPG,22.71,87.92,6.91
+lab/train/Septoria_leaf_spot/e26e353d-f3fa-4e2a-912e-8caabba7f900___Matt.S_CG 0744.JPG,27.47,81.76,8.84
+lab/train/Septoria_leaf_spot/e2d8cf5f-2ddf-4b2a-acca-15e0d7d10ac8___Keller.St_CG 2019.JPG,26.58,85.87,13.37
+lab/train/Septoria_leaf_spot/e301a5e1-ab4c-4a82-b79f-074a8147827f___Matt.S_CG 0839.JPG,22.72,70.69,10.03
+lab/train/Septoria_leaf_spot/e3c99f3d-4947-41c6-99b1-137fb60195d2___Matt.S_CG 1374.JPG,21.48,76.87,8.47
+lab/train/Septoria_leaf_spot/e3cf776f-6089-4d1d-bc0d-d6102ac4c7d4___Matt.S_CG 1047.JPG,22.66,78.65,5.09
+lab/train/Septoria_leaf_spot/e5459c36-6659-447a-a0e8-683dba49c0e1___Keller.St_CG 1979.JPG,27.59,83.5,9.12
+lab/train/Septoria_leaf_spot/e5579fb1-6485-49da-9839-4ece906a6865___Matt.S_CG 0682.JPG,21.32,80.0,13.55
+lab/train/Septoria_leaf_spot/e59c82e1-d055-4876-87dd-1a2f7d1cfa11___Matt.S_CG 7804.JPG,25.78,73.18,14.78
+lab/train/Septoria_leaf_spot/e65190f0-97e9-44a6-bcb8-9fe7d42e9200___Matt.S_CG 7413.JPG,27.38,86.89,14.36
+lab/train/Septoria_leaf_spot/e67e4823-40e1-4efe-a49e-f063290b0657___Matt.S_CG 6202.JPG,24.03,86.53,6.07
+lab/train/Septoria_leaf_spot/e7b22345-5249-429d-af6a-459d4c9a91b1___Matt.S_CG 1655.JPG,22.52,78.74,11.83
+lab/train/Septoria_leaf_spot/e89e0b29-12a9-4b88-9dbe-219721597994___JR_Sept.L.S 8490.JPG,24.08,74.48,13.64
+lab/train/Septoria_leaf_spot/e9de0604-a1be-42b7-8c6f-f376904c0473___Matt.S_CG 1688.JPG,20.95,72.95,9.54
+lab/train/Septoria_leaf_spot/ee3b2acc-37ce-4dd0-8ce3-ec270404050b___JR_Sept.L.S 8413.JPG,21.01,89.36,8.62
+lab/train/Septoria_leaf_spot/ef52809f-d100-4e76-82b6-6091dc98deae___Matt.S_CG 7781.JPG,20.49,76.97,10.04
+lab/train/Septoria_leaf_spot/ef5f4371-8cb7-4eff-900e-7290201af53e___JR_Sept.L.S 8393.JPG,22.56,70.95,5.06
+lab/train/Septoria_leaf_spot/f03f1047-7c62-44b8-b59a-62811f94a127___JR_Sept.L.S 8527.JPG,21.23,70.93,6.31
+lab/train/Septoria_leaf_spot/f097ffb6-610d-4801-a303-5d60ff24fafa___Matt.S_CG 6294.JPG,25.47,77.08,8.19
+lab/train/Septoria_leaf_spot/f285de60-b746-43c9-8891-133dce784b44___Keller.St_CG 1788.JPG,25.01,75.82,13.16
+lab/train/Septoria_leaf_spot/f2be0eb5-213e-44f1-b618-4d329e04b6a4___JR_Sept.L.S 8494.JPG,27.5,71.96,12.17
+lab/train/Septoria_leaf_spot/f30ddd54-529d-4e4e-bca6-ddad3a68a690___Matt.S_CG 7858.JPG,23.91,88.16,5.35
+lab/train/Septoria_leaf_spot/f3e6061a-4425-4975-98e1-bfac4dc21a0e___Keller.St_CG 1938.JPG,22.78,77.74,6.0
+lab/train/Septoria_leaf_spot/f4360fdc-ebcc-4ecd-8873-4fe37484e2dd___Matt.S_CG 0825.JPG,21.96,81.96,14.05
+lab/train/Septoria_leaf_spot/f4640d91-2fa7-4eb1-9d0c-45b8bc42eda2___Matt.S_CG 6117.JPG,20.36,76.7,13.51
+lab/train/Septoria_leaf_spot/f67d781b-72a1-4e74-9a0b-770bf4b03882___Keller.St_CG 1944.JPG,21.64,84.18,12.58
+lab/train/Septoria_leaf_spot/f7c80186-a4f8-4c18-af38-106b81f23bbd___Matt.S_CG 7658.JPG,23.16,89.06,9.09
+lab/train/Septoria_leaf_spot/f7f15148-b2f9-4b26-b94c-745e0325f872___Matt.S_CG 6244.JPG,26.63,83.51,12.45
+lab/train/Septoria_leaf_spot/f89c062b-b2ea-4bfc-846f-dc0096b72822___Matt.S_CG 7537.JPG,21.33,75.47,8.3
+lab/train/Septoria_leaf_spot/f89c35d4-54aa-465a-8bf5-136d83978120___Matt.S_CG 2644.JPG,27.18,79.21,13.12
+lab/train/Septoria_leaf_spot/f9817507-b3a3-4072-aad8-1b9afc3dc45a___Matt.S_CG 7628.JPG,27.24,81.17,11.54
+lab/train/Septoria_leaf_spot/f9b31399-e5b4-4573-9fd3-9bf2079478c5___JR_Sept.L.S 2723.JPG,21.14,87.31,13.18
+lab/train/Septoria_leaf_spot/fa1725b1-34e1-49b9-b9e4-13a51757c28e___Matt.S_CG 0784.JPG,27.12,77.59,10.18
+lab/train/Septoria_leaf_spot/fa3ff0d9-86fc-4619-8226-87ba10db97f0___Matt.S_CG 2464.JPG,25.41,82.55,5.41
+lab/train/Septoria_leaf_spot/fae75392-41a3-4363-b073-32f20bc1cc68___Keller.St_CG 1999.JPG,20.63,74.62,7.09
+lab/train/Septoria_leaf_spot/fb6bea39-f361-457c-b73e-fe3b2dbe6259___Matt.S_CG 2786.JPG,26.87,89.47,9.59
+lab/train/Septoria_leaf_spot/fc5b136a-102b-454a-8200-ddf85b2a0e52___Keller.St_CG 1898.JPG,21.42,86.76,13.51
+lab/train/Septoria_leaf_spot/fc5d2094-6116-423e-9d2a-a0cc1c7b19af___Matt.S_CG 2529.JPG,25.86,71.34,5.1
+lab/train/Septoria_leaf_spot/fc6759ac-f4b4-4ab3-81d1-8f0761ebea6a___Keller.St_CG 1857.JPG,24.96,73.85,12.74
+lab/train/Septoria_leaf_spot/fc963fa5-7179-402b-95e7-018c2837d2c1___JR_Sept.L.S 2706.JPG,20.42,81.06,11.53
+lab/train/Septoria_leaf_spot/fcc9e28b-c2b2-400d-bd70-7cf4f75d8313___Matt.S_CG 7751.JPG,27.36,76.26,11.4
+lab/train/Septoria_leaf_spot/fcf78048-c241-4211-b63c-737d5d9f24b9___Keller.St_CG 1774.JPG,24.61,74.33,8.32
+lab/train/Septoria_leaf_spot/fef6e580-b1a6-4093-829d-73472fc5c9f9___Matt.S_CG 7545.JPG,27.44,75.15,14.42
+lab/train/Septoria_leaf_spot/ff3ff139-ca11-4e48-b78e-29147bec8ae4___Keller.St_CG 1981.JPG,22.08,72.52,10.0
+lab/train/Yellow_Leaf_Curl_Virus/02d5be6b-eafd-4063-9ba5-4a01901bce82___UF.GRC_YLCV_Lab 03004.JPG,31.98,40.09,2.43
+lab/train/Yellow_Leaf_Curl_Virus/02dc4f14-66a1-4db1-8367-96413b7187d5___YLCV_GCREC 2151.JPG,32.86,57.3,4.69
+lab/train/Yellow_Leaf_Curl_Virus/03b15a5f-1b74-42a1-866a-1c6feb171121___UF.GRC_YLCV_Lab 02358.JPG,30.44,47.53,4.91
+lab/train/Yellow_Leaf_Curl_Virus/05c7f371-7278-4d67-9bbf-9c21096b6044___YLCV_GCREC 2425.JPG,34.94,59.69,2.79
+lab/train/Yellow_Leaf_Curl_Virus/05df622c-d852-4890-8377-73c311cb5634___YLCV_GCREC 2854.JPG,33.79,40.15,0.66
+lab/train/Yellow_Leaf_Curl_Virus/0ae630bc-8f67-40b7-b264-120ba0d66341___YLCV_GCREC 5115.JPG,30.99,42.34,2.46
+lab/train/Yellow_Leaf_Curl_Virus/0b496439-e920-4d79-97dd-cfbbd491b895___UF.GRC_YLCV_Lab 01276.JPG,28.43,56.52,4.31
+lab/train/Yellow_Leaf_Curl_Virus/0d18695b-030f-4bf4-9153-40759c2a6110___YLCV_GCREC 2242.JPG,34.67,50.42,2.82
+lab/train/Yellow_Leaf_Curl_Virus/0d55ad70-9d84-46ef-a515-1291d27997ac___YLCV_GCREC 5242.JPG,34.43,54.11,2.09
+lab/train/Yellow_Leaf_Curl_Virus/11310b42-2463-4a9c-bc4e-145f73bee307___YLCV_GCREC 2609.JPG,31.29,57.29,3.62
+lab/train/Yellow_Leaf_Curl_Virus/11e8ed90-0a9b-4730-b239-7eac7a93fcc2___YLCV_NREC 2741.JPG,33.92,58.21,0.52
+lab/train/Yellow_Leaf_Curl_Virus/13e11d2f-2dca-4cb4-a6df-ec46e1e583d5___UF.GRC_YLCV_Lab 02116.JPG,31.15,49.87,1.12
+lab/train/Yellow_Leaf_Curl_Virus/14a66aa9-5876-41dd-a925-d9fad74146f9___UF.GRC_YLCV_Lab 02162.JPG,34.77,50.48,2.32
+lab/train/Yellow_Leaf_Curl_Virus/1799820c-7e9b-4aa9-9bd8-1f30bc03a020___UF.GRC_YLCV_Lab 01522.JPG,29.43,50.03,4.22
+lab/train/Yellow_Leaf_Curl_Virus/18d740ae-e2cc-40cf-8c03-530a8f2dc4cb___YLCV_GCREC 2905.JPG,33.24,40.16,2.7
+lab/train/Yellow_Leaf_Curl_Virus/1a733ead-09a5-44d8-a07f-c0af97c8798d___YLCV_GCREC 2520.JPG,30.41,46.29,4.54
+lab/train/Yellow_Leaf_Curl_Virus/1ad9445f-f1aa-43ee-b0b6-e811fb120bcb___UF.GRC_YLCV_Lab 02600.JPG,29.7,47.13,3.48
+lab/train/Yellow_Leaf_Curl_Virus/1c5a96dd-01aa-4481-83a9-5c6f650ab2b5___UF.GRC_YLCV_Lab 08543.JPG,28.23,56.92,0.32
+lab/train/Yellow_Leaf_Curl_Virus/1df0792a-e9eb-4eef-8e59-77ac4ed0a422___UF.GRC_YLCV_Lab 02641.JPG,34.63,51.13,3.89
+lab/train/Yellow_Leaf_Curl_Virus/2171d774-ac55-4859-8c78-2de496fef822___YLCV_NREC 2976.JPG,33.87,50.69,4.56
+lab/train/Yellow_Leaf_Curl_Virus/21970f61-4191-485f-bf85-4ce2d66d5fb5___YLCV_GCREC 2532.JPG,30.54,41.32,4.88
+lab/train/Yellow_Leaf_Curl_Virus/2532b703-2998-466b-b9c2-4ef6f7a2bbc8___UF.GRC_YLCV_Lab 02737.JPG,31.35,49.61,0.94
+lab/train/Yellow_Leaf_Curl_Virus/258a3644-5db6-44b9-8408-0c67999b6588___UF.GRC_YLCV_Lab 02354.JPG,32.16,54.34,3.85
+lab/train/Yellow_Leaf_Curl_Virus/2b83a638-e1d2-4fca-ad2b-7b16e970fe06___UF.GRC_YLCV_Lab 01438.JPG,31.88,46.74,4.32
+lab/train/Yellow_Leaf_Curl_Virus/2c63abde-6c3f-422f-861d-ef78dce24a3c___UF.GRC_YLCV_Lab 02630.JPG,34.77,58.52,3.13
+lab/train/Yellow_Leaf_Curl_Virus/2cc6d499-bf92-48c6-b0f9-6d9ef3c2f76e___UF.GRC_YLCV_Lab 03271.JPG,33.06,42.14,0.51
+lab/train/Yellow_Leaf_Curl_Virus/2cd782b8-c502-466e-a21f-36d1fd6680a2___YLCV_GCREC 5365.JPG,31.81,51.99,3.56
+lab/train/Yellow_Leaf_Curl_Virus/2e31dd57-4b29-4dcb-85ab-d0418540935d___YLCV_GCREC 1993.JPG,31.85,54.99,0.46
+lab/train/Yellow_Leaf_Curl_Virus/3288f220-6679-4d0b-9aca-b0603da72bd3___UF.GRC_YLCV_Lab 01444.JPG,33.06,40.88,2.15
+lab/train/Yellow_Leaf_Curl_Virus/333a86e3-ef4c-4e03-a4f5-2470ffc6fb9d___YLCV_NREC 2748.JPG,29.65,49.87,2.94
+lab/train/Yellow_Leaf_Curl_Virus/3546af00-4ea6-49c0-b00d-f96cff4f8fea___UF.GRC_YLCV_Lab 02361.JPG,28.32,53.56,2.83
+lab/train/Yellow_Leaf_Curl_Virus/35b7ed1e-b057-4e10-bb93-bdf41cacf5d9___UF.GRC_YLCV_Lab 02546.JPG,29.85,42.07,0.75
+lab/train/Yellow_Leaf_Curl_Virus/36543f6a-1f3a-4371-8b0b-f60995a966a4___UF.GRC_YLCV_Lab 01266.JPG,28.95,57.52,1.46
+lab/train/Yellow_Leaf_Curl_Virus/38057ee8-7880-4c82-a781-3fe2abb01ce2___UF.GRC_YLCV_Lab 02074.JPG,34.57,56.21,3.83
+lab/train/Yellow_Leaf_Curl_Virus/39024c18-9ae7-41b4-8ade-113eb7c575e3___UF.GRC_YLCV_Lab 01746.JPG,31.43,52.47,3.87
+lab/train/Yellow_Leaf_Curl_Virus/3a81d1b3-8d67-4806-90e5-04b7c0294c61___UF.GRC_YLCV_Lab 01893.JPG,28.79,52.03,4.85
+lab/train/Yellow_Leaf_Curl_Virus/3b79073d-5c09-4d98-8b69-b93f94d44555___UF.GRC_YLCV_Lab 09435.JPG,31.07,59.82,3.37
+lab/train/Yellow_Leaf_Curl_Virus/3e70a27a-b642-4936-84bf-aace2944a76f___UF.GRC_YLCV_Lab 01368.JPG,32.56,46.39,2.43
+lab/train/Yellow_Leaf_Curl_Virus/3f2a9199-c753-4c26-b56b-b5075805ddba___UF.GRC_YLCV_Lab 02833.JPG,34.84,43.17,2.47
+lab/train/Yellow_Leaf_Curl_Virus/409b001a-586a-4b69-9337-af6f78f7ef31___YLCV_NREC 2074.JPG,33.61,52.34,1.04
+lab/train/Yellow_Leaf_Curl_Virus/425108d9-93e7-4a2d-89ba-3d4482d134a4___YLCV_GCREC 5299.JPG,33.6,43.0,4.32
+lab/train/Yellow_Leaf_Curl_Virus/43b2be62-cb86-46f4-9049-92e77d4f335b___YLCV_NREC 0074.JPG,32.25,48.93,1.88
+lab/train/Yellow_Leaf_Curl_Virus/449579e5-cbc9-4bb2-ac10-2127a8bd8928___UF.GRC_YLCV_Lab 09597.JPG,28.67,45.41,2.41
+lab/train/Yellow_Leaf_Curl_Virus/44ae864d-be5f-4a76-a377-0b69c2448f10___YLCV_NREC 2811.JPG,34.06,49.93,4.46
+lab/train/Yellow_Leaf_Curl_Virus/451ff5a5-ef2f-4212-83bb-adad7e315acf___UF.GRC_YLCV_Lab 01660.JPG,28.86,43.76,1.21
+lab/train/Yellow_Leaf_Curl_Virus/46357663-05f0-4b12-a791-77ebc75964ea___UF.GRC_YLCV_Lab 03317.JPG,32.27,48.52,2.03
+lab/train/Yellow_Leaf_Curl_Virus/4a5b0a30-27ff-400d-ad0c-0ee1e68df21b___UF.GRC_YLCV_Lab 02840.JPG,34.76,40.84,2.7
+lab/train/Yellow_Leaf_Curl_Virus/4a881700-5f8f-4acb-841b-8d4f5e74b9f9___YLCV_NREC 2685.JPG,34.56,45.04,0.98
+lab/train/Yellow_Leaf_Curl_Virus/4a9a6004-4762-4567-9423-94a7bd370f97___UF.GRC_YLCV_Lab 02717.JPG,30.41,54.8,4.49
+lab/train/Yellow_Leaf_Curl_Virus/4b2e4a8c-a995-4aa6-8b50-7d41ef8a7255___YLCV_GCREC 5433.JPG,31.89,52.14,4.12
+lab/train/Yellow_Leaf_Curl_Virus/4b4f6e75-ef0b-4a43-a67e-44203fa8c229___YLCV_GCREC 2344.JPG,34.3,40.37,4.07
+lab/train/Yellow_Leaf_Curl_Virus/4b9d525a-b5ef-45b6-b55b-fd11e581a5ff___YLCV_GCREC 5531.JPG,33.89,54.11,2.42
+lab/train/Yellow_Leaf_Curl_Virus/4bb239ed-5d7b-4d5e-95a6-411440925ba1___YLCV_GCREC 2115.JPG,28.02,50.23,2.28
+lab/train/Yellow_Leaf_Curl_Virus/4bb8c87b-91fc-4d7c-ae95-bcebefe62dcd___YLCV_NREC 2235.JPG,32.31,43.73,2.93
+lab/train/Yellow_Leaf_Curl_Virus/4d220a58-1589-40ae-a8fc-087d77afded7___YLCV_NREC 2618.JPG,31.76,58.99,0.87
+lab/train/Yellow_Leaf_Curl_Virus/506efa52-b002-49a5-aa72-022e24185161___UF.GRC_YLCV_Lab 02243.JPG,30.53,53.81,2.7
+lab/train/Yellow_Leaf_Curl_Virus/54447643-06bc-4315-be51-0e8126fae338___UF.GRC_YLCV_Lab 02262.JPG,32.4,59.54,2.27
+lab/train/Yellow_Leaf_Curl_Virus/58b85e6d-6149-453b-839b-731577d40df9___YLCV_GCREC 2225.JPG,29.31,46.88,1.03
+lab/train/Yellow_Leaf_Curl_Virus/592ee97a-5272-488c-a6ff-eaf840540023___UF.GRC_YLCV_Lab 03277.JPG,30.64,46.53,0.05
+lab/train/Yellow_Leaf_Curl_Virus/5b03f612-aec0-4a00-aaab-f49d96b46830___YLCV_GCREC 2431.JPG,29.15,46.11,4.36
+lab/train/Yellow_Leaf_Curl_Virus/5bc3e99e-cdbd-45d7-bbc3-0fd74fcea115___YLCV_NREC 2031.JPG,31.23,47.85,2.51
+lab/train/Yellow_Leaf_Curl_Virus/5ce2524a-e6a4-4948-84ad-7528645340cf___UF.GRC_YLCV_Lab 01864.JPG,34.46,53.07,4.77
+lab/train/Yellow_Leaf_Curl_Virus/617d8604-4b86-4154-99c2-2910429596f8___YLCV_NREC 0109.JPG,31.66,41.75,3.38
+lab/train/Yellow_Leaf_Curl_Virus/630d9390-f02d-4e8b-b311-bdf948c28d3d___YLCV_NREC 2189.JPG,31.91,58.14,3.99
+lab/train/Yellow_Leaf_Curl_Virus/6588edba-f34c-47a7-ac40-85a8dfdfc7de___UF.GRC_YLCV_Lab 02395.JPG,32.1,52.81,2.93
+lab/train/Yellow_Leaf_Curl_Virus/6d57c47e-8499-4b89-85a1-81e1b99c187d___UF.GRC_YLCV_Lab 09450.JPG,33.98,50.69,4.63
+lab/train/Yellow_Leaf_Curl_Virus/6d5a3f06-e19e-4a6e-8e10-c441daf2a48e___YLCV_GCREC 1978.JPG,32.16,55.7,1.83
+lab/train/Yellow_Leaf_Curl_Virus/6e382244-fb3a-4caa-af71-05fff25f1c27___UF.GRC_YLCV_Lab 03397.JPG,28.66,46.96,0.77
+lab/train/Yellow_Leaf_Curl_Virus/6ff8f2bf-6ba0-417b-8f85-736d191eca9b___YLCV_GCREC 2835.JPG,30.68,48.07,2.63
+lab/train/Yellow_Leaf_Curl_Virus/70a6bc64-f52e-4cb3-8561-cc16927fde6f___YLCV_GCREC 5187.JPG,34.69,45.22,1.28
+lab/train/Yellow_Leaf_Curl_Virus/73ac94a4-7ca4-4716-bdc9-f27355d3b5ea___YLCV_NREC 0105.JPG,31.0,40.77,0.75
+lab/train/Yellow_Leaf_Curl_Virus/73d59750-7dac-4508-98d3-b975d0cf8245___UF.GRC_YLCV_Lab 01461.JPG,33.66,53.72,4.55
+lab/train/Yellow_Leaf_Curl_Virus/75c55562-e553-48a9-bdb3-a7b003390ac6___UF.GRC_YLCV_Lab 01908.JPG,30.73,51.78,4.73
+lab/train/Yellow_Leaf_Curl_Virus/7656252f-8a0a-4e98-af75-b28de427afe2___YLCV_NREC 2344.JPG,28.86,59.27,2.53
+lab/train/Yellow_Leaf_Curl_Virus/7997a8cd-bc11-411a-8992-2842a65b6c62___YLCV_GCREC 5232.JPG,34.61,46.74,2.15
+lab/train/Yellow_Leaf_Curl_Virus/7a715b09-e475-41fc-89ca-893ddd45e0df___UF.GRC_YLCV_Lab 01883.JPG,31.81,59.25,2.25
+lab/train/Yellow_Leaf_Curl_Virus/7b1d24af-cc7c-4883-afcf-6f0d46254281___YLCV_GCREC 5469.JPG,30.21,59.49,1.66
+lab/train/Yellow_Leaf_Curl_Virus/7c252c1c-dce9-4f73-8ba8-6b8efd6fa631___YLCV_GCREC 2148.JPG,34.53,52.64,2.78
+lab/train/Yellow_Leaf_Curl_Virus/7dcfedf2-e798-40d7-b7f9-bb87f36adcfb___UF.GRC_YLCV_Lab 02645.JPG,31.9,51.02,3.86
+lab/train/Yellow_Leaf_Curl_Virus/8059bfc1-a2e0-4684-a4f0-c69c676fff34___UF.GRC_YLCV_Lab 02796.JPG,30.09,58.48,3.65
+lab/train/Yellow_Leaf_Curl_Virus/81a7b0d8-0e23-474e-8e3a-1d133a52de97___YLCV_GCREC 2575.JPG,32.27,48.91,2.17
+lab/train/Yellow_Leaf_Curl_Virus/8202d08a-a2db-4257-9eab-117ad7cd3aa5___UF.GRC_YLCV_Lab 09522.JPG,28.04,49.03,0.41
+lab/train/Yellow_Leaf_Curl_Virus/83e4763b-21ad-4834-8d9e-1555f4d295c7___UF.GRC_YLCV_Lab 03047.JPG,31.02,58.24,3.24
+lab/train/Yellow_Leaf_Curl_Virus/8b16cc37-30cc-4685-a5fd-6259d200451a___YLCV_NREC 2270.JPG,32.18,48.81,4.29
+lab/train/Yellow_Leaf_Curl_Virus/8bbe5c70-9ab7-4d3e-bb12-05a4bc106af6___YLCV_GCREC 2107.JPG,33.29,54.91,0.21
+lab/train/Yellow_Leaf_Curl_Virus/8bfac020-c591-4fbb-aa1d-f6e2499ee6a2___UF.GRC_YLCV_Lab 02903.JPG,34.55,50.1,0.98
+lab/train/Yellow_Leaf_Curl_Virus/8e44ace3-4d6c-4e87-a81c-6c00c3a9fb79___YLCV_GCREC 1906.JPG,32.54,51.97,1.5
+lab/train/Yellow_Leaf_Curl_Virus/8ed27b95-17ba-4d1c-a149-ef4603dd8f61___UF.GRC_YLCV_Lab 01969.JPG,32.95,53.42,2.94
+lab/train/Yellow_Leaf_Curl_Virus/8eebd2c4-96f3-422f-aa65-e14f6a354ea5___UF.GRC_YLCV_Lab 01884.JPG,33.36,51.63,0.53
+lab/train/Yellow_Leaf_Curl_Virus/9314c285-23d4-4107-b9a5-67d2d2a32921___YLCV_GCREC 2600.JPG,29.25,41.76,1.86
+lab/train/Yellow_Leaf_Curl_Virus/940f3c45-f5e4-4805-8a4d-1c2e288d9fb1___YLCV_GCREC 1942.JPG,33.75,56.43,3.25
+lab/train/Yellow_Leaf_Curl_Virus/97c12f01-9f88-4895-b0da-90c882f3f79a___UF.GRC_YLCV_Lab 01588.JPG,28.1,44.26,3.28
+lab/train/Yellow_Leaf_Curl_Virus/9a6fede1-174f-45eb-9870-9f9d372c7f6b___UF.GRC_YLCV_Lab 02696.JPG,30.69,44.73,4.2
+lab/train/Yellow_Leaf_Curl_Virus/9b194554-973f-48ea-93ba-92fe00543183___YLCV_GCREC 5470.JPG,29.48,52.2,4.15
+lab/train/Yellow_Leaf_Curl_Virus/9df1f616-71a9-46c1-9018-056d6e18d5dc___YLCV_GCREC 2315.JPG,33.2,47.83,2.12
+lab/train/Yellow_Leaf_Curl_Virus/9e030168-9724-409c-b271-c7ad62afc35e___UF.GRC_YLCV_Lab 02572.JPG,34.04,47.53,4.66
+lab/train/Yellow_Leaf_Curl_Virus/9f1e41b6-c547-481b-9bfe-bbb62e0ebec5___YLCV_GCREC 5431.JPG,29.59,50.56,1.24
+lab/train/Yellow_Leaf_Curl_Virus/a0689cc8-7329-4c38-bc16-5432089d7728___YLCV_GCREC 1912.JPG,34.96,45.51,2.3
+lab/train/Yellow_Leaf_Curl_Virus/a25f8be8-40ac-4616-92ea-84428ecdd5e3___YLCV_NREC 2890.JPG,30.96,49.63,0.54
+lab/train/Yellow_Leaf_Curl_Virus/a2aa2492-f32a-4d05-a6fc-946193a7ee7e___YLCV_NREC 0149.JPG,30.79,51.74,4.03
+lab/train/Yellow_Leaf_Curl_Virus/a4019530-f089-401a-8b4a-b24c56e14c17___YLCV_GCREC 2814.JPG,28.34,57.59,4.61
+lab/train/Yellow_Leaf_Curl_Virus/a5d4fc36-3c39-4752-bc20-f9f0701b5bb6___YLCV_NREC 2814.JPG,29.03,58.1,2.08
+lab/train/Yellow_Leaf_Curl_Virus/a6b1e8c1-ee33-4aad-b176-59eaf40df011___UF.GRC_YLCV_Lab 09622.JPG,34.55,55.68,1.37
+lab/train/Yellow_Leaf_Curl_Virus/ac0a7a86-5886-4cb3-a22a-a1bde24b84ff___UF.GRC_YLCV_Lab 03024.JPG,29.18,58.02,2.58
+lab/train/Yellow_Leaf_Curl_Virus/acb84d19-7988-4d91-a14c-d6d513e00707___UF.GRC_YLCV_Lab 02782.JPG,31.53,58.96,0.05
+lab/train/Yellow_Leaf_Curl_Virus/af67ecf5-473c-499e-9488-e0d349f90e9b___UF.GRC_YLCV_Lab 01777.JPG,28.5,50.58,3.0
+lab/train/Yellow_Leaf_Curl_Virus/af7f7077-9ebf-478f-ac0f-4f1ec52766db___UF.GRC_YLCV_Lab 02607.JPG,33.85,59.0,3.8
+lab/train/Yellow_Leaf_Curl_Virus/b1c01d02-66f9-4b4e-a426-696cbf28955d___UF.GRC_YLCV_Lab 01737.JPG,29.86,42.21,0.5
+lab/train/Yellow_Leaf_Curl_Virus/b2aba426-856c-4803-bc9e-5a5010e17d37___UF.GRC_YLCV_Lab 02767.JPG,34.19,57.6,2.78
+lab/train/Yellow_Leaf_Curl_Virus/b2c15dfd-4374-4f5c-bb0e-419759a7bfda___UF.GRC_YLCV_Lab 02794.JPG,32.99,58.25,4.25
+lab/train/Yellow_Leaf_Curl_Virus/b57bfdc6-1769-4976-8d28-14e1c7915b36___YLCV_NREC 2855.JPG,34.89,41.76,1.5
+lab/train/Yellow_Leaf_Curl_Virus/b5ff4770-9782-4ff2-a0d9-d82704af21a8___UF.GRC_YLCV_Lab 03209.JPG,33.15,48.01,3.65
+lab/train/Yellow_Leaf_Curl_Virus/b842c6cb-e3c9-4413-ac9f-a2ec0c5424c1___YLCV_NREC 2435.JPG,30.72,45.73,1.34
+lab/train/Yellow_Leaf_Curl_Virus/b89e6dce-ebc9-4eac-a0f8-19e34657f6e1___UF.GRC_YLCV_Lab 02067.JPG,33.1,48.5,2.67
+lab/train/Yellow_Leaf_Curl_Virus/b8d2f745-4883-4ab9-baf6-1638c2b7a4f5___UF.GRC_YLCV_Lab 03258.JPG,30.51,54.59,0.86
+lab/train/Yellow_Leaf_Curl_Virus/ba0e3c46-555d-4d48-9853-3ae7f148e2fa___YLCV_NREC 2933.JPG,30.06,54.0,2.37
+lab/train/Yellow_Leaf_Curl_Virus/bc22ec4c-e1ad-4226-b406-e376f7c138e6___YLCV_NREC 2035.JPG,31.53,55.67,2.88
+lab/train/Yellow_Leaf_Curl_Virus/c0e28cbf-0362-46f8-a21c-263ffc641cf8___YLCV_NREC 2623.JPG,33.65,56.72,1.29
+lab/train/Yellow_Leaf_Curl_Virus/c1605479-3f12-4392-b373-ad26203bc712___UF.GRC_YLCV_Lab 02323.JPG,33.01,47.86,1.32
+lab/train/Yellow_Leaf_Curl_Virus/c3c9e2bf-f2d6-4c12-a619-13551e3f7340___UF.GRC_YLCV_Lab 01868.JPG,28.34,54.12,3.5
+lab/train/Yellow_Leaf_Curl_Virus/c6380761-954b-4a14-b686-05ce51868611___UF.GRC_YLCV_Lab 02268.JPG,29.02,47.97,4.48
+lab/train/Yellow_Leaf_Curl_Virus/c9f441ec-9e43-4faf-981f-1e2b3573250e___YLCV_NREC 2835.JPG,33.32,48.69,1.62
+lab/train/Yellow_Leaf_Curl_Virus/ce0a88f5-9827-4eca-abb5-fa3b4757daa1___YLCV_GCREC 2607.JPG,28.83,46.54,2.34
+lab/train/Yellow_Leaf_Curl_Virus/ce145bc2-c0fa-40b5-8622-38a7a88a1823___UF.GRC_YLCV_Lab 02441.JPG,32.99,45.1,0.46
+lab/train/Yellow_Leaf_Curl_Virus/cee46f5c-572a-46b0-9093-ba230d00411f___UF.GRC_YLCV_Lab 03270.JPG,29.64,54.21,3.24
+lab/train/Yellow_Leaf_Curl_Virus/d2eedd7f-f199-4800-95eb-49c7e5f827c7___UF.GRC_YLCV_Lab 03071.JPG,33.08,45.19,1.51
+lab/train/Yellow_Leaf_Curl_Virus/d3165754-e6d7-4fa6-a3dd-86d00ad353e8___UF.GRC_YLCV_Lab 02631.JPG,29.77,55.33,3.72
+lab/train/Yellow_Leaf_Curl_Virus/d44dcabc-e93d-4a7d-ace4-37bb669bc7e1___UF.GRC_YLCV_Lab 02614.JPG,34.32,42.98,1.52
+lab/train/Yellow_Leaf_Curl_Virus/d519df4e-739b-40ca-ac03-109eee9683fb___YLCV_GCREC 5236.JPG,32.52,40.8,0.94
+lab/train/Yellow_Leaf_Curl_Virus/d8ef30fa-769d-4c94-8f81-2174bc740b5a___YLCV_GCREC 2394.JPG,29.12,48.7,2.79
+lab/train/Yellow_Leaf_Curl_Virus/d92f4492-2e10-4cd9-a612-71a8a85ecb74___UF.GRC_YLCV_Lab 01505.JPG,30.75,43.51,0.84
+lab/train/Yellow_Leaf_Curl_Virus/db1391d0-e8ca-45b9-abc3-a80dca761167___YLCV_NREC 2777.JPG,29.7,57.35,3.43
+lab/train/Yellow_Leaf_Curl_Virus/db235ef9-5db9-442d-877f-6eeacf7bd14b___YLCV_GCREC 2793.JPG,34.05,52.97,0.25
+lab/train/Yellow_Leaf_Curl_Virus/dc4756b0-aca4-4bad-a224-c6a3be0708bf___YLCV_GCREC 5239.JPG,29.71,59.33,3.99
+lab/train/Yellow_Leaf_Curl_Virus/df852766-76dd-4029-be71-d3960bc234ec___YLCV_GCREC 2537.JPG,29.45,40.26,0.44
+lab/train/Yellow_Leaf_Curl_Virus/e03a6b15-f236-4b0a-a1bc-a61f02f959ed___UF.GRC_YLCV_Lab 01915.JPG,33.88,57.66,0.29
+lab/train/Yellow_Leaf_Curl_Virus/e09091dd-892a-40ad-b9e4-7df92f4e72e9___YLCV_NREC 2147.JPG,28.97,56.19,1.57
+lab/train/Yellow_Leaf_Curl_Virus/e1913ee9-80ad-4295-beb4-d9d51b61ab7e___UF.GRC_YLCV_Lab 02497.JPG,33.13,45.4,4.88
+lab/train/Yellow_Leaf_Curl_Virus/e1e41157-d4e9-4661-a70a-a5fb5c6bfe91___UF.GRC_YLCV_Lab 03388.JPG,33.07,42.07,1.14
+lab/train/Yellow_Leaf_Curl_Virus/e20e49aa-c035-4485-9f7b-5bc2ef2b5568___UF.GRC_YLCV_Lab 08520.JPG,28.92,49.09,0.41
+lab/train/Yellow_Leaf_Curl_Virus/e736c313-f469-47b4-ba17-9babaf1be4d4___YLCV_NREC 2824.JPG,29.03,56.36,0.18
+lab/train/Yellow_Leaf_Curl_Virus/e90d6a66-fffc-41d9-adee-10cb9c0e3a99___YLCV_GCREC 2143.JPG,33.9,40.9,2.63
+lab/train/Yellow_Leaf_Curl_Virus/ebd7bada-7833-4062-810d-def9067c4db8___UF.GRC_YLCV_Lab 02683.JPG,32.84,48.69,3.66
+lab/train/Yellow_Leaf_Curl_Virus/ef68ed02-6aa2-4ce4-8af8-9e642e3c581f___YLCV_NREC 2436.JPG,30.01,56.48,3.14
+lab/train/Yellow_Leaf_Curl_Virus/efc37f3e-864a-49d0-8832-3dddafb4e3a6___YLCV_NREC 2819.JPG,34.69,46.54,2.3
+lab/train/Yellow_Leaf_Curl_Virus/f0c9b881-fe08-4be1-bef5-008e33eaf8a0___UF.GRC_YLCV_Lab 03269.JPG,29.89,50.37,2.69
+lab/train/Yellow_Leaf_Curl_Virus/f43ee1b9-8881-445e-a689-19e59e396c0e___UF.GRC_YLCV_Lab 02385.JPG,28.99,54.57,4.4
+lab/train/Yellow_Leaf_Curl_Virus/f522c5d0-b44e-44dc-b1eb-3fdad642b9fa___UF.GRC_YLCV_Lab 02331.JPG,29.09,54.05,1.17
+lab/train/Yellow_Leaf_Curl_Virus/f9e639c5-47fd-4b64-8c20-606711895e81___UF.GRC_YLCV_Lab 01315.JPG,29.13,45.23,0.76
+lab/train/Yellow_Leaf_Curl_Virus/fd3f0954-0ade-4026-a4fa-daaa84f5827a___YLCV_NREC 0225.JPG,32.48,50.59,4.32
+lab/train/Yellow_Leaf_Curl_Virus/fd549e70-e406-40cd-820f-6d1f186eb0ab___YLCV_NREC 2757.JPG,28.31,58.68,4.51
+lab/train/Yellow_Leaf_Curl_Virus/fd850095-02de-4842-a601-e104fabed314___YLCV_GCREC 2807.JPG,28.6,59.42,1.69
+field/train/Early_blight/100_46341.jpg,25.36,61.78,7.9
+field/train/Early_blight/1058_0.jpegitok=OQkdtxgv.jpg,27.75,60.35,5.87
+field/train/Early_blight/126689-004-D622CD2F.jpg,28.07,71.72,4.0
+field/train/Early_blight/12July_mwnews_3-C.jpg,25.19,72.29,2.33
+field/train/Early_blight/1576389-early%20blight%20symptoms.jpg,25.29,72.88,5.09
+field/train/Early_blight/20020531-early%20blight%20%20starts%20on%20lower%20leaves.jpg,28.66,75.71,4.25
+field/train/Early_blight/20080526-_DSC4211.jpg,29.86,64.74,5.73
+field/train/Early_blight/2373320.jpg,25.04,69.04,7.09
+field/train/Early_blight/30053_original.jpg,26.25,66.19,5.33
+field/train/Early_blight/3606630.jpg,26.16,70.2,2.52
+field/train/Early_blight/5086-early.jpg,29.48,60.82,4.63
+field/train/Early_blight/8%20mistakes%204.jpg,27.41,78.1,2.84
+field/train/Early_blight/8950022d45978228d5e44a35183efdb9--tomatoes-dyi.jpg,26.97,77.1,6.23
+field/train/Early_blight/august-11-early-leaf-blight-single-leaf.jpg,28.6,69.93,5.44
+field/train/Early_blight/b54d0e40027ff5e90e8ba7e1e9abf9bd--garden-guide-garden-ideas.jpg,26.22,72.67,7.89
+field/train/Early_blight/BCH%20medium%20thumbnail%20for%20upload%20%2836%29.jpg,24.45,76.02,4.56
+field/train/Early_blight/blog_early_blight_628.jpg,26.0,67.43,4.65
+field/train/Early_blight/confused-bacterial-canker-early-blight-zoom.JPG.jpg,29.66,63.17,7.78
+field/train/Early_blight/Diseased-Tomato-Plant.jpg,27.22,72.03,6.98
+field/train/Early_blight/droppedImage_3-1.jpg,24.12,69.05,6.28
+field/train/Early_blight/dscn3168.jpg,24.52,71.27,3.75
+field/train/Early_blight/ealryblight.jpg,24.86,72.53,2.51
+field/train/Early_blight/early%20blight%20%283%29.jpgitok=UMYWI0xr.jpg,25.82,64.72,3.0
+field/train/Early_blight/early%20blight%20%284%29.jpgitok=gfK5C193.jpg,29.57,67.41,2.62
+field/train/Early_blight/Early+Blight+-+Tomatoes.jpg,27.24,60.25,3.4
+field/train/Early_blight/early-blight-2x.jpg,25.42,70.33,6.4
+field/train/Early_blight/Early-blight-660x440.jpg,27.84,61.11,5.49
+field/train/Early_blight/early-blight-closeup-sm.jpg,24.68,69.68,4.6
+field/train/Early_blight/early-blight-in-high-tunnel-tomatoes-19tm74h.jpg,27.57,71.06,5.64
+field/train/Early_blight/early-blight-in-tomatoes.jpg,25.8,66.15,4.75
+field/train/Early_blight/early-blight-of-tomato-tomato-1.jpg,28.61,69.88,4.14
+field/train/Early_blight/early-blight-or-target-spot-alternaria-solani-lesions-on-a-tomato-BH3TH0.jpg,29.83,68.57,2.5
+field/train/Early_blight/early-blight-or-target-spot-alternaria-solani-lesions-on-a-tomato-BY9J8R.jpg,26.76,74.8,2.77
+field/train/Early_blight/early-blight-pp-labeled_orig.jpg,27.08,78.08,3.06
+field/train/Early_blight/Early-blight.jpg,27.96,71.2,6.77
+field/train/Early_blight/early-blight1.jpg,24.19,72.96,3.33
+field/train/Early_blight/Early-bligh_t.jpg,28.6,77.32,6.14
+field/train/Early_blight/early-tomato-blight.jpg,24.19,60.53,4.91
+field/train/Early_blight/earlyblight.jpg,25.19,70.33,2.63
+field/train/Early_blight/earlyblightpotato.jpg,27.92,74.29,3.02
+field/train/Early_blight/earlyblightresize.jpg,28.24,65.31,6.61
+field/train/Early_blight/earlyblighttomato.jpg,25.67,75.78,3.42
+field/train/Early_blight/Early_blight_1.jpg1376579808.jpg,29.53,66.12,4.1
+field/train/Early_blight/Early_Blight_of_Tomato1687.jpg,25.63,67.08,6.51
+field/train/Early_blight/early_blight_spots_l.jpg,29.53,67.68,7.54
+field/train/Early_blight/early_blight_tomato.jpg,26.41,76.07,7.33
+field/train/Early_blight/ebleafb.jpg,28.6,61.33,3.47
+field/train/Early_blight/eblight5.jpg,26.61,65.3,7.07
+field/train/Early_blight/EBTomato.jpg,27.48,64.2,7.15
+field/train/Early_blight/FS547-2-big.jpg,25.19,75.71,3.82
+field/train/Early_blight/gn201410308259997ar-jpg.jpg,24.68,62.25,2.37
+field/train/Early_blight/halleck_tomato_earlyblight__inline-half.jpg,27.41,65.1,4.88
+field/train/Early_blight/IMG_0591.jpg,24.58,62.25,5.99
+field/train/Early_blight/IMG_2436w.jpg,25.0,60.96,4.8
+field/train/Early_blight/MPC105550.jpg.rendition.largest.ss.jpg,24.87,79.75,7.56
+field/train/Early_blight/Original_e-blight.JPG.rend.hgtvcom.966.725.jpeg.jpg,26.52,73.68,4.6
+field/train/Early_blight/p1020083cs.jpg,24.08,69.21,7.21
+field/train/Early_blight/p1020084s.jpg,28.51,79.07,4.81
+field/train/Early_blight/spotonleaf1.jpg,29.34,66.17,2.44
+field/train/Early_blight/Tomato%20early%20blight%20target%20like%20leaf%20spot.jpg,27.64,71.43,5.21
+field/train/Early_blight/Tomato-Alternaria-Early-Blight.jpg,29.43,69.98,6.88
+field/train/Early_blight/Tomato-blight-large.jpg,29.59,72.03,5.93
+field/train/Early_blight/tomato-blight-phytophthora-infestans-early-stages-on-tomato-plant-b5n952.jpg,29.31,70.64,7.66
+field/train/Early_blight/tomato-blight-soil-treatment-early-tomato-blight-in-a-microcosm-lower-leaves-curl-up-and-die-bulls-eye-lesions-tomato-fungus-soil-treatment.jpg,29.27,70.18,3.75
+field/train/Early_blight/Tomato-diseases-prevention-treatment.-Early-blight..jpg,26.01,65.19,6.88
+field/train/Early_blight/tomato-early-blight-1.jpg,25.39,60.77,6.38
+field/train/Early_blight/Tomato-Early-Blight-e1513806873934.jpg,27.04,70.53,4.97
+field/train/Early_blight/Tomato-Early-Blight-Leaf-Examples-Cornell-University.jpg,27.99,67.83,7.03
+field/train/Early_blight/Tomato-Early-Blight-Leaves-Cornell-University.jpg,24.05,62.92,2.21
+field/train/Early_blight/Tomato-Early-Blight.jpg,24.28,65.83,5.13
+field/train/Early_blight/Tomato-early-blight_1_1-12wmver.jpg,27.18,74.88,7.18
+field/train/Early_blight/tomatoblight.jpg,27.17,64.33,6.88
+field/train/Early_blight/tomatoearlyblight.jpg,25.02,66.58,3.38
+field/train/Early_blight/tomato_blight_early.jpg,28.71,62.68,4.7
+field/train/Early_blight/tomato_D2b-Early-blight---RPitblado_zoom.jpg,25.55,76.74,2.39
+field/train/Early_blight/tomato_early-blight_02_zoom.jpg,28.96,66.32,3.64
+field/train/Early_blight/tomato_early-blight_03_zoom.jpg,27.47,63.2,4.28
+field/train/Early_blight/tomato_q1hq-early-blight-5052_zoom.jpg,29.83,62.04,2.61
+field/train/Early_blight/web1_copy_early-blight-6-_0.jpg,29.68,63.19,4.4
+field/train/Late_blight/118A_Tom_Late.jpg,19.65,85.13,9.3
+field/train/Late_blight/20150619d.jpg,22.69,89.81,19.36
+field/train/Late_blight/2017-08-27%2B-%2BLate%2BBlight%2Bon%2BGypsy%2B1.jpg,23.44,86.56,8.05
+field/train/Late_blight/5816170621_e1cce08736_z.jpg,21.71,92.49,11.15
+field/train/Late_blight/600.jpg,19.42,87.28,11.55
+field/train/Late_blight/7262-drought.jpg,18.94,89.7,10.46
+field/train/Late_blight/924977LateBlightLeaf.jpg,20.14,89.73,14.84
+field/train/Late_blight/a7710b5901ba1f8e9759ef7576cd9f09.jpg,20.99,91.47,8.23
+field/train/Late_blight/August-17-2012-Supplemental-6.jpg,20.89,93.42,9.76
+field/train/Late_blight/dsc_4621c.jpg,22.84,94.05,14.51
+field/train/Late_blight/dsc_4624s.jpg,21.69,90.3,16.99
+field/train/Late_blight/dsc_8140cs.jpg,20.06,87.87,15.35
+field/train/Late_blight/F%294.jpg,18.56,90.18,16.64
+field/train/Late_blight/Fig.%2014_opta.jpg,18.04,88.91,18.53
+field/train/Late_blight/FS547-6-big.jpg,18.02,94.23,16.51
+field/train/Late_blight/gardening-moisture-lateblight-tomato-leaf.jpg,23.67,82.05,19.0
+field/train/Late_blight/IMG_1526.jpg,20.26,91.14,19.01
+field/train/Late_blight/IMG_2254.JPG.jpg,18.56,85.71,14.94
+field/train/Late_blight/IMG_4182.JPG.jpg,19.17,86.27,18.5
+field/train/Late_blight/IMG_5360.jpg,20.53,90.0,12.01
+field/train/Late_blight/IMG_5368.jpg,20.49,85.45,9.48
+field/train/Late_blight/IMG_5813.jpg,22.18,90.79,9.79
+field/train/Late_blight/Late%20blight%20tomato1.jpg,19.12,81.16,18.91
+field/train/Late_blight/Late-Blight-A.jpg,18.78,81.27,8.75
+field/train/Late_blight/Late-blight-foliar-leasion-on-tomato.jpg,22.47,92.84,10.81
+field/train/Late_blight/late-blight-fungicides.jpg,19.05,80.54,19.94
+field/train/Late_blight/Late-blight-on-a-tomato-leaf.jpg,23.63,85.07,18.21
+field/train/Late_blight/Late-Blight-on-Tomato-4JDill.jpg,22.12,81.75,19.25
+field/train/Late_blight/late-blight-phytophthora-infestans-damage-to-tomato-leaves-and-fruit-cmnxnf.jpg,21.08,82.04,18.21
+field/train/Late_blight/Late-blight-symptoms-on-tomato-leaves-1r3uhy2.jpg,21.71,89.08,13.8
+field/train/Late_blight/late-blight-tom-leaf.jpg,18.04,82.82,9.77
+field/train/Late_blight/Late-blight-tomato-leaf-VikramBisht-MBag.jpg,19.24,90.53,19.46
+field/train/Late_blight/late-blight-tomato-leaf.jpg,23.83,91.65,17.78
+field/train/Late_blight/late-blight-tomato.jpg,20.66,87.75,18.49
+field/train/Late_blight/late-blight-TomC2-10.jpg,23.13,92.25,10.82
+field/train/Late_blight/LateBlight-Leaflet-Large-Spot_9005-ROTATED-sbzntn.jpg,22.03,93.39,14.33
+field/train/Late_blight/LateBlight-Tomato-JJ-2009-17nxg4q.jpg,18.02,88.08,15.66
+field/train/Late_blight/lateblight2.jpg,20.84,86.96,12.72
+field/train/Late_blight/LateBlightLeaf.jpg,22.98,86.42,11.78
+field/train/Late_blight/lateblightTom_lesion.jpg,21.29,89.1,17.03
+field/train/Late_blight/lateblightTom_lesion3.jpg,22.72,83.63,12.3
+field/train/Late_blight/LateBlt09_05.jpg,23.79,91.22,11.84
+field/train/Late_blight/LateBlt_FromRusinek.jpg,20.69,84.0,17.43
+field/train/Late_blight/late_blight1.jpg,19.12,83.14,12.14
+field/train/Late_blight/Late_Blight_2.jpg,22.26,82.3,8.61
+field/train/Late_blight/late_blight_2013_longisland1x1200.jpg,23.33,88.26,18.32
+field/train/Late_blight/late_blight_2013_longisland2x1200.jpg,20.24,89.99,8.3
+field/train/Late_blight/late_blight_drought_leaves1x1200.jpg,21.13,82.67,9.69
+field/train/Late_blight/late_blight_drought_leavescuux1200.jpg,22.72,81.69,8.57
+field/train/Late_blight/Late_blight_on_tomato_leaf_%287871756748%29.jpg,20.83,89.97,10.01
+field/train/Late_blight/late_blight_tomato_leaf.jpg,20.02,94.58,11.12
+field/train/Late_blight/late_blight_tomato_leaf1x1200.jpg,18.95,91.05,18.93
+field/train/Late_blight/late_blight_tomato_leaf5x12001-650x305.jpg,18.08,87.07,10.44
+field/train/Late_blight/late_blight_tomato_leaf5x12001.jpg,20.87,89.66,10.07
+field/train/Late_blight/late_blight_tomato_leaf_.jpg,21.54,88.42,19.21
+field/train/Late_blight/late_blight_tomato_leaf_sporex1200.jpg,21.21,90.68,16.26
+field/train/Late_blight/late_blight_tomato_leavesx500.jpg,22.69,81.84,18.17
+field/train/Late_blight/late_blight_tomato_transplant2x1200.jpg,22.75,82.01,10.93
+field/train/Late_blight/late_blight_tomato_unusual-symptomsx1200.jpg,22.88,85.28,14.97
+field/train/Late_blight/LB-2-225x300.jpg,21.48,81.85,11.83
+field/train/Late_blight/lb2.jpg,18.95,83.41,18.73
+field/train/Late_blight/lbleaf.jpg,20.14,94.55,16.42
+field/train/Late_blight/LBleaf2INIA_0.jpg,21.39,89.35,12.37
+field/train/Late_blight/lb_leaf_lesions2x1200.jpg,20.76,82.15,9.13
+field/train/Late_blight/lb_leaf_lesions3x1200.jpg,23.69,92.33,18.74
+field/train/Late_blight/lb_leaf_lesions4x1200.jpg,23.89,80.13,15.37
+field/train/Late_blight/p1020076cs.jpg,21.27,91.83,16.34
+field/train/Late_blight/Pest2369.jpg,21.66,80.19,19.41
+field/train/Late_blight/photo-2.jpg,20.26,91.99,19.05
+field/train/Late_blight/photo-9.jpg,22.8,91.05,11.85
+field/train/Late_blight/stock-photo-tomato-plants-infected-by-the-late-blight-plant-pathogen-phytophthora-infestans-macro-539209615.jpg,21.01,92.82,19.78
+field/train/Late_blight/symptoms_of_late_blight.jpg2__0.jpg,18.42,89.83,9.58
+field/train/Late_blight/symptoms_of_late_blight_0.jpg,22.71,89.8,16.89
+field/train/Late_blight/ToamtoLateBlight3-Version-3-oohvze.jpg,18.01,80.15,10.81
+field/train/Late_blight/Tomato%20late%20blight%20lesion%20closeup%2013F.JPG.jpg,20.4,87.83,18.75
+field/train/Late_blight/TOMATO%20LATE%20BLIGHT%20ON%20LEAF.jpg,19.18,85.7,18.22
+field/train/Late_blight/tomato+blight.jpg,20.79,89.22,12.66
+field/train/Late_blight/tomato-blight-phytophthora-infestans-close-up-of-infected-leaf-b5n95x.jpg,22.26,85.22,9.89
+field/train/Late_blight/tomato-late-blight-conn-2015-137c.jpg,21.71,82.37,12.55
+field/train/Late_blight/tomato-late-blight-conn-2015-139rcs.jpg,18.13,92.23,16.32
+field/train/Late_blight/tomato-late-blight-foliar-lesions_Scot-Nelson_CC-BY-SA-2.0.jpg,20.69,90.47,13.25
+field/train/Late_blight/tomato-late-blight-leaf-61-3x32.jpg,18.92,82.13,19.72
+field/train/Late_blight/Tomato-late-blight-leaf-Margaret-McGrath-Cornell-Bugwood.jpg,18.28,90.42,16.09
+field/train/Late_blight/tomato-late-blight-phytophthora-infestans-lesions-and-damage-on-tomato-bh3w9j.jpg,19.33,87.33,8.75
+field/train/Late_blight/tomato-late-blight-phytophthora-infestans-lesions-on-greenhouse-grown-ATA11J.jpg,23.48,93.44,10.7
+field/train/Late_blight/tomato-late-blight-phytophthora-infestans-mycelium-and-lesions-on-a15yr2.jpg,19.12,82.62,16.47
+field/train/Late_blight/tomato-late-blight-phytophthora-infestans-necrosis-sporulation-on-a-tomato-leaf-underside-X5YDDP.jpg,20.86,94.23,16.08
+field/train/Late_blight/tomato-late-blight-phytophthora-infestans-necrosis-sporulation-on-a-tomato-leaf-underside-XA233C.jpg,22.54,91.87,12.53
+field/train/Late_blight/tomato-late-blight-phytophthora-infestans-on-tomato-leaves-a15ym0.jpg,20.13,86.88,10.37
+field/train/Late_blight/tomato-late-blight-sporulation-on-a-tomato-leaflet-picture-id81781370s=612x612.jpg,21.23,88.15,16.65
+field/train/Late_blight/Tomato-Late-BlightBM.jpg,21.98,83.09,8.28
+field/train/Late_blight/tomato.early.blightH.jpg,23.07,93.84,16.69
+field/train/Late_blight/TomatoBlight.JPG.jpg,19.18,80.29,16.99
+field/train/Late_blight/TomatoLateBlight-3-Underside-2ebj05b-300x225.jpg,21.59,94.75,12.85
+field/train/Late_blight/TomatoLateBlightTop.jpg,22.71,92.83,12.34
+field/train/Late_blight/Tomato_Blight_Leaves.JPG.jpg,20.74,83.63,9.29
+field/train/Late_blight/tomato_D33a-Late-blight-015-OMAFHRT_zoom.jpg,21.99,87.21,14.51
+field/train/Late_blight/tomato_late-blight_01_zoom.jpg,21.71,86.68,17.35
+field/train/Late_blight/tomato_late-blight_03_zoom.jpg,23.37,81.53,14.31
+field/train/Late_blight/tomato_late-blight_04_zoom.jpg,21.06,91.96,13.52
+field/train/Late_blight/tomato_late-blight_05_zoom.jpg,19.71,81.71,10.89
+field/train/Leaf_Mold/100_4542.jpg,24.72,76.92,12.48
+field/train/Leaf_Mold/119B_Tom_Mold.jpg,24.4,77.93,11.61
+field/train/Leaf_Mold/2195890.jpg,25.67,75.41,10.95
+field/train/Leaf_Mold/23600077_1572609202782510_2145699867_o.jpg,21.67,77.56,5.92
+field/train/Leaf_Mold/23601051_1572608349449262_2029169498_o.jpg,21.56,78.64,14.37
+field/train/Leaf_Mold/23633262_1572609386115825_1396180255_o.jpg,20.98,89.55,12.47
+field/train/Leaf_Mold/4118c92ffde66d327ee14e4023320bf7.jpg,23.94,80.57,5.58
+field/train/Leaf_Mold/5830204360_757cd7fdfc_z.jpg,23.85,88.77,13.89
+field/train/Leaf_Mold/603-116-0.jpg,22.73,89.71,14.82
+field/train/Leaf_Mold/6032331.JPG.jpg,21.74,88.61,14.44
+field/train/Leaf_Mold/607-155-0.jpg,24.58,89.11,13.3
+field/train/Leaf_Mold/607-155-1.jpg,21.32,77.62,14.64
+field/train/Leaf_Mold/8915974546_00664cefe3_z.jpg,24.45,89.99,7.5
+field/train/Leaf_Mold/ArticleImage.aspximgid=4987.jpg,21.23,81.88,13.77
+field/train/Leaf_Mold/B%29-Leafunsidecladosp-envez.jpg,24.85,78.84,13.97
+field/train/Leaf_Mold/black%20leaf%20mold%20%283%29.JPGitok=u5TDHCSM.jpg,25.2,78.46,10.33
+field/train/Leaf_Mold/black%20leaf%20mold%20%284%29.JPGitok=DIIUw9JU.jpg,23.74,76.49,9.77
+field/train/Leaf_Mold/BlackLeafMold2.jpg,25.37,78.29,6.43
+field/train/Leaf_Mold/Botrytis-Tomato-Seedlings-2-copy-50QUALITY-17wck0d.jpg,23.06,75.41,13.79
+field/train/Leaf_Mold/d-to-tylv-fo005-14496A31BE70553130A.jpg,23.84,80.08,6.63
+field/train/Leaf_Mold/dscf2712.jpg,25.49,84.12,5.61
+field/train/Leaf_Mold/DSCN2697.jpg,25.56,76.71,13.1
+field/train/Leaf_Mold/dscn6690.jpg,24.93,85.59,11.11
+field/train/Leaf_Mold/Fig.%2015_opta.jpg,23.94,83.7,12.23
+field/train/Leaf_Mold/Fig.%2016_opt.jpg,25.82,84.78,12.71
+field/train/Leaf_Mold/GIVXB.jpg,20.89,85.5,5.99
+field/train/Leaf_Mold/gray-leaf-spot-300x225.jpg,20.54,85.4,6.14
+field/train/Leaf_Mold/gray-mold-on-tomato-leaf.jpg,24.8,85.74,11.13
+field/train/Leaf_Mold/grey-mould-botrytis-cinerea-on-bottom-of-a-tomato-leaf-late-in-the-AFRDAN.jpg,22.34,87.68,13.73
+field/train/Leaf_Mold/HighTunnel_TLM5.jpg,23.9,76.19,13.11
+field/train/Leaf_Mold/HighTunnel_TLM6.jpg,25.17,89.11,13.69
+field/train/Leaf_Mold/image233.jpg,24.31,81.0,7.41
+field/train/Leaf_Mold/IMG_1261.jpg,21.84,79.32,14.39
+field/train/Leaf_Mold/IMG_7442%20resized_0.preview.jpg,22.48,81.78,9.93
+field/train/Leaf_Mold/latestcb=20100723105221.jpg,22.26,82.5,7.42
+field/train/Leaf_Mold/leaf%2Binf%2B800%2B1.jpg,20.31,86.67,6.95
+field/train/Leaf_Mold/Leaf+Mold+lower+leaf+surface+spores+%28conidia%29.jpg,22.72,84.6,12.64
+field/train/Leaf_Mold/Leaf+mold+tomato+%25282%2529.JPG.jpg,20.73,75.81,12.68
+field/train/Leaf_Mold/Leaf+mold+tomato+%25283%2529.JPG.jpg,25.99,85.74,6.66
+field/train/Leaf_Mold/Leaf+Mold+upper+leaf+surface.jpg,24.04,87.92,10.78
+field/train/Leaf_Mold/Leaf-mold-caused-by-the-fungal-pathogen-Passalore-fulva-in-tomatoes.jpg,22.92,86.45,12.84
+field/train/Leaf_Mold/Leaf-mold-web.jpg,20.98,79.25,14.84
+field/train/Leaf_Mold/Leaf-mold3.jpg,21.97,87.0,5.81
+field/train/Leaf_Mold/leafmold.jpg,23.55,81.85,5.97
+field/train/Leaf_Mold/leafmoldtomato1.jpg,22.53,79.77,9.83
+field/train/Leaf_Mold/leafmoldtomato2.jpg,23.87,82.74,11.76
+field/train/Leaf_Mold/leaf_mold1.jpg,24.17,79.43,7.11
+field/train/Leaf_Mold/leaf_mold2.jpg,25.59,75.69,13.85
+field/train/Leaf_Mold/leaf_mold_nightshade1x500.jpg,21.5,81.06,8.04
+field/train/Leaf_Mold/leaf_mold_nightshade2x500.jpg,21.28,78.46,6.71
+field/train/Leaf_Mold/leaf_mold_tomato1x1200.jpg,25.06,83.85,5.2
+field/train/Leaf_Mold/leaf_mold_tomato2x1200.jpg,22.92,79.74,9.29
+field/train/Leaf_Mold/leaf_mold_tomato3x1200.jpg,24.6,89.17,14.4
+field/train/Leaf_Mold/leaf_mold_tomato4x1200.jpg,24.38,83.94,11.09
+field/train/Leaf_Mold/leaf_mold_tomato5x1200.jpg,25.08,77.92,10.34
+field/train/Leaf_Mold/leaf_mold_tomato6x1200.jpg,23.28,76.99,7.53
+field/train/Leaf_Mold/leaf_mold_tomato7x1200.jpg,21.33,82.66,5.61
+field/train/Leaf_Mold/OLU13.jpg,23.27,78.29,13.61
+field/train/Leaf_Mold/Ormvn.jpg,20.55,80.6,12.43
+field/train/Leaf_Mold/P1020365.jpg,20.92,87.49,9.88
+field/train/Leaf_Mold/pm3.jpg,23.77,87.31,8.62
+field/train/Leaf_Mold/Problem-2a.jpg,25.75,89.32,5.12
+field/train/Leaf_Mold/tdisease12.jpg,20.12,75.52,7.27
+field/train/Leaf_Mold/tdisease6.jpg,25.46,81.87,5.87
+field/train/Leaf_Mold/tdisease7.jpg,25.31,80.17,12.31
+field/train/Leaf_Mold/Tomato%20greenhouse%20leaf%20edema%20and%20distortion2F.JPG.jpg,21.0,81.63,10.0
+field/train/Leaf_Mold/Tomato+leaf+mold.jpg,24.64,83.63,7.26
+field/train/Leaf_Mold/tomato-gray-leaf-spot.jpg,22.86,83.21,5.42
+field/train/Leaf_Mold/tomato-leaf-2.jpg,25.27,85.48,6.84
+field/train/Leaf_Mold/tomato-leaf-mold-2.jpg,24.83,82.72,7.95
+field/train/Leaf_Mold/tomato-leaf-mold-infection-on-a-leaf-top-and-underside-picture-id81781575s=612x612.jpg,22.73,82.64,6.24
+field/train/Leaf_Mold/tomato-leaf-mold.jpg,22.77,80.82,13.86
+field/train/Leaf_Mold/tomato.jpg,20.58,76.75,6.19
+field/train/Leaf_Mold/TomatoLeafMold1-50QUALITY-16lgkq6.jpg,20.76,86.17,8.21
+field/train/Leaf_Mold/TomatoLeafMold2-50QUALITY-1b89zfs.jpg,21.93,83.45,11.31
+field/train/Leaf_Mold/tomato_fulvia.jpg,22.94,83.02,5.3
+field/train/Leaf_Mold/tomato_fulvia2.jpg,25.48,83.11,6.79
+field/train/Leaf_Mold/tomato_leaf-mold_01_zoom.jpg,22.14,84.12,9.47
+field/train/Leaf_Mold/tomato_leaf-mold_02_zoom.jpg,22.64,83.9,13.47
+field/train/Leaf_Mold/tomato_leaf-mold_03_zoom.jpg,21.61,86.17,7.82
+field/train/Leaf_Mold/tomato_leaf-mold_04_zoom.jpg,20.74,75.65,13.89
+field/train/Leaf_Mold/tomato_Leaf-roll-physiological-7059-SLoewen_thm.jpg,22.41,76.09,11.63
+field/train/Leaf_Mold/tomato_plants_1_original.JPG1407178095.jpg,23.69,85.86,10.2
+field/train/Leaf_Mold/top-leaf-mold-Fulva-fulvea-WN.jpg,23.49,81.27,8.96
+field/train/Leaf_Mold/tylc.jpg,24.48,78.14,5.65
+field/train/Septoria_leaf_spot/128110613-56a6d3633df78cf7729070ad.jpg,24.07,84.37,10.7
+field/train/Septoria_leaf_spot/140714+%2811%29.JPG.jpg,21.52,87.14,14.65
+field/train/Septoria_leaf_spot/1b.jpg,23.68,74.61,5.27
+field/train/Septoria_leaf_spot/1c421500ddd390c90596ad2cf12d5429.jpg,24.96,89.29,13.43
+field/train/Septoria_leaf_spot/2010-jul-5-jul-9-03.jpg,26.13,73.82,14.37
+field/train/Septoria_leaf_spot/20100824septoria.jpg,20.07,73.32,10.09
+field/train/Septoria_leaf_spot/2014-08-27%2B-%2BCloser%2BView%2Bof%2BSeptoria%2BLeaf%2BSpot.jpg,25.71,77.72,6.08
+field/train/Septoria_leaf_spot/20809116-standard.jpg,23.5,78.36,12.48
+field/train/Septoria_leaf_spot/28018723549_3a16c1467b_b.jpg,24.54,78.52,7.01
+field/train/Septoria_leaf_spot/3-septoria-leaf-blight-n.jpg,22.76,78.75,5.94
+field/train/Septoria_leaf_spot/32-Septoria-leaf-spot.jpg,20.42,79.69,13.07
+field/train/Septoria_leaf_spot/3893.jpg,23.04,72.72,12.68
+field/train/Septoria_leaf_spot/46-Septoria-leaf-spot.jpg,23.77,72.54,9.74
+field/train/Septoria_leaf_spot/4853086777_bc41d29801.jpg,20.36,79.91,11.94
+field/train/Septoria_leaf_spot/49-Septoria-leaf-spot.jpg,25.05,81.99,10.04
+field/train/Septoria_leaf_spot/5008922249_880e15c21f.jpg,27.87,70.11,14.28
+field/train/Septoria_leaf_spot/5315825271570432-600x272.jpeg.jpg,26.53,84.07,7.76
+field/train/Septoria_leaf_spot/5315825271570432.jpeg.jpg,24.88,83.6,10.26
+field/train/Septoria_leaf_spot/5336411888680960-600x272.jpeg.jpg,27.37,81.34,11.67
+field/train/Septoria_leaf_spot/5454635393351680.jpeg.jpg,26.83,79.79,7.38
+field/train/Septoria_leaf_spot/5516100468998144-600x272.jpeg.jpg,26.67,83.5,13.75
+field/train/Septoria_leaf_spot/5516100468998144.jpeg.jpg,22.86,72.15,14.51
+field/train/Septoria_leaf_spot/5579e3247db73.image.jpg,23.1,77.95,7.23
+field/train/Septoria_leaf_spot/5775225744523264-600x272.jpeg.jpg,22.26,88.67,7.67
+field/train/Septoria_leaf_spot/5775225744523264.jpeg.jpg,26.01,80.08,12.81
+field/train/Septoria_leaf_spot/5866245865865216.jpeg.jpg,20.16,83.49,14.93
+field/train/Septoria_leaf_spot/5c77186a4ea326e5495c9d03cd89ce16.jpg,26.81,86.04,5.77
+field/train/Septoria_leaf_spot/6+1+09+019.jpg,23.47,82.83,13.74
+field/train/Septoria_leaf_spot/6078710516023296-600x272.jpeg.jpg,22.6,73.55,14.52
+field/train/Septoria_leaf_spot/6078710516023296.jpeg.jpg,26.43,74.59,8.65
+field/train/Septoria_leaf_spot/6134794031202304-600x272.jpeg.jpg,23.27,85.44,8.2
+field/train/Septoria_leaf_spot/6242739939180544.jpeg.jpg,24.79,75.38,11.76
+field/train/Septoria_leaf_spot/6336392950972416.jpeg.jpg,23.54,80.99,11.66
+field/train/Septoria_leaf_spot/66e7583ebe11cf0bd06435e4167bd4fd.jpg,20.6,71.69,12.56
+field/train/Septoria_leaf_spot/b54d0e40027ff5e90e8ba7e1e9abf9bd.jpg,25.27,74.59,12.02
+field/train/Septoria_leaf_spot/b6ca3f80-cc10-4d4f-be0d-771deb9a4969.jpeg.jpg,27.14,81.88,8.86
+field/train/Septoria_leaf_spot/BCH%20medium%20thumbnail%20for%20upload%20%2861%29.jpg,21.86,79.38,11.01
+field/train/Septoria_leaf_spot/bd0b83af4c5e4b739ccc6c36fa66f141.jpg,20.93,85.43,6.25
+field/train/Septoria_leaf_spot/Bean-rust-on-leaves.jpg,20.67,76.27,14.27
+field/train/Septoria_leaf_spot/bed-4-tomatoes-23jun13.jpg,21.78,78.51,11.48
+field/train/Septoria_leaf_spot/bigseptoria01.jpg,26.89,81.99,5.83
+field/train/Septoria_leaf_spot/bnX8Q.jpg,26.49,87.97,12.8
+field/train/Septoria_leaf_spot/caf212ccf4696675469a0beaa9e57213.jpg,27.06,84.83,8.33
+field/train/Septoria_leaf_spot/classic-septoria.jpg,25.49,78.58,12.02
+field/train/Septoria_leaf_spot/closeup-of-tomato-leaf-y4af51-1024x768.jpg,26.65,74.95,8.48
+field/train/Septoria_leaf_spot/confused-early-blight-septoria-zoom.jpg,24.57,85.46,7.47
+field/train/Septoria_leaf_spot/early+blight+on+leaf+yel+halo+IMG_2313.JPG.jpg,26.85,77.47,9.74
+field/train/Septoria_leaf_spot/early-blight-septoria-ls-fig-3.jpg,21.83,71.16,5.79
+field/train/Septoria_leaf_spot/eb56b488e349c2de423ab6afbcc4bd5b.jpg,26.0,81.99,6.96
+field/train/Septoria_leaf_spot/EPP-7625Fig-5-143x300.jpg,21.47,71.01,10.42
+field/train/Septoria_leaf_spot/gray-leaf-spot.jpg,23.11,76.69,10.12
+field/train/Septoria_leaf_spot/IMG_0312_original.jpg,26.93,85.06,11.65
+field/train/Septoria_leaf_spot/IMG_0863_1500x1500%253E.jpg,24.75,75.12,7.48
+field/train/Septoria_leaf_spot/IMG_3175.jpg,25.43,82.81,8.59
+field/train/Septoria_leaf_spot/IMG_4452_1500x1500%253E.JPG1407883119.jpg,21.84,85.95,14.43
+field/train/Septoria_leaf_spot/img_6564.jpg,23.64,74.6,9.56
+field/train/Septoria_leaf_spot/Leaf%20spot.jpg,23.24,86.02,10.56
+field/train/Septoria_leaf_spot/leafspot-5aba8283642dca003687f6fa.jpg,26.92,75.92,12.66
+field/train/Septoria_leaf_spot/MPC105550.jpg.rendition.largest.550.jpg,26.46,74.09,12.9
+field/train/Septoria_leaf_spot/PHOTO_1333642732277.jpg,24.72,86.38,6.25
+field/train/Septoria_leaf_spot/PHOTO_1333642740144.jpg,24.63,84.76,8.29
+field/train/Septoria_leaf_spot/Sept9-300x225.jpg,22.7,80.25,6.55
+field/train/Septoria_leaf_spot/Septoria%2Bleaf%2Bspot.tomato.JPG.jpg,20.08,70.23,10.85
+field/train/Septoria_leaf_spot/Septoria+Leaf+Spot.jpg,22.04,70.06,14.27
+field/train/Septoria_leaf_spot/septoria+leaf+spota.jpg,20.04,82.41,8.48
+field/train/Septoria_leaf_spot/septoria+on+rudbeckia.jpg,25.03,83.6,12.48
+field/train/Septoria_leaf_spot/septoria+tomato.jpg,21.71,73.22,8.54
+field/train/Septoria_leaf_spot/Septoria-461x346.jpg,26.35,79.35,8.18
+field/train/Septoria_leaf_spot/septoria-leaf-spot-2.jpg,25.88,72.41,10.78
+field/train/Septoria_leaf_spot/Septoria-leaf-spot-hc.jpg,22.66,79.2,9.79
+field/train/Septoria_leaf_spot/septoria-leaf-spot-in-tomatoes.jpg,24.13,82.66,7.38
+field/train/Septoria_leaf_spot/septoria-leaf-spot-on-tomato-1.jpg,25.54,78.09,8.46
+field/train/Septoria_leaf_spot/Septoria-leaf-spot-on-tomato-FOR-WEB.jpg,25.14,72.5,5.4
+field/train/Septoria_leaf_spot/septoria-leaf-spot-tomato-1.jpg,27.02,76.12,7.17
+field/train/Septoria_leaf_spot/septoria-leaf-spot-tomatoes1x2400-17g2jzo.jpg,20.4,76.37,7.89
+field/train/Septoria_leaf_spot/septoria-leaf-spot-tomatoes2x2400-202yoxg.jpg,24.02,82.5,7.73
+field/train/Septoria_leaf_spot/septoria-leaf-spot-treatment-leaf-spot-septoria-leaf-spot-soil-treatment-septoria-leaf-spot-tomato-organic-treatment.jpg,26.36,79.33,14.08
+field/train/Septoria_leaf_spot/septoria-leafspot-on-tomato-leaf-rp-c.jpg,26.9,86.84,13.36
+field/train/Septoria_leaf_spot/septoria-lycopersici-ascomycota-common-fungal-leaf-disease-of-tomato-picture-id128110611.jpg,26.39,72.65,10.28
+field/train/Septoria_leaf_spot/septoria-tomato-leaf.jpg,22.91,76.49,7.64
+field/train/Septoria_leaf_spot/Septoria-Tomato.jpg,24.4,79.01,5.55
+field/train/Septoria_leaf_spot/septoria2_600px.jpg,25.34,74.79,6.51
+field/train/Septoria_leaf_spot/septoria3.jpg,21.23,73.23,8.75
+field/train/Septoria_leaf_spot/septoria5.jpg,23.13,75.75,14.73
+field/train/Septoria_leaf_spot/septorialeafspot.jpg,21.05,89.91,11.77
+field/train/Septoria_leaf_spot/septorialeafspot2.jpg,25.3,75.95,13.51
+field/train/Septoria_leaf_spot/SeptoriaLeaf_T3.jpg,22.83,88.28,11.52
+field/train/Septoria_leaf_spot/septorialycopersici_small.jpg,27.92,79.9,14.6
+field/train/Septoria_leaf_spot/SeptoriaTomato-B.jpg,26.92,71.92,11.91
+field/train/Septoria_leaf_spot/Septoria_Leaf_Spot.jpg,21.98,79.32,11.86
+field/train/Septoria_leaf_spot/septoria_leaf_spot_of_tomato-1500x750.jpg,23.4,84.39,11.29
+field/train/Septoria_leaf_spot/Septoria_Leaf_Spot_of_Tomato186.jpg,26.07,75.56,6.15
+field/train/Septoria_leaf_spot/Septoria_Leaf_Spot_of_Tomato187.jpg,25.75,89.36,11.37
+field/train/Septoria_leaf_spot/Septoria_Leaf_Spot_of_Tomato2241-450x300.jpg,26.21,74.54,9.79
+field/train/Septoria_leaf_spot/Septoria_leaf_spot_tomato.jpg,22.4,74.81,14.75
+field/train/Septoria_leaf_spot/septoria_tomato.jpg,20.43,72.95,11.79
+field/train/Septoria_leaf_spot/Septoria_tomato_Margaret%20B_p8170755_0002_25004.jpg,24.64,80.72,9.15
+field/train/Septoria_leaf_spot/septoria_tom_leaves1x1200.jpg,27.97,70.8,10.45
+field/train/Septoria_leaf_spot/septoria_tom_seedlings2x1200.jpg,23.04,79.12,8.38
+field/train/Septoria_leaf_spot/septoria_tom_seedlings5x1200.jpg,27.65,80.7,7.72
+field/train/Septoria_leaf_spot/slide21-n.jpg,26.5,86.08,10.0
+field/train/Septoria_leaf_spot/sls1.jpg,20.92,73.97,5.01
+field/train/Septoria_leaf_spot/Tomato%20bacterial%20spot%20closeup-050S.JPG.jpg,26.53,80.07,6.93
+field/train/Septoria_leaf_spot/tomato%2Bseptoria%2Bleaf%2Bspot2.JPG.jpg,25.42,77.38,10.25
+field/train/Septoria_leaf_spot/Tomato+leaf+spot2.jpg,20.32,86.61,5.22
+field/train/Septoria_leaf_spot/Tomato+Problems+Septoria+Leaf+Spot.jpg,25.45,84.93,8.16
+field/train/Septoria_leaf_spot/tomato-badleaves.jpg,27.55,72.78,9.76
+field/train/Septoria_leaf_spot/tomato-blight-treatment-blight.jpg,26.95,88.75,6.76
+field/train/Septoria_leaf_spot/tomato-disease-septoria-leaf-spot-d7e1x9.jpg,27.26,81.31,7.49
+field/train/Septoria_leaf_spot/tomato-disease-septoria-leaf-spot-d7e1xe.jpg,23.15,77.25,11.3
+field/train/Septoria_leaf_spot/tomato-disease-septoria-leaf-spot-d7e1xm.jpg,27.67,73.49,11.85
+field/train/Septoria_leaf_spot/tomato-diseases-1-638.jpg,21.79,76.67,7.4
+field/train/Septoria_leaf_spot/tomato-early-blight-e1437503226856.jpg,21.89,70.36,6.95
+field/train/Septoria_leaf_spot/tomato-leaf-spot-septoria-lycopersici-leaf-spotting-on-tomato-at9jap.jpg,21.6,79.19,6.63
+field/train/Septoria_leaf_spot/tomato-leaf-spot-septoria-lycopersici-on-a-tomato-leaflet-acg9j5.jpg,24.12,81.98,6.58
+field/train/Septoria_leaf_spot/tomato-plant-is-infected-with-septoria-leaf-spot-1.jpg,21.73,81.1,7.16
+field/train/Septoria_leaf_spot/tomato-plant-is-infected-with-septoria-leaf-spot.jpg,26.45,81.94,6.15
+field/train/Septoria_leaf_spot/tomato-septoria-3-500x384.jpg,23.6,71.22,7.27
+field/train/Septoria_leaf_spot/tomato-septoria-3.jpg,24.6,83.91,9.86
+field/train/Septoria_leaf_spot/tomato-septoria-5-500x384.jpg,21.81,85.48,12.36
+field/train/Septoria_leaf_spot/tomato-septoria-5.jpg,21.15,85.59,9.01
+field/train/Septoria_leaf_spot/tomato-septoria-leaf-spot--.jpg,23.12,71.7,6.21
+field/train/Septoria_leaf_spot/tomato-septoria-leaf-spot-.jpg,24.1,79.64,8.02
+field/train/Septoria_leaf_spot/tomato-septoria-leaf-spot-600.jpg,26.56,79.24,10.97
+field/train/Septoria_leaf_spot/tomato-septoria-leaf-spot.jpg,21.43,71.17,10.39
+field/train/Septoria_leaf_spot/TomatoDisease_IMG_2744_2016Jul01_original.JPG1472858324.jpg,24.59,89.27,9.28
+field/train/Septoria_leaf_spot/tomatofactsheet.png.png,27.07,74.45,5.34
+field/train/Septoria_leaf_spot/tomatoseptorialeafspotjpg-788d20798a3c74e7.jpg,25.12,86.47,7.94
+field/train/Septoria_leaf_spot/tomato_leaf_spots_1500x1500%253E.jpg,23.93,76.97,8.48
+field/train/Septoria_leaf_spot/tomato_leaves_300x300%2523.jpg,25.5,76.23,11.63
+field/train/Septoria_leaf_spot/tomato_septoria_05_zoom.jpg,20.1,80.67,10.57
+field/train/Septoria_leaf_spot/tomato_septoria_alternaria_1.jpg,27.7,80.53,8.46
+field/train/Septoria_leaf_spot/Tomato_Septoria_Leaf_Spot.jpg,25.28,76.73,11.37
+field/train/Septoria_leaf_spot/tomato_V8.jpg,20.44,86.14,8.48
+field/train/Septoria_leaf_spot/Tom_Sept1.jpg,23.26,75.49,14.03
+field/train/Septoria_leaf_spot/Tom_Sept4.jpg,25.58,86.27,7.16
+field/train/Septoria_leaf_spot/vdu-tomato-sept-eb-285x300.jpg,25.43,75.98,5.1
+field/train/Septoria_leaf_spot/web1_copy_tomato-septoria-leaf-spot4.jpg,23.9,83.25,9.09
+field/train/Septoria_leaf_spot/x3-most-common-types-tomato-blight.jpg.pagespeed.ic.5cLJi6TXEi.jpg,27.53,89.99,13.73
+field/train/Septoria_leaf_spot/xgray-leaf-spot.jpg.pagespeed.ic.ltF8KfKtQ1.jpg,26.68,77.91,14.45
+field/train/Yellow_Leaf_Curl_Virus/072.jpg,30.75,45.91,2.42
+field/train/Yellow_Leaf_Curl_Virus/1342017-162221-44540.jpg,28.4,56.93,1.27
+field/train/Yellow_Leaf_Curl_Virus/14456.img.jpg,30.92,52.42,1.44
+field/train/Yellow_Leaf_Curl_Virus/18071.img.jpg,31.79,50.56,3.42
+field/train/Yellow_Leaf_Curl_Virus/2.--Virused-tomato-leaves-versus.jpg,32.72,55.97,4.19
+field/train/Yellow_Leaf_Curl_Virus/28619919393_7ef44acccc_b.jpg,31.96,47.22,2.88
+field/train/Yellow_Leaf_Curl_Virus/29994445671_b6914b44d0_b.jpg,33.05,44.74,3.07
+field/train/Yellow_Leaf_Curl_Virus/36ca1410e232eec4a8003fe411246820.jpg,30.68,50.21,3.07
+field/train/Yellow_Leaf_Curl_Virus/5146.jpg,29.5,40.31,2.49
+field/train/Yellow_Leaf_Curl_Virus/534ddf3a932e62dd929a3ac1b29bfa29.jpg,32.09,48.35,2.81
+field/train/Yellow_Leaf_Curl_Virus/7585001780_4b89e826b7.jpg,29.22,54.12,0.17
+"field/train/Yellow_Leaf_Curl_Virus/8.--Virus-Damaged-foliage-at-top-versus-healthy,-non-infected-bottom-foliage.jpg",34.43,56.69,1.17
+field/train/Yellow_Leaf_Curl_Virus/8226402609_62d16884a7_b.jpg,28.95,57.66,2.9
+field/train/Yellow_Leaf_Curl_Virus/8227475116_0d40e8f21c_b.jpg,34.04,41.67,1.87
+field/train/Yellow_Leaf_Curl_Virus/8e60bae9f613f360403943f108a03083.jpg,33.79,42.28,3.33
+field/train/Yellow_Leaf_Curl_Virus/art_15017325188173_a24a66.jpg,34.39,52.0,1.46
+field/train/Yellow_Leaf_Curl_Virus/DSC01999.JPG.jpg,33.95,43.72,3.05
+field/train/Yellow_Leaf_Curl_Virus/DSC02006.JPG.jpg,32.46,54.65,3.94
+field/train/Yellow_Leaf_Curl_Virus/DSC02007.JPG.jpg,29.0,48.69,0.3
+field/train/Yellow_Leaf_Curl_Virus/dscn1652cropped.jpg,34.04,49.09,1.63
+field/train/Yellow_Leaf_Curl_Virus/DSC_3019_320x209.jpg,31.39,43.35,2.21
+field/train/Yellow_Leaf_Curl_Virus/Figure-4.jpg,30.15,42.76,4.61
+field/train/Yellow_Leaf_Curl_Virus/illustration-thematique-urbino-fig5.plante%20tylcv.jpg,28.28,41.65,4.19
+field/train/Yellow_Leaf_Curl_Virus/IMG_2684.JPG.jpg,33.68,46.54,2.64
+field/train/Yellow_Leaf_Curl_Virus/IMG_2686.JPG.jpg,32.95,47.41,1.06
+field/train/Yellow_Leaf_Curl_Virus/IMG_2687.JPG.jpg,31.75,59.68,1.71
+field/train/Yellow_Leaf_Curl_Virus/IU-TYLCV_img_6.jpg,29.18,47.76,1.51
+field/train/Yellow_Leaf_Curl_Virus/IU-TYLCV_img_8.jpg,32.58,44.61,1.47
+field/train/Yellow_Leaf_Curl_Virus/latestcb=20100719124603.jpg,28.98,56.38,3.22
+field/train/Yellow_Leaf_Curl_Virus/leaf%20curl_3.jpg,34.09,55.43,0.12
+field/train/Yellow_Leaf_Curl_Virus/leaves-curling-on-tomato-plant-characteristic-symptoms-tomato-plants-leaves-curling-down-on-tomato-plant.jpg,33.41,49.79,4.13
+field/train/Yellow_Leaf_Curl_Virus/leaves-on-tomato-plant-turning-yellow-what-does-it-mean-when-your-plant-leaves-turn-yellow-tomato-leaf-problems-a-guide-to-leaves-tomato-plant-turning-yellow.jpg,29.23,44.13,2.09
+field/train/Yellow_Leaf_Curl_Virus/psyllid-yellows.jpg,30.08,45.55,2.99
+field/train/Yellow_Leaf_Curl_Virus/role-of-whitefly-in-plant-virus-transmission-by-pmanikandan-13-638.jpg,28.09,49.16,1.2
+field/train/Yellow_Leaf_Curl_Virus/role-of-whitefly-in-plant-virus-transmission-by-pmanikandan-25-638.jpg,29.27,41.87,0.39
+field/train/Yellow_Leaf_Curl_Virus/r_tomato.jpg,34.37,55.49,0.29
+field/train/Yellow_Leaf_Curl_Virus/s-prasanth-kumar-young-scientist-awarded-presentation-2-728.jpg,32.88,49.2,4.64
+field/train/Yellow_Leaf_Curl_Virus/tj5itxzunn3k.jpg,28.13,45.05,4.31
+field/train/Yellow_Leaf_Curl_Virus/tlcv-tomato-leaf-curl-virus-symptoms-on-a-glasshouse-tomato-plant-ACGAG6.jpg,32.48,43.2,4.14
+field/train/Yellow_Leaf_Curl_Virus/tlcv-tomato-leaf-curl-virus-symptoms-on-a-glasshouse-tomato-plant-bmyh62.jpg,34.75,56.31,2.2
+field/train/Yellow_Leaf_Curl_Virus/tomato-plant-virus-tomato-yellow-leaf-curl-virus-tomato-plant-disease-mosaic-virus.jpg,32.05,42.83,2.2
+field/train/Yellow_Leaf_Curl_Virus/tomato-yellow-closeup-2.jpg,34.16,47.15,2.47
+field/train/Yellow_Leaf_Curl_Virus/tomato-yellow-closeup-3.jpg,28.39,40.22,2.11
+field/train/Yellow_Leaf_Curl_Virus/tomato-yellow-closeup-4.jpg,32.03,50.17,0.96
+field/train/Yellow_Leaf_Curl_Virus/tomato-yellow-leaf-curl-disease-260nw-1006958086.jpg,29.27,41.65,0.2
+field/train/Yellow_Leaf_Curl_Virus/tomato-yellow-leaf-curl-disease-260nw-1072448252.jpg,30.6,49.02,2.56
+field/train/Yellow_Leaf_Curl_Virus/tomato-yellow-leaf-curl-disease.jpg,29.31,52.19,2.16
+field/train/Yellow_Leaf_Curl_Virus/tomato-yellow-leaf-curl-virus-pdf-78kb.jpg,32.27,54.79,3.88
+field/train/Yellow_Leaf_Curl_Virus/tomato-yellow-leaf-curl-virus-symptoms-on-tomato-leaves-on-plants-ACGAME.jpg,32.02,56.04,4.0
+field/train/Yellow_Leaf_Curl_Virus/tomato-yellow-leaf-curl-virus-symptoms-on-tomato-leaves-on-plants-AXKWFY.jpg,33.7,41.6,3.43
+field/train/Yellow_Leaf_Curl_Virus/tomato-yellow-leaf-curl-virus-tomato-1.jpg,30.56,55.42,0.3
+field/train/Yellow_Leaf_Curl_Virus/tomato-yellow-leaf-curl-virus-tylcv_950983.jpg,30.36,51.78,0.17
+field/train/Yellow_Leaf_Curl_Virus/tomato-yellow-leaf-curl-virus-tylvcv-symptoms-on-a-tomato-plant-under-BMYHXY.jpg,34.91,46.48,3.7
+field/train/Yellow_Leaf_Curl_Virus/Tomato2.jpg,30.85,54.07,0.4
+field/train/Yellow_Leaf_Curl_Virus/tomatoyellowleafcurlcropped.jpg,33.74,45.06,3.41
+field/train/Yellow_Leaf_Curl_Virus/tomato_leaf_roll.JPG.jpg,31.73,59.59,4.34
+field/train/Yellow_Leaf_Curl_Virus/tomato_yellow_leaf_curl_virus.jpg,32.73,58.29,2.53
+field/train/Yellow_Leaf_Curl_Virus/tylcv-seminar-1-638.jpg,28.79,57.24,1.54
+field/train/Yellow_Leaf_Curl_Virus/TYLCV-tomate-DB-441-170.jpg,32.5,52.76,3.91
+field/train/Yellow_Leaf_Curl_Virus/TYLCV-tomate-DB-442-167.jpg,28.28,46.4,2.46
+field/train/Yellow_Leaf_Curl_Virus/TYLCV-tomate-DB-445-171.jpg,32.3,53.14,3.89
+field/train/Yellow_Leaf_Curl_Virus/tylcv.jpg,32.65,55.81,2.43
+field/train/Yellow_Leaf_Curl_Virus/tylcv1-.jpg,32.7,41.27,4.51
+field/train/Yellow_Leaf_Curl_Virus/TYLCV1.jpg,31.81,56.52,1.79
+field/train/Yellow_Leaf_Curl_Virus/TYLCV2.jpg,33.29,51.31,1.98
+field/train/Yellow_Leaf_Curl_Virus/TYLCV4.jpg,30.51,55.2,1.56
+field/train/Yellow_Leaf_Curl_Virus/TYLCVDFerrinlr.jpg,34.56,42.38,0.35
+field/train/Yellow_Leaf_Curl_Virus/virus1.jpg,30.03,59.46,2.31
+field/train/Yellow_Leaf_Curl_Virus/virus2.jpg,34.98,47.52,4.61
+field/train/Yellow_Leaf_Curl_Virus/yellowing.JPG.jpg,33.26,56.93,3.46
+field/test/Early_blight/039b47d574bc4bb8a14259a1cd96a741.jpg,29.73,69.91,2.09
+field/test/Early_blight/100983448.jpg,27.99,66.7,7.58
+field/test/Early_blight/1234080-Early-Blight.jpg,29.05,79.85,5.53
+field/test/Early_blight/bugs-and-blight-061.jpg,26.45,76.78,2.99
+field/test/Early_blight/dscn3175.jpg,28.11,61.19,6.18
+field/test/Early_blight/earlyblight21_.jpg,28.42,61.88,6.2
+field/test/Early_blight/early_blight1-150x150.jpg,29.42,62.41,4.87
+field/test/Early_blight/Shoemaker_7068.JPG.jpg,25.17,75.64,7.22
+field/test/Early_blight/tomato_early-blight_01_zoom.jpg,28.16,77.31,6.17
+field/test/Late_blight/110822-206-Tomato-blight.jpg,20.15,82.09,14.3
+field/test/Late_blight/18c.jpg,20.44,88.8,15.09
+field/test/Late_blight/636368370164094909-late-blight-15-.jpg,23.49,84.67,13.9
+field/test/Late_blight/70.jpg,23.98,85.15,17.32
+field/test/Late_blight/dsc_8148cs.jpg,18.83,81.19,15.96
+field/test/Late_blight/E%29Tomato-late-blight-foliar.jpg,23.95,90.0,13.95
+field/test/Late_blight/image.jpg,23.79,84.22,17.76
+field/test/Late_blight/IMG_5808.jpg,20.58,94.39,12.6
+field/test/Late_blight/LateBlt09_06.jpg,18.75,92.1,19.77
+field/test/Late_blight/late_blight_tomato_leaf_spore1x1200.jpg,20.56,84.33,16.14
+field/test/Leaf_Mold/49%20Leafmold%20Bottom.jpg,24.57,80.97,5.03
+field/test/Leaf_Mold/50%20Leafmold%20Top.jpg,23.42,76.23,9.88
+field/test/Leaf_Mold/BIGSD.jpg,21.2,89.69,13.59
+field/test/Leaf_Mold/black_leaf_mold_in_zina_tina.jpg,24.11,81.04,6.25
+field/test/Leaf_Mold/dscn6689.jpg,24.32,80.55,8.68
+field/test/Leaf_Mold/fungus-univ-of-minnesoeta.jpg,20.66,76.6,8.98
+field/test/Septoria_leaf_spot/0.jpg,24.44,80.25,11.2
+field/test/Septoria_leaf_spot/2septoria-tomato.jpg,20.69,70.98,12.17
+field/test/Septoria_leaf_spot/2STEM.jpg,23.36,82.78,9.12
+field/test/Septoria_leaf_spot/55830b60a7cf2.image.jpg,25.89,78.49,13.82
+field/test/Septoria_leaf_spot/6134794031202304.jpeg.jpg,24.14,70.64,13.22
+field/test/Septoria_leaf_spot/636227737977191231-septoria-leaf-spot-VT.jpg,26.87,79.69,7.11
+field/test/Septoria_leaf_spot/6447731_orig.jpg,25.96,85.16,8.94
+field/test/Septoria_leaf_spot/7-17-Photo3_Septoria-MARY.jpg,22.26,84.72,7.13
+field/test/Septoria_leaf_spot/early-blight-septoria-ls-fig-3.jpg,26.8,77.55,13.94
+field/test/Septoria_leaf_spot/RARZ4.jpg,24.74,80.76,8.62
+field/test/Septoria_leaf_spot/sept4disease-019.jpg,22.52,84.28,11.49
+field/test/Yellow_Leaf_Curl_Virus/11-40580_5.jpg,30.4,49.86,0.74
+field/test/Yellow_Leaf_Curl_Virus/17fc47.jpg,30.7,49.24,0.2
+field/test/Yellow_Leaf_Curl_Virus/8226402877_9abf151b5b_b.jpg,31.73,49.63,0.43
+field/test/Yellow_Leaf_Curl_Virus/fwa2013313115151.jpg,32.37,48.76,1.81
+field/test/Yellow_Leaf_Curl_Virus/glyphosate.jpg,28.95,41.8,2.56
+field/test/Yellow_Leaf_Curl_Virus/tylcv-seminar-1-638.jpg,29.24,47.14,2.3
