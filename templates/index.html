@@ -1,0 +1,895 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>FarmGuard AI — Tomato Leaf Disease Detection</title>
+<meta name="description" content="AI-powered tomato leaf disease detection with treatment recommendations for farmers.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+/* ============================================
+   DESIGN SYSTEM — FarmGuard AI
+   ============================================ */
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+
+:root{
+  --primary: #16a34a;
+  --primary-dark: #15803d;
+  --primary-light: #bbf7d0;
+  --primary-glow: rgba(22,163,74,0.25);
+  --danger: #dc2626;
+  --danger-bg: #fef2f2;
+  --warning: #f59e0b;
+  --warning-bg: #fffbeb;
+  --success: #16a34a;
+  --success-bg: #f0fdf4;
+  --bg: #f0fdf4;
+  --bg-deep: #052e16;
+  --surface: rgba(255,255,255,0.92);
+  --surface-hover: rgba(255,255,255,0.98);
+  --text: #1a1a1a;
+  --text-muted: #6b7280;
+  --text-light: #9ca3af;
+  --border: rgba(0,0,0,0.08);
+  --radius: 20px;
+  --radius-sm: 12px;
+  --shadow: 0 4px 24px rgba(0,0,0,0.06);
+  --shadow-lg: 0 12px 40px rgba(0,0,0,0.12);
+  --transition: 0.3s cubic-bezier(0.4,0,0.2,1);
+}
+
+body{
+  font-family:'Inter',system-ui,-apple-system,sans-serif;
+  background: linear-gradient(145deg, #f0fdf4 0%, #dcfce7 50%, #d1fae5 100%);
+  color:var(--text);
+  min-height:100vh;
+  line-height:1.6;
+  -webkit-font-smoothing:antialiased;
+}
+
+/* ============================================
+   LAYOUT
+   ============================================ */
+.app{
+  max-width:520px;
+  margin:0 auto;
+  padding:16px;
+  min-height:100vh;
+  display:flex;
+  flex-direction:column;
+}
+
+/* ============================================
+   HEADER
+   ============================================ */
+.header{
+  text-align:center;
+  padding:32px 0 24px;
+}
+.header .logo{
+  font-size:40px;
+  margin-bottom:4px;
+  display:block;
+  animation: float 3s ease-in-out infinite;
+}
+@keyframes float{
+  0%,100%{transform:translateY(0)}
+  50%{transform:translateY(-6px)}
+}
+.header h1{
+  font-size:22px;
+  font-weight:800;
+  color:var(--primary-dark);
+  letter-spacing:-0.5px;
+}
+.header .tagline{
+  font-size:13px;
+  color:var(--text-muted);
+  font-weight:500;
+  margin-top:2px;
+}
+
+/* ============================================
+   PROGRESS BAR
+   ============================================ */
+.progress{
+  display:flex;
+  align-items:center;
+  gap:0;
+  margin-bottom:24px;
+  padding:0 8px;
+}
+.progress-step{
+  display:flex;
+  align-items:center;
+  gap:8px;
+  flex:1;
+}
+.progress-dot{
+  width:32px;height:32px;
+  border-radius:50%;
+  background:var(--border);
+  display:flex;align-items:center;justify-content:center;
+  font-size:13px;font-weight:700;
+  color:var(--text-muted);
+  transition:var(--transition);
+  flex-shrink:0;
+}
+.progress-dot.active{
+  background:var(--primary);
+  color:#fff;
+  box-shadow:0 0 0 4px var(--primary-glow);
+}
+.progress-dot.done{
+  background:var(--primary);
+  color:#fff;
+}
+.progress-line{
+  flex:1;height:3px;
+  background:var(--border);
+  border-radius:2px;
+  transition:var(--transition);
+}
+.progress-line.active{
+  background:var(--primary);
+}
+.progress-label{
+  display:none;
+}
+
+/* ============================================
+   CARD
+   ============================================ */
+.card{
+  background:var(--surface);
+  backdrop-filter:blur(20px);
+  -webkit-backdrop-filter:blur(20px);
+  border-radius:var(--radius);
+  border:1px solid var(--border);
+  box-shadow:var(--shadow);
+  padding:28px 24px;
+  transition:var(--transition);
+  flex:1;
+}
+
+/* ============================================
+   STEP SECTIONS
+   ============================================ */
+.step{display:none}
+.step.active{display:block;animation:fadeSlideIn 0.4s ease-out}
+@keyframes fadeSlideIn{
+  from{opacity:0;transform:translateY(16px)}
+  to{opacity:1;transform:translateY(0)}
+}
+
+.step-title{
+  font-size:18px;font-weight:700;
+  margin-bottom:6px;
+  color:var(--text);
+}
+.step-desc{
+  font-size:13px;color:var(--text-muted);
+  margin-bottom:20px;
+  line-height:1.5;
+}
+
+/* ============================================
+   UPLOAD AREA
+   ============================================ */
+.upload-area{
+  border:2px dashed var(--primary);
+  border-radius:var(--radius-sm);
+  padding:40px 20px;
+  text-align:center;
+  cursor:pointer;
+  transition:var(--transition);
+  background:var(--success-bg);
+  position:relative;
+}
+.upload-area:hover,.upload-area.dragover{
+  background:var(--primary-light);
+  border-color:var(--primary-dark);
+  transform:scale(1.01);
+}
+.upload-area .icon{font-size:48px;margin-bottom:12px;display:block}
+.upload-area .text{font-size:15px;font-weight:600;color:var(--primary-dark)}
+.upload-area .subtext{font-size:12px;color:var(--text-muted);margin-top:4px}
+.upload-area input[type="file"]{
+  position:absolute;inset:0;opacity:0;cursor:pointer;
+}
+
+/* Preview */
+.preview{display:none;text-align:center;margin-top:16px}
+.preview.show{display:block;animation:fadeSlideIn 0.3s ease-out}
+.preview img{
+  max-width:100%;max-height:240px;
+  border-radius:var(--radius-sm);
+  box-shadow:var(--shadow);
+  object-fit:cover;
+}
+.preview .filename{
+  font-size:12px;color:var(--text-muted);
+  margin-top:8px;
+}
+.preview .change-btn{
+  display:inline-block;
+  margin-top:8px;
+  font-size:12px;
+  color:var(--primary);
+  font-weight:600;
+  cursor:pointer;
+  background:none;border:none;
+  text-decoration:underline;
+}
+
+/* Photo Tips */
+.tips{
+  background:var(--success-bg);
+  border:1px solid var(--primary-light);
+  border-radius:var(--radius-sm);
+  padding:14px 16px;
+  margin-top:16px;
+}
+.tips-title{
+  font-size:12px;font-weight:700;
+  color:var(--primary-dark);
+  margin-bottom:6px;
+  text-transform:uppercase;
+  letter-spacing:0.5px;
+}
+.tips ul{
+  list-style:none;
+  font-size:13px;
+  color:var(--text);
+}
+.tips li{
+  padding:3px 0;
+  padding-left:20px;
+  position:relative;
+}
+.tips li::before{
+  content:'✓';
+  position:absolute;left:0;
+  color:var(--primary);font-weight:700;
+}
+
+/* ============================================
+   FORM INPUTS (Step 2)
+   ============================================ */
+.form-group{margin-bottom:20px}
+.form-label{
+  display:block;
+  font-size:13px;font-weight:600;
+  color:var(--text);
+  margin-bottom:8px;
+}
+.form-label .icon-label{margin-right:6px}
+
+.input-wrapper{
+  position:relative;
+}
+.form-input{
+  width:100%;
+  padding:14px 16px;
+  border:2px solid var(--border);
+  border-radius:var(--radius-sm);
+  font-size:15px;
+  font-family:inherit;
+  font-weight:500;
+  color:var(--text);
+  background:#fff;
+  transition:var(--transition);
+  appearance:none;
+  -webkit-appearance:none;
+}
+.form-input:focus{
+  outline:none;
+  border-color:var(--primary);
+  box-shadow:0 0 0 4px var(--primary-glow);
+}
+.form-hint{
+  font-size:11px;
+  color:var(--text-muted);
+  margin-top:4px;
+}
+
+/* Rainfall selector */
+.rainfall-options{display:flex;gap:8px}
+.rainfall-option{
+  flex:1;
+  padding:12px 8px;
+  border:2px solid var(--border);
+  border-radius:var(--radius-sm);
+  text-align:center;
+  cursor:pointer;
+  transition:var(--transition);
+  background:#fff;
+}
+.rainfall-option:hover{border-color:var(--primary);background:var(--success-bg)}
+.rainfall-option.selected{
+  border-color:var(--primary);
+  background:var(--primary);
+  color:#fff;
+}
+.rainfall-option .rf-icon{font-size:20px;display:block;margin-bottom:4px}
+.rainfall-option .rf-label{font-size:12px;font-weight:600}
+.rainfall-option .rf-value{font-size:10px;opacity:0.7}
+.rainfall-option.selected .rf-value{opacity:0.9}
+
+/* ============================================
+   BUTTONS
+   ============================================ */
+.btn{
+  display:flex;align-items:center;justify-content:center;gap:8px;
+  width:100%;
+  padding:16px;
+  border:none;
+  border-radius:var(--radius-sm);
+  font-size:15px;font-weight:700;
+  font-family:inherit;
+  cursor:pointer;
+  transition:var(--transition);
+}
+.btn-primary{
+  background:var(--primary);
+  color:#fff;
+  box-shadow:0 4px 16px var(--primary-glow);
+}
+.btn-primary:hover{
+  background:var(--primary-dark);
+  transform:translateY(-1px);
+  box-shadow:0 6px 20px var(--primary-glow);
+}
+.btn-primary:disabled{
+  opacity:0.5;cursor:not-allowed;
+  transform:none;
+}
+.btn-secondary{
+  background:transparent;
+  color:var(--text-muted);
+  border:2px solid var(--border);
+  margin-top:8px;
+}
+.btn-secondary:hover{
+  border-color:var(--text-muted);
+  color:var(--text);
+}
+.btn-row{
+  display:flex;gap:8px;
+  margin-top:24px;
+}
+.btn-row .btn{flex:1}
+.btn-back{
+  background:transparent;
+  color:var(--text-muted);
+  border:2px solid var(--border);
+}
+
+/* ============================================
+   LOADING STATE
+   ============================================ */
+.loading{
+  display:none;
+  text-align:center;
+  padding:60px 20px;
+}
+.loading.show{display:block;animation:fadeSlideIn 0.3s}
+.spinner{
+  width:56px;height:56px;
+  border:4px solid var(--primary-light);
+  border-top:4px solid var(--primary);
+  border-radius:50%;
+  animation:spin 0.8s linear infinite;
+  margin:0 auto 20px;
+}
+@keyframes spin{to{transform:rotate(360deg)}}
+.loading-text{font-size:15px;font-weight:600;color:var(--text)}
+.loading-sub{font-size:12px;color:var(--text-muted);margin-top:4px}
+
+/* ============================================
+   RESULTS (Step 3)
+   ============================================ */
+.result-header{
+  text-align:center;
+  margin-bottom:20px;
+}
+.result-emoji{font-size:48px;display:block;margin-bottom:8px}
+.result-disease{
+  font-size:22px;font-weight:800;
+  color:var(--text);
+  letter-spacing:-0.5px;
+}
+
+/* Confidence + Severity */
+.result-metrics{
+  display:flex;gap:10px;
+  margin-bottom:20px;
+}
+.metric-card{
+  flex:1;
+  padding:14px;
+  border-radius:var(--radius-sm);
+  text-align:center;
+}
+.metric-card.confidence{background:#eff6ff;border:1px solid #bfdbfe}
+.metric-card.severity-Low{background:var(--success-bg);border:1px solid var(--primary-light)}
+.metric-card.severity-Medium{background:var(--warning-bg);border:1px solid #fde68a}
+.metric-card.severity-High{background:var(--danger-bg);border:1px solid #fecaca}
+.metric-label{font-size:11px;font-weight:600;color:var(--text-muted);text-transform:uppercase;letter-spacing:0.5px}
+.metric-value{font-size:22px;font-weight:800;margin-top:2px}
+.metric-card.confidence .metric-value{color:#2563eb}
+.metric-card.severity-Low .metric-value{color:var(--success)}
+.metric-card.severity-Medium .metric-value{color:var(--warning)}
+.metric-card.severity-High .metric-value{color:var(--danger)}
+
+/* Confidence bar */
+.confidence-bar{
+  width:100%;height:6px;
+  background:#e5e7eb;
+  border-radius:3px;
+  margin-top:8px;
+  overflow:hidden;
+}
+.confidence-fill{
+  height:100%;
+  border-radius:3px;
+  transition:width 1s ease-out;
+  background:linear-gradient(90deg,var(--primary),#22d3ee);
+}
+
+/* Info sections */
+.info-section{
+  margin-top:16px;
+  padding:16px;
+  background:#fafafa;
+  border-radius:var(--radius-sm);
+  border:1px solid var(--border);
+}
+.info-section-title{
+  font-size:13px;font-weight:700;
+  color:var(--text);
+  margin-bottom:8px;
+  display:flex;align-items:center;gap:6px;
+}
+.info-section p{
+  font-size:13px;
+  color:var(--text-muted);
+  line-height:1.6;
+}
+
+/* Treatment list */
+.treatment-list{list-style:none}
+.treatment-list li{
+  padding:8px 0;
+  padding-left:28px;
+  position:relative;
+  font-size:13px;
+  color:var(--text);
+  line-height:1.5;
+  border-bottom:1px solid var(--border);
+}
+.treatment-list li:last-child{border-bottom:none}
+.treatment-list li::before{
+  content:'💊';
+  position:absolute;left:0;top:8px;
+  font-size:14px;
+}
+.treatment-list li:first-child::before{content:'⚡'}
+
+/* Uploaded image in results */
+.result-image{
+  width:100%;max-height:200px;
+  object-fit:cover;
+  border-radius:var(--radius-sm);
+  margin-top:16px;
+  box-shadow:var(--shadow);
+}
+
+/* Error state */
+.error-card{
+  text-align:center;
+  padding:32px 20px;
+}
+.error-icon{font-size:48px;display:block;margin-bottom:12px}
+.error-text{font-size:15px;color:var(--danger);font-weight:600}
+.error-hint{font-size:13px;color:var(--text-muted);margin-top:8px}
+
+/* ============================================
+   FOOTER
+   ============================================ */
+.footer{
+  text-align:center;
+  padding:20px 0;
+  font-size:11px;
+  color:var(--text-light);
+}
+.footer a{color:var(--primary);text-decoration:none;font-weight:600}
+
+/* ============================================
+   RESPONSIVE
+   ============================================ */
+@media(min-width:640px){
+  .app{padding:24px;max-width:560px}
+  .header{padding:40px 0 32px}
+  .header h1{font-size:26px}
+  .card{padding:32px 28px}
+  .progress-label{display:block;font-size:11px;font-weight:600;color:var(--text-muted)}
+  .progress-step{flex-direction:column;gap:4px}
+  .progress-dot.active+.progress-label{color:var(--primary-dark)}
+}
+</style>
+</head>
+<body>
+
+<div class="app">
+
+  <!-- HEADER -->
+  <header class="header">
+    <span class="logo">🍅</span>
+    <h1>FarmGuard AI</h1>
+    <p class="tagline">Smart Disease Detection for Your Tomato Crops</p>
+  </header>
+
+  <!-- PROGRESS BAR -->
+  <div class="progress" id="progressBar">
+    <div class="progress-step">
+      <div class="progress-dot active" id="dot1">1</div>
+      <span class="progress-label">Capture</span>
+    </div>
+    <div class="progress-line" id="line1"></div>
+    <div class="progress-step">
+      <div class="progress-dot" id="dot2">2</div>
+      <span class="progress-label">Weather</span>
+    </div>
+    <div class="progress-line" id="line2"></div>
+    <div class="progress-step">
+      <div class="progress-dot" id="dot3">3</div>
+      <span class="progress-label">Results</span>
+    </div>
+  </div>
+
+  <!-- MAIN CARD -->
+  <div class="card">
+
+    <!-- ============ STEP 1: UPLOAD ============ -->
+    <div class="step active" id="step1">
+      <h2 class="step-title">📸 Upload Leaf Photo</h2>
+      <p class="step-desc">Take a clear photo of the affected tomato leaf and upload it below.</p>
+
+      <div class="upload-area" id="uploadArea">
+        <span class="icon">🌿</span>
+        <div class="text">Tap to upload or drag photo here</div>
+        <div class="subtext">JPG, PNG — max 10MB</div>
+        <input type="file" id="fileInput" accept="image/*" capture="environment">
+      </div>
+
+      <div class="preview" id="preview">
+        <img id="previewImg" src="" alt="Leaf preview">
+        <div class="filename" id="fileName"></div>
+        <button class="change-btn" id="changeBtn">Change photo</button>
+      </div>
+
+      <div class="tips">
+        <div class="tips-title">📋 Photo Tips</div>
+        <ul>
+          <li>Use a single leaf, flat on a surface</li>
+          <li>Make sure the spots/disease area is visible</li>
+          <li>Avoid shadows — take in natural daylight</li>
+          <li>Fill the frame — leaf should be 70%+ of image</li>
+        </ul>
+      </div>
+
+      <button class="btn btn-primary" id="nextBtn1" disabled style="margin-top:20px">
+        Next — Add Weather Info →
+      </button>
+    </div>
+
+    <!-- ============ STEP 2: ENVIRONMENT ============ -->
+    <div class="step" id="step2">
+      <h2 class="step-title">🌤️ Weather Conditions</h2>
+      <p class="step-desc">Tell us about today's weather. This helps the AI be more accurate.</p>
+
+      <div class="form-group">
+        <label class="form-label"><span class="icon-label">🌡️</span> Temperature (°C)</label>
+        <input type="number" class="form-input" id="tempInput"
+               placeholder="e.g. 28" min="0" max="50" value="25">
+        <div class="form-hint">Typical range: 15°C to 40°C</div>
+      </div>
+
+      <div class="form-group">
+        <label class="form-label"><span class="icon-label">💧</span> Humidity (%)</label>
+        <input type="number" class="form-input" id="humInput"
+               placeholder="e.g. 75" min="0" max="100" value="70">
+        <div class="form-hint">Above 80% increases disease risk</div>
+      </div>
+
+      <div class="form-group">
+        <label class="form-label"><span class="icon-label">🌧️</span> Recent Rainfall</label>
+        <div class="rainfall-options">
+          <div class="rainfall-option selected" data-value="low">
+            <span class="rf-icon">🌤️</span>
+            <span class="rf-label">Low</span>
+            <span class="rf-value">≈ 5mm</span>
+          </div>
+          <div class="rainfall-option" data-value="moderate">
+            <span class="rf-icon">🌦️</span>
+            <span class="rf-label">Moderate</span>
+            <span class="rf-value">≈ 25mm</span>
+          </div>
+          <div class="rainfall-option" data-value="high">
+            <span class="rf-icon">🌧️</span>
+            <span class="rf-label">High</span>
+            <span class="rf-value">≈ 50mm</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="btn-row">
+        <button class="btn btn-back" id="backBtn2">← Back</button>
+        <button class="btn btn-primary" id="analyzeBtn">🔬 Analyze Leaf</button>
+      </div>
+    </div>
+
+    <!-- ============ LOADING STATE ============ -->
+    <div class="loading" id="loadingState">
+      <div class="spinner"></div>
+      <div class="loading-text">Analyzing your leaf...</div>
+      <div class="loading-sub">Our AI is examining the image and weather data</div>
+    </div>
+
+    <!-- ============ STEP 3: RESULTS ============ -->
+    <div class="step" id="step3">
+      <div id="resultContent"></div>
+      <button class="btn btn-primary" id="scanAgainBtn" style="margin-top:24px">
+        🔄 Scan Another Leaf
+      </button>
+    </div>
+
+  </div><!-- /card -->
+
+  <footer class="footer">
+    <p>Powered by <strong>EfficientNet AI</strong> · Built for Farmers 🌱</p>
+  </footer>
+
+</div><!-- /app -->
+
+<script>
+/* ============================================
+   FARMGUARD AI — FRONTEND LOGIC
+   ============================================ */
+
+const $ = id => document.getElementById(id);
+
+// State
+let selectedFile = null;
+let selectedRainfall = 'low';
+
+// ─── FILE UPLOAD ─────────────────────────
+const fileInput = $('fileInput');
+const uploadArea = $('uploadArea');
+const preview = $('preview');
+const previewImg = $('previewImg');
+const fileName = $('fileName');
+const nextBtn1 = $('nextBtn1');
+
+fileInput.addEventListener('change', handleFile);
+
+function handleFile(e) {
+  const file = e.target.files[0];
+  if (!file) return;
+
+  // Validate file type
+  if (!file.type.startsWith('image/')) {
+    alert('Please upload an image file (JPG or PNG).');
+    return;
+  }
+
+  // Validate file size (10MB)
+  if (file.size > 10 * 1024 * 1024) {
+    alert('Image too large. Please use an image under 10MB.');
+    return;
+  }
+
+  selectedFile = file;
+  fileName.textContent = file.name;
+
+  const reader = new FileReader();
+  reader.onload = (ev) => {
+    previewImg.src = ev.target.result;
+    uploadArea.style.display = 'none';
+    preview.classList.add('show');
+    nextBtn1.disabled = false;
+  };
+  reader.readAsDataURL(file);
+}
+
+// Change photo
+$('changeBtn').addEventListener('click', () => {
+  selectedFile = null;
+  fileInput.value = '';
+  uploadArea.style.display = 'block';
+  preview.classList.remove('show');
+  nextBtn1.disabled = true;
+});
+
+// Drag and drop
+uploadArea.addEventListener('dragover', e => {
+  e.preventDefault();
+  uploadArea.classList.add('dragover');
+});
+uploadArea.addEventListener('dragleave', () => {
+  uploadArea.classList.remove('dragover');
+});
+uploadArea.addEventListener('drop', e => {
+  e.preventDefault();
+  uploadArea.classList.remove('dragover');
+  const files = e.dataTransfer.files;
+  if (files.length > 0) {
+    fileInput.files = files;
+    handleFile({ target: { files } });
+  }
+});
+
+// ─── RAINFALL SELECTOR ──────────────────
+document.querySelectorAll('.rainfall-option').forEach(opt => {
+  opt.addEventListener('click', () => {
+    document.querySelectorAll('.rainfall-option').forEach(o => o.classList.remove('selected'));
+    opt.classList.add('selected');
+    selectedRainfall = opt.dataset.value;
+  });
+});
+
+// ─── STEP NAVIGATION ────────────────────
+function goToStep(step) {
+  // Hide all steps
+  document.querySelectorAll('.step').forEach(s => s.classList.remove('active'));
+  $('loadingState').classList.remove('show');
+
+  // Show the target step
+  $('step' + step).classList.add('active');
+
+  // Update progress dots
+  for (let i = 1; i <= 3; i++) {
+    const dot = $('dot' + i);
+    dot.classList.remove('active', 'done');
+    if (i < step) {
+      dot.classList.add('done');
+      dot.textContent = '✓';
+    } else if (i === step) {
+      dot.classList.add('active');
+    } else {
+      dot.textContent = i;
+    }
+  }
+
+  // Update progress lines
+  $('line1').classList.toggle('active', step >= 2);
+  $('line2').classList.toggle('active', step >= 3);
+}
+
+nextBtn1.addEventListener('click', () => goToStep(2));
+$('backBtn2').addEventListener('click', () => goToStep(1));
+$('scanAgainBtn').addEventListener('click', () => {
+  // Reset everything
+  selectedFile = null;
+  fileInput.value = '';
+  uploadArea.style.display = 'block';
+  preview.classList.remove('show');
+  nextBtn1.disabled = true;
+  $('tempInput').value = '25';
+  $('humInput').value = '70';
+  selectedRainfall = 'low';
+  document.querySelectorAll('.rainfall-option').forEach(o => o.classList.remove('selected'));
+  document.querySelector('.rainfall-option[data-value="low"]').classList.add('selected');
+  goToStep(1);
+});
+
+// ─── ANALYZE (API CALL) ─────────────────
+$('analyzeBtn').addEventListener('click', async () => {
+  if (!selectedFile) {
+    alert('Please upload an image first.');
+    goToStep(1);
+    return;
+  }
+
+  // Show loading
+  document.querySelectorAll('.step').forEach(s => s.classList.remove('active'));
+  $('loadingState').classList.add('show');
+
+  // Build FormData
+  const formData = new FormData();
+  formData.append('file', selectedFile);
+  formData.append('temperature', $('tempInput').value || '25');
+  formData.append('humidity', $('humInput').value || '70');
+  formData.append('rainfall', selectedRainfall);
+
+  try {
+    const resp = await fetch('/predict', { method: 'POST', body: formData });
+    const data = await resp.json();
+
+    if (data.error) {
+      showError(data.error);
+    } else {
+      showResults(data);
+    }
+  } catch (err) {
+    showError('Network error. Please check your connection and try again.');
+  }
+});
+
+// ─── SHOW RESULTS ───────────────────────
+function showResults(data) {
+  const severityColors = {
+    Low: 'severity-Low',
+    Medium: 'severity-Medium',
+    High: 'severity-High'
+  };
+  const severityEmoji = { Low: '🟢', Medium: '🟡', High: '🔴' };
+
+  const treatmentHTML = data.treatment
+    .map(t => `<li>${t}</li>`)
+    .join('');
+
+  $('resultContent').innerHTML = `
+    <div class="result-header">
+      <span class="result-emoji">${data.emoji}</span>
+      <div class="result-disease">${data.disease}</div>
+    </div>
+
+    <div class="result-metrics">
+      <div class="metric-card confidence">
+        <div class="metric-label">AI Confidence</div>
+        <div class="metric-value">${data.confidence_pct}%</div>
+        <div class="confidence-bar">
+          <div class="confidence-fill" id="confFill" style="width:0%"></div>
+        </div>
+      </div>
+      <div class="metric-card ${severityColors[data.severity]}">
+        <div class="metric-label">Severity</div>
+        <div class="metric-value">${severityEmoji[data.severity]} ${data.severity}</div>
+      </div>
+    </div>
+
+    <div class="info-section">
+      <div class="info-section-title">🔍 What is this disease?</div>
+      <p>${data.description}</p>
+    </div>
+
+    <div class="info-section">
+      <div class="info-section-title">⚠️ What causes it?</div>
+      <p>${data.cause}</p>
+    </div>
+
+    <div class="info-section">
+      <div class="info-section-title">💊 What should you do?</div>
+      <ul class="treatment-list">${treatmentHTML}</ul>
+    </div>
+
+    <img class="result-image" src="${data.image_path}" alt="Analyzed leaf">
+  `;
+
+  goToStep(3);
+
+  // Animate confidence bar
+  setTimeout(() => {
+    const fill = document.getElementById('confFill');
+    if (fill) fill.style.width = data.confidence_pct + '%';
+  }, 100);
+}
+
+function showError(message) {
+  $('resultContent').innerHTML = `
+    <div class="error-card">
+      <span class="error-icon">😕</span>
+      <div class="error-text">${message}</div>
+      <div class="error-hint">Try taking a clearer photo with better lighting</div>
+    </div>
+  `;
+  goToStep(3);
+}
+
+</script>
+
+</body>
+</html>
